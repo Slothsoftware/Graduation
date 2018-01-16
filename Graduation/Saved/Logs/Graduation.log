@@ -1,4 +1,4 @@
-﻿Log file open, 01/16/18 14:18:14
+﻿Log file open, 01/16/18 15:07:14
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -7,12 +7,12 @@ LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: Graduation
 LogPlatformFile: Not using cached read wrapper
-LogInit: Display: RandInit(309486113) SRandInit(309486113).
+LogInit: Display: RandInit(-1327818631) SRandInit(-1327818631).
 LogInit: Read version file with build ID '3709383'
 LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
 LogInit: Registered custom module enumerator with build ID '3709383'
 LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.191670
+LogStats: Stats thread started at 0.175536
 LogD3D11RHI: Aftermath initialized
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
@@ -194,156 +194,228 @@ LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win
 LogInit: Installed Engine Build: 1
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
-[2018.01.16-05.18.16:024][  0]LogInit: Selected Device Profile: [Windows]
-[2018.01.16-05.18.16:024][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2018.01.16-05.18.16:094][  0]LogInit: Computer: DESKTOP-LNEO1MM
-[2018.01.16-05.18.16:094][  0]LogInit: User: yudainishikawa
-[2018.01.16-05.18.16:094][  0]LogInit: CPU Page size=4096, Cores=4
-[2018.01.16-05.18.16:095][  0]LogInit: High frequency timer resolution =2.531248 MHz
-[2018.01.16-05.18.16:095][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
-[2018.01.16-05.18.16:095][  0]LogMemory: Platform Memory Stats for Windows
-[2018.01.16-05.18.16:095][  0]LogMemory: Process Physical Memory: 273.82 MB used, 273.82 MB peak
-[2018.01.16-05.18.16:095][  0]LogMemory: Process Virtual Memory: 269.79 MB used, 269.79 MB peak
-[2018.01.16-05.18.16:095][  0]LogMemory: Physical Memory: 4521.59 MB used,  3543.38 MB free, 8064.96 MB total
-[2018.01.16-05.18.16:095][  0]LogMemory: Virtual Memory: 677.30 MB used,  3543.38 MB free, 134217728.00 MB total
-[2018.01.16-05.18.16:382][  0]LogInit: Using OS detected language (ja-JP).
-[2018.01.16-05.18.16:382][  0]LogInit: Using OS detected locale (ja-JP).
-[2018.01.16-05.18.16:454][  0]LogTextLocalizationManager: No specific localization for 'ja-JP' exists, so the 'ja' localization will be used.
-[2018.01.16-05.18.16:755][  0]LogInit: Setting process to per monitor DPI aware
-[2018.01.16-05.18.23:741][  0]LogD3D11RHI: D3D11 adapters:
-[2018.01.16-05.18.23:865][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960M' (Feature Level 11_0)
-[2018.01.16-05.18.23:865][  0]LogD3D11RHI:       4065/0/4032 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
-[2018.01.16-05.18.23:885][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
-[2018.01.16-05.18.23:885][  0]LogD3D11RHI:       128/0/4032 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
-[2018.01.16-05.18.23:893][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2018.01.16-05.18.23:893][  0]LogD3D11RHI:       0/0/4032 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2018.01.16-05.18.23:893][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2018.01.16-05.18.23:908][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2018.01.16-05.18.23:908][  0]LogD3D11RHI:     GPU DeviceId: 0x139b (for the marketing name, search the web for "GPU Device Id")
-[2018.01.16-05.18.23:908][  0]LogWindows: EnumDisplayDevices:
-[2018.01.16-05.18.23:908][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
-[2018.01.16-05.18.23:909][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
-[2018.01.16-05.18.23:909][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
-[2018.01.16-05.18.23:909][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
-[2018.01.16-05.18.23:909][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960M
-[2018.01.16-05.18.23:909][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
-[2018.01.16-05.18.23:909][  0]LogD3D11RHI:      Driver Date: Unknown
-[2018.01.16-05.18.23:909][  0]LogRHI: Texture pool is 2846 MB (70% of 4065 MB)
-[2018.01.16-05.18.23:969][  0]LogD3D11RHI: Async texture creation enabled
-[2018.01.16-05.18.23:987][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
-[2018.01.16-05.18.23:988][  0]LogShaderCompilers: Guid format shader working directory is -17 characters bigger than the processId version (../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Intermediate/Shaders/WorkingDirectory/5684/).
-[2018.01.16-05.18.23:988][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/yudai nishikawa/AppData/Local/Temp/UnrealShaderWorkingDir/D2F5887D4BCBF46809127E8F9BE3F366/'.
-[2018.01.16-05.18.23:988][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2018.01.16-05.18.28:732][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
-[2018.01.16-05.18.28:788][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
-[2018.01.16-05.18.28:841][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
-[2018.01.16-05.18.28:893][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
-[2018.01.16-05.18.28:953][  0]LogTemp: Display: Loaded TP MacTargetPlatform
-[2018.01.16-05.18.29:050][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
-[2018.01.16-05.18.29:124][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
-[2018.01.16-05.18.29:186][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
-[2018.01.16-05.18.29:231][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
-[2018.01.16-05.18.29:282][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
-[2018.01.16-05.18.29:334][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
-[2018.01.16-05.18.29:385][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
-[2018.01.16-05.18.29:436][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
-[2018.01.16-05.18.29:488][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
-[2018.01.16-05.18.29:590][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
-[2018.01.16-05.18.29:591][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
-[2018.01.16-05.18.29:649][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.01.16-05.18.29:689][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
-[2018.01.16-05.18.29:854][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2018.01.16-05.18.29:920][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2018.01.16-05.18.29:975][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
-[2018.01.16-05.18.30:027][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
-[2018.01.16-05.18.30:078][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
-[2018.01.16-05.18.30:184][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
-[2018.01.16-05.18.30:184][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2018.01.16-05.18.30:936][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2018.01.16-05.18.31:017][  0]LogDerivedDataCache: Loaded boot cache 0.08s 78MB C:/Users/yudai nishikawa/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
-[2018.01.16-05.18.31:017][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/yudai nishikawa/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
-[2018.01.16-05.18.31:017][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2018.01.16-05.18.31:017][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2018.01.16-05.18.31:017][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2018.01.16-05.18.31:017][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2018.01.16-05.18.31:035][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2018.01.16-05.18.31:048][  0]LogDerivedDataCache: Using Local data cache path C:/Users/yudai nishikawa/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2018.01.16-05.18.31:060][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2018.01.16-05.18.31:060][  0]LogSlate: Using Freetype 2.6.0
-[2018.01.16-05.18.31:076][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.01.16-05.18.31:076][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.01.16-05.18.32:335][  0]LogInit: Selected Device Profile: [Windows]
-[2018.01.16-05.18.32:738][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2018.01.16-05.18.32:794][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
-[2018.01.16-05.18.32:795][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2018.01.16-05.18.32:795][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
-[2018.01.16-05.18.32:795][  0]LogMeshReduction: No automatic mesh merging module available
-[2018.01.16-05.18.32:795][  0]LogMeshMerging: No automatic mesh merging module available
-[2018.01.16-05.18.32:833][  0]LogNetVersion: Graduation , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1134082851)
-[2018.01.16-05.18.33:265][  0]LogAssetRegistry: FAssetRegistry took 0.0283 seconds to start up
-[2018.01.16-05.18.34:383][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.151681 seconds
-[2018.01.16-05.18.34:396][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
-[2018.01.16-05.18.34:396][  0]LogUObjectAllocator: 7372016 out of 0 bytes used by permanent object pool.
-[2018.01.16-05.18.34:396][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2018.01.16-05.18.34:488][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
-[2018.01.16-05.18.50:596][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2018.01.16-05.18.50:703][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2018.01.16-05.18.51:620][  0]LogMaterial: Uniform references updated for custom material expression Custom.
-[2018.01.16-05.18.52:315][  0]SourceControl: ソースコントロールは無効です
-[2018.01.16-05.18.52:315][  0]SourceControl: ソースコントロールは無効です
-[2018.01.16-05.18.52:416][  0]SourceControl: ソースコントロールは無効です
-[2018.01.16-05.18.52:473][  0]SourceControl: ソースコントロールは無効です
-[2018.01.16-05.18.53:782][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2018.01.16-05.18.54:104][  0]LogOcInput: OculusInput pre-init called
-[2018.01.16-05.18.54:567][  0]LogEngine: Initializing Engine...
-[2018.01.16-05.18.54:570][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2018.01.16-05.18.55:028][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.01.16-05.18.55:028][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2018.01.16-05.18.55:182][  0]LogAIModule: Creating AISystem for world Untitled
-[2018.01.16-05.18.55:190][  0]LogInit: XAudio2 using 'スピーカー / ヘッドホン (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2018.01.16-05.18.55:213][  0]LogInit: FAudioDevice initialized.
-[2018.01.16-05.18.55:439][  0]LogDerivedDataCache: Saved boot cache 0.22s 78MB C:/Users/yudai nishikawa/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
-[2018.01.16-05.18.55:461][  0]LogInit: Texture streaming: Enabled
-[2018.01.16-05.18.55:670][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2018.01.16-05.18.55:826][  0]LogInit: Transaction tracking system initialized
-[2018.01.16-05.18.56:156][  0]BlueprintLog: New page: エディタの読み込み
-[2018.01.16-05.18.57:385][  0]LocalizationService: ローカライズのサービスが無効になりました
-[2018.01.16-05.18.58:435][  0]LogConsoleResponse: Display: 
-[2018.01.16-05.18.58:642][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2018.01.16-05.18.58:642][  0]LogCook: Display: Mobile HDR setting 1
-[2018.01.16-05.18.58:642][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
-[2018.01.16-05.18.59:104][  0]LogFileCache: Scanning file cache for directory 'C:/Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Content/' took 0.02s
-[2018.01.16-05.19.00:294][  0]SourceControl: ソースコントロールは無効です
-[2018.01.16-05.19.00:294][  0]Cmd: MAP LOAD FILE="../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.01.16-05.19.00:295][  0]LightingResults: New page: ライティングのビルド
-[2018.01.16-05.19.00:338][  0]MapCheck: New page: マップをチェック
-[2018.01.16-05.19.00:338][  0]LightingResults: New page: <何も選択されていません>
-[2018.01.16-05.19.01:057][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
-[2018.01.16-05.19.01:073][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2018.01.16-05.19.01:095][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.01.16-05.19.01:200][  0]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 104.684ミリ秒かかりました。
-[2018.01.16-05.19.01:200][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.906
-[2018.01.16-05.19.01:440][  0]LogCollectionManager: Loaded 0 collections in 0.002148 seconds
-[2018.01.16-05.19.01:549][  0]LogFileCache: Scanning file cache for directory 'C:/Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Saved/Collections/' took 0.01s
-[2018.01.16-05.19.01:549][  0]LogFileCache: Scanning file cache for directory 'C:/Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Content/Developers/yudainishikawa/Collections/' took 0.01s
-[2018.01.16-05.19.01:549][  0]LogFileCache: Scanning file cache for directory 'C:/Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Content/Collections/' took 0.01s
-[2018.01.16-05.19.01:549][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
-[2018.01.16-05.19.01:559][  0]LogContentBrowser: Native class hierarchy populated in 0.0089 seconds. Added 2363 classes and 519 folders.
-[2018.01.16-05.19.01:631][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
-[2018.01.16-05.19.01:676][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2018.01.16-05.19.01:724][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
-[2018.01.16-05.19.01:741][  0]LogSlate: Took 0.000284 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2018.01.16-05.19.01:747][  0]LogSlate: Took 0.003651 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
-[2018.01.16-05.19.01:748][  0]LogSlate: Took 0.000242 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2018.01.16-05.19.01:756][  0]LogSlate: Took 0.000213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2018.01.16-05.19.01:862][  0]LogRenderer: Reallocating scene render targets to support 916x460 Format 10 NumSamples 1 (Frame:1).
-[2018.01.16-05.19.02:135][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
-[2018.01.16-05.19.02:135][  0]LogLoad: (Engine Initialization) Total time: 51.14 seconds
-[2018.01.16-05.19.02:135][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2018.01.16-05.19.02:135][  0]LogExternalProfiler: Found external profiler: VSPerf
-[2018.01.16-05.19.02:135][  0]LogExternalProfiler: Using external profiler: VSPerf
-[2018.01.16-05.19.02:165][  0]LogAssetRegistry: Asset discovery search completed in 28.9227 seconds
-[2018.01.16-05.19.02:167][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
-[2018.01.16-05.19.02:167][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000044 seconds (updated 0 objects)
-[2018.01.16-05.19.02:170][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2018.01.16-05.19.02:220][  0]LogSlate: Took 0.000244 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.16-06.07.16:616][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.16-06.07.16:616][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.01.16-06.07.16:716][  0]LogInit: Computer: DESKTOP-LNEO1MM
+[2018.01.16-06.07.16:716][  0]LogInit: User: yudainishikawa
+[2018.01.16-06.07.16:716][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.01.16-06.07.16:716][  0]LogInit: High frequency timer resolution =2.531251 MHz
+[2018.01.16-06.07.16:716][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.01.16-06.07.16:716][  0]LogMemory: Platform Memory Stats for Windows
+[2018.01.16-06.07.16:717][  0]LogMemory: Process Physical Memory: 273.85 MB used, 273.85 MB peak
+[2018.01.16-06.07.16:717][  0]LogMemory: Process Virtual Memory: 269.73 MB used, 269.73 MB peak
+[2018.01.16-06.07.16:717][  0]LogMemory: Physical Memory: 4149.89 MB used,  3915.07 MB free, 8064.96 MB total
+[2018.01.16-06.07.16:717][  0]LogMemory: Virtual Memory: 677.30 MB used,  3915.07 MB free, 134217728.00 MB total
+[2018.01.16-06.07.17:872][  0]LogInit: Using OS detected language (ja-JP).
+[2018.01.16-06.07.17:872][  0]LogInit: Using OS detected locale (ja-JP).
+[2018.01.16-06.07.18:060][  0]LogTextLocalizationManager: No specific localization for 'ja-JP' exists, so the 'ja' localization will be used.
+[2018.01.16-06.07.18:503][  0]LogInit: Setting process to per monitor DPI aware
+[2018.01.16-06.07.24:497][  0]LogD3D11RHI: D3D11 adapters:
+[2018.01.16-06.07.24:544][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960M' (Feature Level 11_0)
+[2018.01.16-06.07.24:544][  0]LogD3D11RHI:       4065/0/4032 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.01.16-06.07.24:552][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2018.01.16-06.07.24:552][  0]LogD3D11RHI:       128/0/4032 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.01.16-06.07.24:554][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.01.16-06.07.24:554][  0]LogD3D11RHI:       0/0/4032 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.01.16-06.07.24:554][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.01.16-06.07.24:559][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.01.16-06.07.24:559][  0]LogD3D11RHI:     GPU DeviceId: 0x139b (for the marketing name, search the web for "GPU Device Id")
+[2018.01.16-06.07.24:559][  0]LogWindows: EnumDisplayDevices:
+[2018.01.16-06.07.24:559][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2018.01.16-06.07.24:559][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.01.16-06.07.24:560][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.01.16-06.07.24:560][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.01.16-06.07.24:560][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960M
+[2018.01.16-06.07.24:560][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.01.16-06.07.24:560][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.01.16-06.07.24:560][  0]LogRHI: Texture pool is 2846 MB (70% of 4065 MB)
+[2018.01.16-06.07.24:585][  0]LogD3D11RHI: Async texture creation enabled
+[2018.01.16-06.07.24:598][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.01.16-06.07.24:598][  0]LogShaderCompilers: Guid format shader working directory is -17 characters bigger than the processId version (../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Intermediate/Shaders/WorkingDirectory/3004/).
+[2018.01.16-06.07.24:598][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/yudai nishikawa/AppData/Local/Temp/UnrealShaderWorkingDir/16CFAA0147EA884219C976A5B54D0A4F/'.
+[2018.01.16-06.07.24:598][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.01.16-06.07.27:499][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.01.16-06.07.27:551][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.01.16-06.07.27:602][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.01.16-06.07.27:655][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.01.16-06.07.27:741][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.01.16-06.07.27:796][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.01.16-06.07.27:852][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.01.16-06.07.27:902][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.01.16-06.07.27:947][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.01.16-06.07.28:001][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.01.16-06.07.28:055][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.01.16-06.07.28:109][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.01.16-06.07.28:161][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.01.16-06.07.28:215][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.01.16-06.07.28:312][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.01.16-06.07.28:312][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.01.16-06.07.28:368][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.01.16-06.07.28:409][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.01.16-06.07.28:508][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.01.16-06.07.28:536][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.01.16-06.07.28:588][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.01.16-06.07.28:636][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.01.16-06.07.28:687][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.01.16-06.07.28:752][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.01.16-06.07.28:752][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.01.16-06.07.30:086][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.01.16-06.07.30:986][  0]LogDerivedDataCache: Loaded boot cache 0.90s 78MB C:/Users/yudai nishikawa/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.16-06.07.30:987][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/yudai nishikawa/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.01.16-06.07.30:987][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.01.16-06.07.30:987][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.01.16-06.07.30:987][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.01.16-06.07.30:987][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.01.16-06.07.31:049][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.01.16-06.07.31:062][  0]LogDerivedDataCache: Using Local data cache path C:/Users/yudai nishikawa/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.01.16-06.07.31:078][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.01.16-06.07.31:079][  0]LogSlate: Using Freetype 2.6.0
+[2018.01.16-06.07.31:093][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.16-06.07.31:093][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.16-06.07.31:927][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.16-06.07.32:701][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.01.16-06.07.32:743][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.01.16-06.07.32:743][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.01.16-06.07.32:743][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.01.16-06.07.32:743][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.01.16-06.07.32:743][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.01.16-06.07.32:800][  0]LogNetVersion: Graduation , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1134082851)
+[2018.01.16-06.07.33:376][  0]LogAssetRegistry: FAssetRegistry took 0.0275 seconds to start up
+[2018.01.16-06.07.34:909][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.096888 seconds
+[2018.01.16-06.07.34:916][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2018.01.16-06.07.34:916][  0]LogUObjectAllocator: 7372016 out of 0 bytes used by permanent object pool.
+[2018.01.16-06.07.34:916][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.01.16-06.07.34:980][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.01.16-06.07.45:064][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.01.16-06.07.45:104][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.01.16-06.07.46:432][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.01.16-06.07.47:234][  0]SourceControl: ソースコントロールは無効です
+[2018.01.16-06.07.47:234][  0]SourceControl: ソースコントロールは無効です
+[2018.01.16-06.07.47:284][  0]SourceControl: ソースコントロールは無効です
+[2018.01.16-06.07.47:334][  0]SourceControl: ソースコントロールは無効です
+[2018.01.16-06.07.48:328][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.01.16-06.07.48:587][  0]LogOcInput: OculusInput pre-init called
+[2018.01.16-06.07.48:917][  0]LogEngine: Initializing Engine...
+[2018.01.16-06.07.48:919][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.01.16-06.07.49:610][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.01.16-06.07.49:610][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.01.16-06.07.49:754][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.01.16-06.07.49:763][  0]LogInit: XAudio2 using 'スピーカー / ヘッドホン (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.16-06.07.50:361][  0]LogInit: FAudioDevice initialized.
+[2018.01.16-06.07.50:562][  0]LogDerivedDataCache: Saved boot cache 0.20s 78MB C:/Users/yudai nishikawa/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.16-06.07.50:573][  0]LogInit: Texture streaming: Enabled
+[2018.01.16-06.07.50:671][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.01.16-06.07.50:804][  0]LogInit: Transaction tracking system initialized
+[2018.01.16-06.07.51:139][  0]BlueprintLog: New page: エディタの読み込み
+[2018.01.16-06.07.52:105][  0]LocalizationService: ローカライズのサービスが無効になりました
+[2018.01.16-06.07.53:071][  0]LogConsoleResponse: Display: 
+[2018.01.16-06.07.54:367][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.01.16-06.07.54:367][  0]LogCook: Display: Mobile HDR setting 1
+[2018.01.16-06.07.54:367][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.01.16-06.07.55:191][  0]LogFileCache: Scanning file cache for directory 'C:/Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Content/' took 0.02s
+[2018.01.16-06.07.56:061][  0]SourceControl: ソースコントロールは無効です
+[2018.01.16-06.07.56:163][  0]LogSlate: Took 0.008930 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.16-06.07.56:252][  0]LogSlate: Took 0.088946 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.01.16-06.08.07:611][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Google 日本語入力).
+[2018.01.16-06.08.07:616][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Google 日本語入力).
+[2018.01.16-06.08.07:628][  0]Cmd: MAP LOAD FILE="../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.16-06.08.07:642][  0]LightingResults: New page: ライティングのビルド
+[2018.01.16-06.08.07:706][  0]MapCheck: New page: マップをチェック
+[2018.01.16-06.08.07:706][  0]LightingResults: New page: <何も選択されていません>
+[2018.01.16-06.08.09:037][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.01.16-06.08.09:080][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.16-06.08.09:101][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.16-06.08.09:192][  0]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 91.545ミリ秒かかりました。
+[2018.01.16-06.08.09:192][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.565
+[2018.01.16-06.08.09:399][  0]LogStats: Warning: MetaData mismatch. Did you assign a stat to two groups? New //STATGROUP_Threads//SplashScreenThread///Thread_724_0///####STATCAT_Advanced#### old //STATGROUP_Threads//SplashScreenThread///Thread_2cfc_0///####STATCAT_Advanced####
+[2018.01.16-06.08.09:399][  0]LogCollectionManager: Loaded 0 collections in 0.004241 seconds
+[2018.01.16-06.08.09:507][  0]LogFileCache: Scanning file cache for directory 'C:/Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Saved/Collections/' took 0.01s
+[2018.01.16-06.08.09:507][  0]LogFileCache: Scanning file cache for directory 'C:/Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Content/Developers/yudainishikawa/Collections/' took 0.01s
+[2018.01.16-06.08.09:507][  0]LogFileCache: Scanning file cache for directory 'C:/Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Content/Collections/' took 0.01s
+[2018.01.16-06.08.09:507][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.01.16-06.08.09:515][  0]LogContentBrowser: Native class hierarchy populated in 0.0079 seconds. Added 2363 classes and 519 folders.
+[2018.01.16-06.08.09:580][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.01.16-06.08.10:968][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.01.16-06.08.11:012][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.01.16-06.08.11:041][  0]LogSlate: Took 0.005977 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.01.16-06.08.11:087][  0]LogSlate: Took 0.041786 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.01.16-06.08.11:363][  0]LogRenderer: Reallocating scene render targets to support 916x460 Format 10 NumSamples 1 (Frame:1).
+[2018.01.16-06.08.11:576][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.01.16-06.08.11:576][  0]LogLoad: (Engine Initialization) Total time: 60.41 seconds
+[2018.01.16-06.08.11:576][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.01.16-06.08.11:577][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.01.16-06.08.11:577][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.01.16-06.08.11:617][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.01.16-06.08.11:686][  0]LogSlate: Took 0.004012 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.16-06.08.11:723][  1]LogAssetRegistry: Asset discovery search completed in 38.3691 seconds
+[2018.01.16-06.08.11:725][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.01.16-06.08.11:725][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000038 seconds (updated 0 objects)
+[2018.01.16-06.08.20:095][487]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.01.16-06.08.36:595][431]MapCheck: New page: マップをチェック
+[2018.01.16-06.08.36:663][431]Cmd: MAP REBUILD ALLVISIBLE
+[2018.01.16-06.08.36:663][431]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.01.16-06.08.36:794][431]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.01.16-06.08.36:821][431]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_1, compiling. 
+[2018.01.16-06.08.36:826][431]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy HelpActorMaterial, compiling. 
+[2018.01.16-06.08.36:833][431]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterial, compiling. 
+[2018.01.16-06.08.36:840][431]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultTextMaterialOpaque, compiling. 
+[2018.01.16-06.08.36:847][431]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2018.01.16-06.08.36:866][431]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2018.01.16-06.08.37:067][431]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_ChestLogo, compiling. 
+[2018.01.16-06.08.37:076][431]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2018.01.16-06.08.40:222][431]TextureStreamingBuild: Display: Compiling optional shaders took 3.435 seconds.
+[2018.01.16-06.08.40:318][431]LogLevel: Display: Export Material TexCoord Scales took 0.096 seconds.
+[2018.01.16-06.08.40:323][431]TextureStreamingBuild: Display: Build Texture Streaming took 0.005 seconds.
+[2018.01.16-06.08.40:723][431]LightingResults: New page: ライティングのビルド - 2018/01/17 0:08:40
+[2018.01.16-06.08.40:993][431]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.01.16-06.08.41:253][431]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.01.16-06.08.41:268][431]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.01.16-06.08.42:328][431]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.01.16-06.08.42:328][431]LogSwarmInterface: [TryOpenConnection] Local Process ID is 3004
+[2018.01.16-06.08.48:179][431]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.01.16-06.08.48:179][431]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.01.16-06.08.48:179][431]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.01.16-06.08.48:179][431]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.01.16-06.08.48:179][431]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.01.16-06.08.48:914][431]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.01.16-06.08.48:914][431]MapCheck: New page: ThirdPersonExampleMap - 2018/01/17 0:08:48
+[2018.01.16-06.08.48:925][431]MapCheck: Error: WorldInfo_0 マップはライティングの再ビルドが必要です 
+[2018.01.16-06.08.48:991][431]MapCheck: マップチェックが完了: 1 エラー、 0 警告、完了に 77.056ミリ秒かかりました。
+[2018.01.16-06.08.49:014][431]LogEditorBuildUtils: Build time 0:12
+[2018.01.16-06.09.00:143][852]Job is a success!
+[2018.01.16-06.09.00:194][853]LogSlate: Took 0.000336 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.16-06.09.00:284][853]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.013s
+[2018.01.16-06.09.00:285][853]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.01.16-06.09.00:285][853]LogVolumetricLightmapImport:      BrickData 245x5x5 = 0.2Mb
+[2018.01.16-06.09.00:285][853]LogVolumetricLightmapImport:      Bricks at Level
+[2018.01.16-06.09.00:285][853]LogVolumetricLightmapImport:          0: 2.0% covering 100.0% of volume
+[2018.01.16-06.09.00:285][853]LogVolumetricLightmapImport:          1: 8.2% covering 6.3% of volume
+[2018.01.16-06.09.00:285][853]LogVolumetricLightmapImport:          2: 89.8% covering 1.1% of volume
+[2018.01.16-06.09.01:282][853]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2018.01.16-06.09.01:282][853]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 128X128)
+[2018.01.16-06.09.01:282][853]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 64X32)
+[2018.01.16-06.09.01:282][853]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2018.01.16-06.09.01:282][853]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 128X128)
+[2018.01.16-06.09.01:282][853]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 128X64)
+[2018.01.16-06.09.01:282][853]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2018.01.16-06.09.01:282][853]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2018.01.16-06.09.01:282][853]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2018.01.16-06.09.02:096][853]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X1024)
+[2018.01.16-06.09.02:226][853]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2018.01.16-06.09.02:270][853]LogStaticLightingSystem: Illumination: 21.5 sec (948 ms encoding lightmaps, 937 ms encoding shadowmaps)
+[2018.01.16-06.09.02:270][853]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 6 textures
+[2018.01.16-06.09.02:270][853]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.01.16-06.09.03:186][853]DumpUnbuiltLightIteractions
+[2018.01.16-06.09.03:186][853]Lights with unbuilt interactions: 0
+[2018.01.16-06.09.03:186][853]
+[2018.01.16-06.09.03:186][853]Primitives with unbuilt interactions: 0
+[2018.01.16-06.09.03:199][854]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.01.16-06.09.03:199][854]MapCheck: New page: ThirdPersonExampleMap - 2018/01/17 0:09:03
+[2018.01.16-06.09.03:255][854]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 56.077ミリ秒かかりました。
+[2018.01.16-06.09.11:891][ 93]LogSavePackage: Save=315.94ms
+[2018.01.16-06.09.11:891][ 93]LogSavePackage: Moving '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Saved/ThirdPersonExampleMapF255D61C480794B6AEC6A9BA9ED56FFA.tmp' to '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.01.16-06.09.11:916][ 93]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.01.16-06.09.15:288][ 93]LogSlate: Took 0.000388 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.16-06.09.15:423][ 93]LogSavePackage: Save=1396.20ms
+[2018.01.16-06.09.15:423][ 93]LogSavePackage: Moving '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Saved/ThirdPersonExampleMap_BuiltData42F3243948ED9C74A6E8AD8239D9B853.tmp' to '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.01.16-06.09.15:783][ 93]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
