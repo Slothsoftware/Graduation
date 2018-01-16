@@ -5629,3 +5629,145 @@ LogInit: Object subsystem initialized
 [2018.01.16-09.27.18:378][382]LogSavePackage: Save=186.25ms
 [2018.01.16-09.27.18:378][382]LogSavePackage: Moving '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Saved/ThirdPersonExampleMap_BuiltData0A6B0A95403D5904BD490D9DA4866B37.tmp' to '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
 [2018.01.16-09.27.18:381][382]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.01.16-09.32.49:226][683]MapCheck: New page: マップをチェック
+[2018.01.16-09.32.49:360][683]Cmd: MAP REBUILD ALLVISIBLE
+[2018.01.16-09.32.49:360][683]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.01.16-09.32.49:833][683]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.01.16-09.32.49:841][683]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_1, compiling. 
+[2018.01.16-09.32.49:849][683]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy HelpActorMaterial, compiling. 
+[2018.01.16-09.32.49:857][683]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterial, compiling. 
+[2018.01.16-09.32.49:864][683]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultTextMaterialOpaque, compiling. 
+[2018.01.16-09.32.49:872][683]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2018.01.16-09.32.49:882][683]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MariaMat, compiling. 
+[2018.01.16-09.32.49:891][683]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2018.01.16-09.32.49:902][683]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_ChestLogo, compiling. 
+[2018.01.16-09.32.49:916][683]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2018.01.16-09.32.51:011][683]TextureStreamingBuild: Display: Compiling optional shaders took 1.208 seconds.
+[2018.01.16-09.32.51:030][683]LogLevel: Display: Export Material TexCoord Scales took 0.019 seconds.
+[2018.01.16-09.32.51:037][683]TextureStreamingBuild: Display: Build Texture Streaming took 0.007 seconds.
+[2018.01.16-09.32.51:054][683]LightingResults: New page: ライティングのビルド - 2018/01/17 3:32:51
+[2018.01.16-09.32.51:242][683]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.01.16-09.32.51:376][683]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.01.16-09.32.51:390][683]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.01.16-09.32.53:048][683]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.01.16-09.32.53:048][683]LogSwarmInterface: [TryOpenConnection] Local Process ID is 1772
+[2018.01.16-09.32.55:712][683]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.01.16-09.32.55:713][683]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.01.16-09.32.55:713][683]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.01.16-09.32.55:713][683]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.01.16-09.32.55:713][683]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.01.16-09.32.55:892][683]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.01.16-09.32.55:893][683]MapCheck: New page: ThirdPersonExampleMap - 2018/01/17 3:32:55
+[2018.01.16-09.32.55:905][683]MapCheck: Warning: PlayerAnimBP_37 SkeletalMeshActor '/Game/PlayerBP/maria_prop_j_j_ong.maria_prop_j_j_ong'はシャドウをキャストしますがPhysicsアセットが割り当てられていません。低解像度かつ非効率的なシャドウを作成します。 
+[2018.01.16-09.32.58:536][683]MapCheck: マップチェックが完了: 0 エラー、 1 警告、完了に 2,643.266ミリ秒かかりました。
+[2018.01.16-09.32.58:561][683]LogEditorBuildUtils: Build time 0:09
+[2018.01.16-09.33.06:546][734]Job is a success!
+[2018.01.16-09.33.07:137][735]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.011s
+[2018.01.16-09.33.07:137][735]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.01.16-09.33.07:137][735]LogVolumetricLightmapImport:      BrickData 245x5x5 = 0.2Mb
+[2018.01.16-09.33.07:137][735]LogVolumetricLightmapImport:      Bricks at Level
+[2018.01.16-09.33.07:137][735]LogVolumetricLightmapImport:          0: 2.0% covering 100.0% of volume
+[2018.01.16-09.33.07:137][735]LogVolumetricLightmapImport:          1: 8.2% covering 6.3% of volume
+[2018.01.16-09.33.07:137][735]LogVolumetricLightmapImport:          2: 89.8% covering 1.1% of volume
+[2018.01.16-09.33.07:944][735]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2018.01.16-09.33.07:944][735]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2018.01.16-09.33.07:944][735]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 128X128)
+[2018.01.16-09.33.07:944][735]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2018.01.16-09.33.07:944][735]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 128X64)
+[2018.01.16-09.33.07:944][735]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 128X128)
+[2018.01.16-09.33.07:944][735]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 64X32)
+[2018.01.16-09.33.07:944][735]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2018.01.16-09.33.07:944][735]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2018.01.16-09.33.08:143][735]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2018.01.16-09.33.08:243][735]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X1024)
+[2018.01.16-09.33.08:339][735]Lightmass on DESKTOP-LNEO1MM: 6.85 sec total, 522 ms importing, 81 ms setup, 1.32 sec photons, 4.84 sec processing, 0 ms extra exporting [7/7 mappings]. Threads: 33.7 sec total, 7.86 sec processing.
+[2018.01.16-09.33.08:380][735]LogStaticLightingSystem: Illumination: 17.0 sec (683 ms encoding lightmaps, 296 ms encoding shadowmaps)
+[2018.01.16-09.33.08:380][735]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 6 textures
+[2018.01.16-09.33.08:381][735]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.01.16-09.33.08:721][735]DumpUnbuiltLightIteractions
+[2018.01.16-09.33.08:721][735]Lights with unbuilt interactions: 0
+[2018.01.16-09.33.08:721][735]
+[2018.01.16-09.33.08:721][735]Primitives with unbuilt interactions: 0
+[2018.01.16-09.33.08:742][736]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.01.16-09.33.08:742][736]MapCheck: New page: ThirdPersonExampleMap - 2018/01/17 3:33:08
+[2018.01.16-09.33.08:743][736]MapCheck: Warning: PlayerAnimBP_37 SkeletalMeshActor '/Game/PlayerBP/maria_prop_j_j_ong.maria_prop_j_j_ong'はシャドウをキャストしますがPhysicsアセットが割り当てられていません。低解像度かつ非効率的なシャドウを作成します。 
+[2018.01.16-09.33.08:969][736]MapCheck: マップチェックが完了: 0 エラー、 1 警告、完了に 225.944ミリ秒かかりました。
+[2018.01.16-09.33.15:739][894]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (PlayerAnimBP)
+[2018.01.16-09.33.17:023][932]Cmd: TRANSACTION UNDO
+[2018.01.16-09.33.17:023][932]LogEditorTransaction: Undo アクタをクリック
+[2018.01.16-09.33.21:589][ 56]Cmd: DELETE
+[2018.01.16-09.33.21:589][ 56]Cmd: ACTOR DELETE
+[2018.01.16-09.33.21:598][ 56]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2018.01.16-09.33.21:643][ 56]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2018.01.16-09.33.32:585][245]MapCheck: New page: マップをチェック
+[2018.01.16-09.33.32:718][245]Cmd: MAP REBUILD ALLVISIBLE
+[2018.01.16-09.33.32:718][245]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.01.16-09.33.32:861][245]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.01.16-09.33.32:868][245]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_2, compiling. 
+[2018.01.16-09.33.32:875][245]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy HelpActorMaterial, compiling. 
+[2018.01.16-09.33.32:883][245]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterial, compiling. 
+[2018.01.16-09.33.32:893][245]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultTextMaterialOpaque, compiling. 
+[2018.01.16-09.33.32:901][245]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2018.01.16-09.33.32:910][245]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2018.01.16-09.33.32:926][245]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_ChestLogo, compiling. 
+[2018.01.16-09.33.32:936][245]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2018.01.16-09.33.33:919][245]TextureStreamingBuild: Display: Compiling optional shaders took 1.063 seconds.
+[2018.01.16-09.33.33:930][245]LogLevel: Display: Export Material TexCoord Scales took 0.012 seconds.
+[2018.01.16-09.33.33:937][245]TextureStreamingBuild: Display: Build Texture Streaming took 0.006 seconds.
+[2018.01.16-09.33.33:953][245]LightingResults: New page: ライティングのビルド - 2018/01/17 3:33:33
+[2018.01.16-09.33.33:961][245]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.01.16-09.33.33:964][245]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.01.16-09.33.33:964][245]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.01.16-09.33.33:965][245]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.01.16-09.33.33:965][245]LogSwarmInterface: [TryOpenConnection] Local Process ID is 1772
+[2018.01.16-09.33.38:579][245]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.01.16-09.33.38:579][245]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.01.16-09.33.38:579][245]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.01.16-09.33.38:579][245]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.01.16-09.33.38:579][245]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.01.16-09.33.38:691][245]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.01.16-09.33.38:691][245]MapCheck: New page: ThirdPersonExampleMap - 2018/01/17 3:33:38
+[2018.01.16-09.33.38:762][245]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 70.371ミリ秒かかりました。
+[2018.01.16-09.33.38:785][245]LogEditorBuildUtils: Build time 0:06
+[2018.01.16-09.33.43:455][275]LogSavePackage: Save=335.49ms
+[2018.01.16-09.33.43:455][275]LogSavePackage: Moving '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Saved/ThirdPersonExampleMap86D0F65E491C8B9515858ABD907EDB2B.tmp' to '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.01.16-09.33.43:463][275]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.01.16-09.33.43:788][275]LogSavePackage: Save=147.52ms
+[2018.01.16-09.33.43:788][275]LogSavePackage: Moving '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Saved/ThirdPersonExampleMap_BuiltDataED6189E5462FE5D6A2B7E198EBDE85AD.tmp' to '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.01.16-09.33.43:793][275]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.01.16-09.33.45:115][293]Job is a success!
+[2018.01.16-09.33.45:313][294]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.021s
+[2018.01.16-09.33.45:313][294]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.01.16-09.33.45:313][294]LogVolumetricLightmapImport:      BrickData 245x5x5 = 0.2Mb
+[2018.01.16-09.33.45:313][294]LogVolumetricLightmapImport:      Bricks at Level
+[2018.01.16-09.33.45:313][294]LogVolumetricLightmapImport:          0: 2.0% covering 100.0% of volume
+[2018.01.16-09.33.45:313][294]LogVolumetricLightmapImport:          1: 8.2% covering 6.3% of volume
+[2018.01.16-09.33.45:313][294]LogVolumetricLightmapImport:          2: 89.8% covering 1.1% of volume
+[2018.01.16-09.33.45:988][294]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2018.01.16-09.33.45:988][294]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2018.01.16-09.33.45:988][294]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 128X64)
+[2018.01.16-09.33.45:988][294]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2018.01.16-09.33.45:988][294]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 128X128)
+[2018.01.16-09.33.45:988][294]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 128X128)
+[2018.01.16-09.33.45:988][294]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 64X32)
+[2018.01.16-09.33.45:988][294]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2018.01.16-09.33.45:988][294]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2018.01.16-09.33.46:188][294]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 32X32)
+[2018.01.16-09.33.46:284][294]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 1024X1024)
+[2018.01.16-09.33.46:301][294]Lightmass on DESKTOP-LNEO1MM: 6.05 sec total, 181 ms importing, 83 ms setup, 1.53 sec photons, 4.23 sec processing, 0 ms extra exporting [7/7 mappings]. Threads: 29.4 sec total, 7.80 sec processing.
+[2018.01.16-09.33.46:418][294]LogStaticLightingSystem: Illumination: 12.3 sec (591 ms encoding lightmaps, 292 ms encoding shadowmaps)
+[2018.01.16-09.33.46:419][294]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 6 textures
+[2018.01.16-09.33.46:419][294]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.01.16-09.33.46:585][294]DumpUnbuiltLightIteractions
+[2018.01.16-09.33.46:585][294]Lights with unbuilt interactions: 0
+[2018.01.16-09.33.46:585][294]
+[2018.01.16-09.33.46:585][294]Primitives with unbuilt interactions: 0
+[2018.01.16-09.33.46:593][295]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.01.16-09.33.46:593][295]MapCheck: New page: ThirdPersonExampleMap - 2018/01/17 3:33:46
+[2018.01.16-09.33.51:409][295]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 4,815.589ミリ秒かかりました。
+[2018.01.16-09.33.53:980][339]LogSavePackage: Save=374.85ms
+[2018.01.16-09.33.53:980][339]LogSavePackage: Moving '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Saved/ThirdPersonExampleMapDF2E5E304410C2897329A8A0CB9AF912.tmp' to '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.01.16-09.33.53:986][339]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.01.16-09.33.54:281][339]LogSavePackage: Save=243.27ms
+[2018.01.16-09.33.54:281][339]LogSavePackage: Moving '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Saved/ThirdPersonExampleMap_BuiltData2481849E4850CEEC7481E9AFCDB9BBA4.tmp' to '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.01.16-09.33.54:289][339]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
