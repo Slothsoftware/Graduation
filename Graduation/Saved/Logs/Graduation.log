@@ -2176,3 +2176,1155 @@ LogInit: Object subsystem initialized
 [2018.01.19-05.14.28:050][918]LogSavePackage: Save=382.68ms
 [2018.01.19-05.14.28:057][918]LogSavePackage: Moving '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/BTTask_FindPlayerE5D8C4DA49860CC5A4E863AC612EDB4D.tmp' to '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Content/EnemyCharacter/AI/BTTask_FindPlayer.uasset'
 [2018.01.19-05.14.28:061][918]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Content/EnemyCharacter/AI/BTTask_FindPlayer.uasset
+[2018.01.19-05.16.35:062][785]LogTemp: Repeating last play command: 選択ビューポート
+[2018.01.19-05.16.35:095][785]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.19-05.16.35:100][785]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.19-05.16.35:100][785]PIE: New page: PIEセッション: ThirdPersonExampleMap (2018/01/19 23:16:35)
+[2018.01.19-05.16.35:100][785]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.01.19-05.16.35:125][785]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024804s)
+[2018.01.19-05.16.35:126][785]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.01.19-05.16.35:126][785]LogPlayLevel: PIE: World Init took: (0.001583s)
+[2018.01.19-05.16.35:127][785]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.026937s)
+[2018.01.19-05.16.35:158][785]LogInit: XAudio2 using 'スピーカー / ヘッドホン (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.19-05.16.35:171][785]LogInit: FAudioDevice initialized.
+[2018.01.19-05.16.35:205][785]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.19-05.16.35:208][785]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.01.19-14.16.35
+[2018.01.19-05.16.35:209][785]LogWorld: Bringing up level for play took: 0.002459
+[2018.01.19-05.16.35:211][785]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.7のプレイ イン エディタの開始時間
+[2018.01.19-05.16.35:211][785]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.19-05.17.19:030][410]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.19-05.17.19:072][410]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.19-05.18.06:858][242]BlueprintLog: New page: EnemyCharacter をコンパイル
+[2018.01.19-05.18.13:938][640]BlueprintLog: New page: EnemyCharacter をコンパイル
+[2018.01.19-05.18.39:346][122]LogSavePackage: Save=165.45ms
+[2018.01.19-05.18.39:346][122]LogSavePackage: Moving '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/ThirdPersonExampleMap_Auto420F3F69548944178AFED07954CA4287F.tmp' to '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap'
+[2018.01.19-05.18.39:348][122]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap
+[2018.01.19-05.18.39:354][122]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.230
+[2018.01.19-05.18.39:354][122]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.230
+[2018.01.19-05.18.39:357][122]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/EnemyCharacter/EnemyCharacter] ([1] browsable assets)...
+[2018.01.19-05.18.39:395][122]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/EnemyCharacter/EnemyCharacter.EnemyCharacter]
+[2018.01.19-05.18.39:395][122]OBJ SavePackage: Finished generating thumbnails for package [/Game/EnemyCharacter/EnemyCharacter]
+[2018.01.19-05.18.39:438][122]LogSavePackage: Save=25.78ms
+[2018.01.19-05.18.39:439][122]LogSavePackage: Moving '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/EnemyCharacter_Auto43EB829454A580B19154C0295C31AC549.tmp' to '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/Autosaves/Game/EnemyCharacter/EnemyCharacter_Auto4.uasset'
+[2018.01.19-05.18.39:440][122]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/Autosaves/Game/EnemyCharacter/EnemyCharacter_Auto4.uasset
+[2018.01.19-05.18.39:440][122]LogFileHelpers: Auto-saving content packages took 0.084
+[2018.01.19-05.37.38:878][ 47]LogSavePackage: Save=379.37ms
+[2018.01.19-05.37.38:878][ 47]LogSavePackage: Moving '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/ThirdPersonExampleMap_Auto5E99998484528509CC2F785951C48B058.tmp' to '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.umap'
+[2018.01.19-05.37.38:881][ 47]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.umap
+[2018.01.19-05.37.38:886][ 47]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 6.604
+[2018.01.19-05.37.38:886][ 47]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 6.604
+[2018.01.19-05.37.38:893][ 47]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/EnemyCharacter/EnemyCharacter] ([1] browsable assets)...
+[2018.01.19-05.37.39:084][ 47]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/EnemyCharacter/EnemyCharacter.EnemyCharacter]
+[2018.01.19-05.37.39:084][ 47]OBJ SavePackage: Finished generating thumbnails for package [/Game/EnemyCharacter/EnemyCharacter]
+[2018.01.19-05.37.39:273][ 47]LogSavePackage: Save=49.28ms
+[2018.01.19-05.37.39:273][ 47]LogSavePackage: Moving '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/EnemyCharacter_Auto52084A7A648E270C9C51AE0B3A3754317.tmp' to '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/Autosaves/Game/EnemyCharacter/EnemyCharacter_Auto5.uasset'
+[2018.01.19-05.37.39:275][ 47]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/Autosaves/Game/EnemyCharacter/EnemyCharacter_Auto5.uasset
+[2018.01.19-05.37.39:275][ 47]LogFileHelpers: Auto-saving content packages took 0.384
+[2018.01.19-05.38.12:501][309]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.Actor_13.DebugSkelMeshComponent_24) Already registered. Aborting.
+[2018.01.19-05.38.12:786][309]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_52:PersistentLevel.Actor_13.DebugSkelMeshComponent_24) - call TermArticulated first.
+[2018.01.19-05.38.13:272][309]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.19-05.52.48:163][560]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.Actor_14.DebugSkelMeshComponent_26) Already registered. Aborting.
+[2018.01.19-05.52.48:501][560]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_54:PersistentLevel.Actor_14.DebugSkelMeshComponent_26) - call TermArticulated first.
+[2018.01.19-05.52.48:893][560]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.19-05.53.09:022][100]LogTemp: Repeating last play command: 選択ビューポート
+[2018.01.19-05.53.09:090][100]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.19-05.53.09:096][100]BlueprintLog: New page: プレイ前に自動再コンパイル
+[2018.01.19-05.53.09:098][100]LogPlayLevel: [PlayLevel] Compiling EnemyCharacter before play...
+[2018.01.19-05.53.09:533][100]LogPlayLevel: PlayLevel: Blueprint regeneration took 437 ms (1 blueprints)
+[2018.01.19-05.53.09:548][100]PIE: New page: PIEセッション: ThirdPersonExampleMap (2018/01/19 23:53:09)
+[2018.01.19-05.53.09:548][100]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.01.19-05.53.09:909][100]LogPlayLevel: PIE: StaticDuplicateObject took: (0.360693s)
+[2018.01.19-05.53.09:910][100]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.01.19-05.53.09:911][100]LogPlayLevel: PIE: World Init took: (0.001697s)
+[2018.01.19-05.53.09:911][100]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.362990s)
+[2018.01.19-05.53.09:935][100]LogInit: XAudio2 using 'スピーカー / ヘッドホン (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.19-05.53.09:950][100]LogInit: FAudioDevice initialized.
+[2018.01.19-05.53.09:988][100]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.19-05.53.09:993][100]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.01.19-14.53.09
+[2018.01.19-05.53.09:994][100]LogWorld: Bringing up level for play took: 0.004587
+[2018.01.19-05.53.09:998][100]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.499のプレイ イン エディタの開始時間
+[2018.01.19-05.53.09:999][100]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.19-05.53.45:529][151]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.19-05.53.45:593][151]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.19-05.54.38:636][204]LogSavePackage: Save=169.68ms
+[2018.01.19-05.54.38:637][204]LogSavePackage: Moving '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/ThirdPersonExampleMap_Auto6E8BF7032461A3D157CDC448574E6A61E.tmp' to '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto6.umap'
+[2018.01.19-05.54.38:640][204]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto6.umap
+[2018.01.19-05.54.38:644][204]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.312
+[2018.01.19-05.54.38:644][204]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.312
+[2018.01.19-05.54.38:649][204]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/EnemyCharacter/EnemyCharacter] ([1] browsable assets)...
+[2018.01.19-05.54.38:779][204]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/EnemyCharacter/EnemyCharacter.EnemyCharacter]
+[2018.01.19-05.54.38:779][204]OBJ SavePackage: Finished generating thumbnails for package [/Game/EnemyCharacter/EnemyCharacter]
+[2018.01.19-05.54.38:823][204]LogSavePackage: Save=26.97ms
+[2018.01.19-05.54.38:824][204]LogSavePackage: Moving '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/EnemyCharacter_Auto6CC54B18945A8BE5EB5585EBA7F5EF726.tmp' to '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/Autosaves/Game/EnemyCharacter/EnemyCharacter_Auto6.uasset'
+[2018.01.19-05.54.38:825][204]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/Autosaves/Game/EnemyCharacter/EnemyCharacter_Auto6.uasset
+[2018.01.19-05.54.38:826][204]LogFileHelpers: Auto-saving content packages took 0.178
+[2018.01.19-05.57.22:904][990]LogHttp: Warning: 0000022B2C464100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.01.19-05.57.22:904][990]LogHttp: Warning: 0000022B2C464100: libcurl info message cache 0 (Connection 102 seems to be dead!)
+[2018.01.19-05.57.22:904][990]LogHttp: Warning: 0000022B2C464100: libcurl info message cache 1 (Closing connection 102)
+[2018.01.19-05.57.22:904][990]LogHttp: Warning: 0000022B2C464100: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2018.01.19-05.57.22:904][990]LogHttp: Warning: 0000022B2C464100: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.01.19-05.57.22:904][990]LogHttp: Warning: 0000022B2C464100: libcurl info message cache 4 (Closing connection 103)
+[2018.01.19-06.01.22:705][854]LogHttp: Warning: 0000022B392E8880: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.01.19-06.01.22:705][854]LogHttp: Warning: 0000022B392E8880: libcurl info message cache 0 (Connection 104 seems to be dead!)
+[2018.01.19-06.01.22:705][854]LogHttp: Warning: 0000022B392E8880: libcurl info message cache 1 (Closing connection 104)
+[2018.01.19-06.01.22:705][854]LogHttp: Warning: 0000022B392E8880: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.01.19-06.01.22:705][854]LogHttp: Warning: 0000022B392E8880: libcurl info message cache 3 (Closing connection 105)
+[2018.01.19-06.04.19:930][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnemyCharacter/EnemyCharacter" FILE="../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Content/EnemyCharacter/EnemyCharacter.uasset" SILENT=true
+[2018.01.19-06.04.19:981][667]LogSavePackage: Save=19.85ms
+[2018.01.19-06.04.19:981][667]LogSavePackage: Moving '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/EnemyCharacter8A7F9A5C46A8C6566DAF0CB852957344.tmp' to '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Content/EnemyCharacter/EnemyCharacter.uasset'
+[2018.01.19-06.04.19:985][667]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Content/EnemyCharacter/EnemyCharacter.uasset
+[2018.01.19-06.04.20:715][691]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.01.19-06.04.26:443][802]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_58:PersistentLevel.Actor_15.DebugSkelMeshComponent_28) Already registered. Aborting.
+[2018.01.19-06.04.26:682][802]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_58:PersistentLevel.Actor_15.DebugSkelMeshComponent_28) - call TermArticulated first.
+[2018.01.19-06.04.27:245][802]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.19-06.05.06:929][512]BlueprintLog: New page: EnemyAnimation をコンパイル
+[2018.01.19-06.05.07:055][512]LogBlueprint: Error: [Compiler EnemyAnimation] Object  のタイプが不確定です。特定タイプを暗示するために  Cast To EnemyCharacter  へ何かを接続してください            
+[2018.01.19-06.05.07:056][512]LogBlueprint: Error: [Compiler EnemyAnimation] ' Object ' ピンの現行値は無効です： Unsupported type Object ワイルドカード on pin Object
+[2018.01.19-06.05.07:231][512]LogBlueprint: Warning: [Compiler EnemyAnimation] [5909.62] Compile of EnemyAnimation failed. 2 Fatal Issue(s) 0 Warning(s) [in 302 ms] (/Game/EnemyCharacter/EnemyAnimation.EnemyAnimation)
+[2018.01.19-06.05.38:218][964]BlueprintLog: New page: EnemyAnimation をコンパイル
+[2018.01.19-06.06.24:186][807]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.022
+[2018.01.19-06.06.24:221][807]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/EnemyCharacter/EnemyAnimation] ([1] browsable assets)...
+[2018.01.19-06.06.24:371][807]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/EnemyCharacter/EnemyAnimation.EnemyAnimation]
+[2018.01.19-06.06.24:371][807]OBJ SavePackage: Finished generating thumbnails for package [/Game/EnemyCharacter/EnemyAnimation]
+[2018.01.19-06.06.24:480][807]LogSavePackage: Save=84.69ms
+[2018.01.19-06.06.24:480][807]LogSavePackage: Moving '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/EnemyAnimation_Auto7749BEE3F4ED0BBA1CAD2D1A46167AAD4.tmp' to '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/Autosaves/Game/EnemyCharacter/EnemyAnimation_Auto7.uasset'
+[2018.01.19-06.06.24:484][807]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/Autosaves/Game/EnemyCharacter/EnemyAnimation_Auto7.uasset
+[2018.01.19-06.06.24:484][807]LogFileHelpers: Auto-saving content packages took 0.264
+[2018.01.19-06.11.29:219][501]BlueprintLog: New page: EnemyCharacter をコンパイル
+[2018.01.19-06.11.30:168][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnemyCharacter/EnemyCharacter" FILE="../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Content/EnemyCharacter/EnemyCharacter.uasset" SILENT=true
+[2018.01.19-06.11.30:221][504]LogSavePackage: Save=28.29ms
+[2018.01.19-06.11.30:221][504]LogSavePackage: Moving '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/EnemyCharacterAEF35B9946B7E72BF951EE882EE5D135.tmp' to '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Content/EnemyCharacter/EnemyCharacter.uasset'
+[2018.01.19-06.11.30:227][504]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Content/EnemyCharacter/EnemyCharacter.uasset
+[2018.01.19-06.12.22:784][523]LogHttp: Warning: 0000022B44AFB700: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.01.19-06.12.22:784][523]LogHttp: Warning: 0000022B44AFB700: libcurl info message cache 0 (Connection 112 seems to be dead!)
+[2018.01.19-06.12.22:784][523]LogHttp: Warning: 0000022B44AFB700: libcurl info message cache 1 (Closing connection 112)
+[2018.01.19-06.12.22:784][523]LogHttp: Warning: 0000022B44AFB700: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.01.19-06.12.22:784][523]LogHttp: Warning: 0000022B44AFB700: libcurl info message cache 3 (Closing connection 113)
+[2018.01.19-06.12.35:111][216]BlueprintLog: New page: EnemyCharacter をコンパイル
+[2018.01.19-06.12.36:079][226]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnemyCharacter/EnemyCharacter" FILE="../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Content/EnemyCharacter/EnemyCharacter.uasset" SILENT=true
+[2018.01.19-06.12.36:125][226]LogSavePackage: Save=27.31ms
+[2018.01.19-06.12.36:125][226]LogSavePackage: Moving '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/EnemyCharacterF6A0CE1C4D93A3F66549D7BF69C353BD.tmp' to '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Content/EnemyCharacter/EnemyCharacter.uasset'
+[2018.01.19-06.12.36:130][226]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Content/EnemyCharacter/EnemyCharacter.uasset
+[2018.01.19-06.18.44:964][285]LogSavePackage: Save=191.21ms
+[2018.01.19-06.18.44:964][285]LogSavePackage: Moving '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/ThirdPersonExampleMap_Auto86F8F57D641A76BA2AADE0984DC38B40F.tmp' to '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto8.umap'
+[2018.01.19-06.18.44:968][285]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto8.umap
+[2018.01.19-06.18.44:975][285]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.567
+[2018.01.19-06.18.44:975][285]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.567
+[2018.01.19-06.18.44:987][285]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/EnemyCharacter/EnemyAnimation] ([1] browsable assets)...
+[2018.01.19-06.18.45:155][285]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/EnemyCharacter/EnemyAnimation.EnemyAnimation]
+[2018.01.19-06.18.45:155][285]OBJ SavePackage: Finished generating thumbnails for package [/Game/EnemyCharacter/EnemyAnimation]
+[2018.01.19-06.18.45:287][285]LogSavePackage: Save=113.27ms
+[2018.01.19-06.18.45:287][285]LogSavePackage: Moving '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/EnemyAnimation_Auto845BFBA5B4806D1AADCB7448DBD08295B.tmp' to '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/Autosaves/Game/EnemyCharacter/EnemyAnimation_Auto8.uasset'
+[2018.01.19-06.18.45:290][285]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/Autosaves/Game/EnemyCharacter/EnemyAnimation_Auto8.uasset
+[2018.01.19-06.18.45:290][285]LogFileHelpers: Auto-saving content packages took 0.303
+[2018.01.19-06.27.13:547][820]BlueprintLog: New page: EnemyAnimation をコンパイル
+[2018.01.19-06.27.35:306][287]BlueprintLog: New page: EnemyAnimation をコンパイル
+[2018.01.19-06.27.46:969][599]BlueprintLog: New page: EnemyAnimation をコンパイル
+[2018.01.19-06.30.21:734][973]BlueprintLog: New page: EnemyAnimation をコンパイル
+[2018.01.19-06.30.57:209][513]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.025
+[2018.01.19-06.30.57:223][513]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/EnemyCharacter/EnemyAnimation] ([1] browsable assets)...
+[2018.01.19-06.30.57:392][513]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/EnemyCharacter/EnemyAnimation.EnemyAnimation]
+[2018.01.19-06.30.57:392][513]OBJ SavePackage: Finished generating thumbnails for package [/Game/EnemyCharacter/EnemyAnimation]
+[2018.01.19-06.30.57:521][513]LogSavePackage: Save=106.44ms
+[2018.01.19-06.30.57:521][513]LogSavePackage: Moving '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/EnemyAnimation_Auto9ECAC13904E6017492DCEF9A128BF682D.tmp' to '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/Autosaves/Game/EnemyCharacter/EnemyAnimation_Auto9.uasset'
+[2018.01.19-06.30.57:534][513]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/Autosaves/Game/EnemyCharacter/EnemyAnimation_Auto9.uasset
+[2018.01.19-06.30.57:534][513]LogFileHelpers: Auto-saving content packages took 0.312
+[2018.01.19-06.32.30:290][990]BlueprintLog: New page: EnemyAnimation をコンパイル
+[2018.01.19-06.32.31:986][ 13]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnemyCharacter/EnemyAnimation" FILE="../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Content/EnemyCharacter/EnemyAnimation.uasset" SILENT=true
+[2018.01.19-06.32.32:102][ 13]LogSavePackage: Save=104.86ms
+[2018.01.19-06.32.32:102][ 13]LogSavePackage: Moving '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/EnemyAnimation8E74CA014BC3E9B69BE43AB0854205A4.tmp' to '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Content/EnemyCharacter/EnemyAnimation.uasset'
+[2018.01.19-06.32.32:110][ 13]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Content/EnemyCharacter/EnemyAnimation.uasset
+[2018.01.19-06.35.12:702][166]BlueprintLog: New page: EnemyAnimation をコンパイル
+[2018.01.19-06.35.13:854][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnemyCharacter/EnemyAnimation" FILE="../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Content/EnemyCharacter/EnemyAnimation.uasset" SILENT=true
+[2018.01.19-06.35.14:012][172]LogSavePackage: Save=142.60ms
+[2018.01.19-06.35.14:012][172]LogSavePackage: Moving '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/EnemyAnimation1E3FC71947BDF64E0ABA94B15378DFB7.tmp' to '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Content/EnemyCharacter/EnemyAnimation.uasset'
+[2018.01.19-06.35.14:017][172]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Content/EnemyCharacter/EnemyAnimation.uasset
+[2018.01.19-06.35.39:259][735]BlueprintLog: New page: EnemyAnimation をコンパイル
+[2018.01.19-06.36.23:729][ 21]BlueprintLog: New page: EnemyCharacter をコンパイル
+[2018.01.19-06.36.25:031][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnemyCharacter/EnemyCharacter" FILE="../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Content/EnemyCharacter/EnemyCharacter.uasset" SILENT=true
+[2018.01.19-06.36.25:078][ 30]LogSavePackage: Save=27.53ms
+[2018.01.19-06.36.25:078][ 30]LogSavePackage: Moving '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/EnemyCharacter0F85470C4BCCEFA804BC559ECAC91796.tmp' to '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Content/EnemyCharacter/EnemyCharacter.uasset'
+[2018.01.19-06.36.25:083][ 30]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Content/EnemyCharacter/EnemyCharacter.uasset
+[2018.01.19-06.40.50:037][420]BlueprintLog: New page: EnemyAnimation をコンパイル
+[2018.01.19-06.40.50:982][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnemyCharacter/EnemyAnimation" FILE="../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Content/EnemyCharacter/EnemyAnimation.uasset" SILENT=true
+[2018.01.19-06.40.51:176][424]LogSavePackage: Save=168.65ms
+[2018.01.19-06.40.51:176][424]LogSavePackage: Moving '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/EnemyAnimationAAC4E1604B6D3EE90E81069205619636.tmp' to '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Content/EnemyCharacter/EnemyAnimation.uasset'
+[2018.01.19-06.40.51:181][424]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Content/EnemyCharacter/EnemyAnimation.uasset
+[2018.01.19-06.41.28:158][129]BlueprintLog: New page: EnemyAnimation をコンパイル
+[2018.01.19-06.42.02:029][842]BlueprintLog: New page: EnemyAnimation をコンパイル
+[2018.01.19-06.42.29:270][394]BlueprintLog: New page: EnemyAnimation をコンパイル
+[2018.01.19-06.43.29:214][311]LogSavePackage: Save=210.76ms
+[2018.01.19-06.43.29:214][311]LogSavePackage: Moving '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/ThirdPersonExampleMap_Auto095A00AFB4D5562E2801BD08DD78B6935.tmp' to '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto0.umap'
+[2018.01.19-06.43.29:216][311]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto0.umap
+[2018.01.19-06.43.29:219][311]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.304
+[2018.01.19-06.43.29:219][311]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.304
+[2018.01.19-06.43.29:224][311]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/EnemyCharacter/EnemyAnimation] ([1] browsable assets)...
+[2018.01.19-06.43.29:353][311]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/EnemyCharacter/EnemyAnimation.EnemyAnimation]
+[2018.01.19-06.43.29:353][311]OBJ SavePackage: Finished generating thumbnails for package [/Game/EnemyCharacter/EnemyAnimation]
+[2018.01.19-06.43.29:582][311]LogSavePackage: Save=216.31ms
+[2018.01.19-06.43.29:582][311]LogSavePackage: Moving '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/EnemyAnimation_Auto00C7EC2FB4D9EC7BABED6D5AC5BF42993.tmp' to '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/Autosaves/Game/EnemyCharacter/EnemyAnimation_Auto0.uasset'
+[2018.01.19-06.43.29:586][311]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/Autosaves/Game/EnemyCharacter/EnemyAnimation_Auto0.uasset
+[2018.01.19-06.43.29:586][311]LogFileHelpers: Auto-saving content packages took 0.363
+[2018.01.19-06.44.34:293][507]LogHttp: Warning: 0000022AC1D61900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.01.19-06.44.34:293][507]LogHttp: Warning: 0000022AC1D61900: libcurl info message cache 0 (Connection 128 seems to be dead!)
+[2018.01.19-06.44.34:293][507]LogHttp: Warning: 0000022AC1D61900: libcurl info message cache 1 (Closing connection 128)
+[2018.01.19-06.44.34:293][507]LogHttp: Warning: 0000022AC1D61900: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2018.01.19-06.44.34:293][507]LogHttp: Warning: 0000022AC1D61900: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.01.19-06.44.34:293][507]LogHttp: Warning: 0000022AC1D61900: libcurl info message cache 4 (Closing connection 129)
+[2018.01.19-06.56.13:792][ 60]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.01.19-06.56.22:722][203]LogClass: Warning: In asset 'None', there is an enum property of type 'EAnimationMode' with an invalid value of ''
+[2018.01.19-06.56.22:722][203]LogClass: Warning: In asset 'None', there is an enum property of type 'EAnimationMode' with an invalid value of ''
+[2018.01.19-06.56.22:722][203]LogClass: Warning: In asset 'None', there is an enum property of type 'EAnimationMode' with an invalid value of ''
+[2018.01.19-06.56.22:722][203]LogClass: Warning: In asset 'None', there is an enum property of type 'EAnimationMode' with an invalid value of ''
+[2018.01.19-06.57.36:931][310]BlueprintLog: New page: EnemyCharacter をコンパイル
+[2018.01.19-06.57.37:953][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnemyCharacter/EnemyCharacter" FILE="../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Content/EnemyCharacter/EnemyCharacter.uasset" SILENT=true
+[2018.01.19-06.57.38:003][313]LogSavePackage: Save=28.44ms
+[2018.01.19-06.57.38:003][313]LogSavePackage: Moving '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/EnemyCharacterCB071A7C49217FC8AC9CB7A49AD7128A.tmp' to '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Content/EnemyCharacter/EnemyCharacter.uasset'
+[2018.01.19-06.57.38:010][313]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Content/EnemyCharacter/EnemyCharacter.uasset
+[2018.01.19-06.58.46:037][839]LogSavePackage: Save=192.24ms
+[2018.01.19-06.58.46:037][839]LogSavePackage: Moving '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/ThirdPersonExampleMap_Auto111BAFCB9405B6C29866DD5A3BD3BD405.tmp' to '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2018.01.19-06.58.46:039][839]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap
+[2018.01.19-06.58.46:044][839]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.318
+[2018.01.19-06.58.46:044][839]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.318
+[2018.01.19-06.58.46:048][839]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/EnemyCharacter/EnemyAnimation] ([1] browsable assets)...
+[2018.01.19-06.58.46:175][839]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/EnemyCharacter/EnemyAnimation.EnemyAnimation]
+[2018.01.19-06.58.46:176][839]OBJ SavePackage: Finished generating thumbnails for package [/Game/EnemyCharacter/EnemyAnimation]
+[2018.01.19-06.58.46:366][839]LogSavePackage: Save=174.76ms
+[2018.01.19-06.58.46:366][839]LogSavePackage: Moving '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/EnemyAnimation_Auto1B4E51DE64472575E2B8FC8B0AD14BE4B.tmp' to '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/Autosaves/Game/EnemyCharacter/EnemyAnimation_Auto1.uasset'
+[2018.01.19-06.58.46:373][839]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/Autosaves/Game/EnemyCharacter/EnemyAnimation_Auto1.uasset
+[2018.01.19-06.58.46:374][839]LogFileHelpers: Auto-saving content packages took 0.327
+[2018.01.19-07.02.19:404][382]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.01.19-07.02.26:219][382]LogStats: FPlatformStackWalk::StackWalkAndDump -  6.804 s
+[2018.01.19-07.02.26:220][382]LogOutputDevice: Error: === Handled ensure: ===
+[2018.01.19-07.02.26:220][382]LogOutputDevice: Error: 
+[2018.01.19-07.02.26:220][382]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1029]
+[2018.01.19-07.02.26:220][382]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.01.19-07.02.26:220][382]LogOutputDevice: Error: Stack: 
+[2018.01.19-07.02.26:220][382]LogOutputDevice: Error: [Callstack] 0x0000000091B22786 UE4Editor-Core.dll!UnknownFunction []
+[2018.01.19-07.02.26:220][382]LogOutputDevice: Error: [Callstack] 0x00000000918C123A UE4Editor-Core.dll!UnknownFunction []
+[2018.01.19-07.02.26:220][382]LogOutputDevice: Error: [Callstack] 0x00000000918DB906 UE4Editor-Core.dll!UnknownFunction []
+[2018.01.19-07.02.26:221][382]LogOutputDevice: Error: [Callstack] 0x0000000087B633F6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.01.19-07.02.26:221][382]LogOutputDevice: Error: [Callstack] 0x000000008C2403AB UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.01.19-07.02.26:221][382]LogOutputDevice: Error: [Callstack] 0x0000000086A33EBA UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.01.19-07.02.26:221][382]LogOutputDevice: Error: [Callstack] 0x00000000868C74AC UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.01.19-07.02.26:221][382]LogOutputDevice: Error: [Callstack] 0x00000000868CABF9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.01.19-07.02.26:221][382]LogOutputDevice: Error: [Callstack] 0x00000000869F8225 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.01.19-07.02.26:221][382]LogOutputDevice: Error: [Callstack] 0x0000000099B77397 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.19-07.02.26:221][382]LogOutputDevice: Error: [Callstack] 0x0000000099B7CE61 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.19-07.02.26:221][382]LogOutputDevice: Error: [Callstack] 0x0000000099DB9913 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.19-07.02.26:221][382]LogOutputDevice: Error: [Callstack] 0x0000000099BD3484 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.19-07.02.26:221][382]LogOutputDevice: Error: [Callstack] 0x0000000099BAB68C UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.19-07.02.26:221][382]LogOutputDevice: Error: [Callstack] 0x0000000099B9D6B7 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.19-07.02.26:221][382]LogOutputDevice: Error: [Callstack] 0x00000000A94CE39E UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.01.19-07.02.26:221][382]LogOutputDevice: Error: [Callstack] 0x00000000A94C1A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.01.19-07.02.26:221][382]LogOutputDevice: Error: [Callstack] 0x00000000A94D03EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.01.19-07.02.26:221][382]LogOutputDevice: Error: [Callstack] 0x00000000A94BD5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.01.19-07.02.26:221][382]LogOutputDevice: Error: [Callstack] 0x00000000D4FFB85D USER32.dll!UnknownFunction []
+[2018.01.19-07.02.26:221][382]LogOutputDevice: Error: [Callstack] 0x00000000D4FFB1EF USER32.dll!UnknownFunction []
+[2018.01.19-07.02.26:221][382]LogOutputDevice: Error: [Callstack] 0x00000000A94D1516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.01.19-07.02.26:221][382]LogOutputDevice: Error: [Callstack] 0x00000000185050C8 UE4Editor.exe!UnknownFunction []
+[2018.01.19-07.02.26:221][382]LogOutputDevice: Error: [Callstack] 0x0000000018515430 UE4Editor.exe!UnknownFunction []
+[2018.01.19-07.02.26:221][382]LogOutputDevice: Error: [Callstack] 0x00000000185154AA UE4Editor.exe!UnknownFunction []
+[2018.01.19-07.02.26:221][382]LogOutputDevice: Error: [Callstack] 0x0000000018522379 UE4Editor.exe!UnknownFunction []
+[2018.01.19-07.02.26:221][382]LogOutputDevice: Error: [Callstack] 0x0000000018523D57 UE4Editor.exe!UnknownFunction []
+[2018.01.19-07.02.26:222][382]LogOutputDevice: Error: [Callstack] 0x00000000D3211FE4 KERNEL32.DLL!UnknownFunction []
+[2018.01.19-07.02.26:222][382]LogOutputDevice: Error: [Callstack] 0x00000000D54EEF91 ntdll.dll!UnknownFunction []
+[2018.01.19-07.02.26:222][382]LogOutputDevice: Error: 
+[2018.01.19-07.02.26:240][382]LogStats:                SubmitErrorReport -  0.010 s
+[2018.01.19-07.02.37:831][382]LogStats:                    SendNewReport - 11.591 s
+[2018.01.19-07.02.37:832][382]LogStats:             FDebug::EnsureFailed - 18.427 s
+[2018.01.19-07.02.37:832][382]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.01.19-07.02.59:204][516]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.01.19-07.02.59:204][516]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.01.19-07.02.59:207][516]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.01.19-07.02.59:211][516]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.01.19-07.03.06:285][686]BlueprintLog: New page: EnemyAnimation をコンパイル
+[2018.01.19-07.03.07:319][697]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnemyCharacter/EnemyAnimation" FILE="../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Content/EnemyCharacter/EnemyAnimation.uasset" SILENT=true
+[2018.01.19-07.03.07:513][697]LogSavePackage: Save=180.97ms
+[2018.01.19-07.03.07:513][697]LogSavePackage: Moving '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/EnemyAnimation0928F99F42AC7FB8651FCCA69648CF65.tmp' to '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Content/EnemyCharacter/EnemyAnimation.uasset'
+[2018.01.19-07.03.07:523][697]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Content/EnemyCharacter/EnemyAnimation.uasset
+[2018.01.19-07.03.09:368][737]BlueprintLog: New page: EnemyCharacter をコンパイル
+[2018.01.19-07.03.10:528][749]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnemyCharacter/EnemyCharacter" FILE="../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Content/EnemyCharacter/EnemyCharacter.uasset" SILENT=true
+[2018.01.19-07.03.10:594][749]LogSavePackage: Save=49.62ms
+[2018.01.19-07.03.10:594][749]LogSavePackage: Moving '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/EnemyCharacter6C03FA6E4DF2CC22AE5399B5B2BD96F1.tmp' to '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Content/EnemyCharacter/EnemyCharacter.uasset'
+[2018.01.19-07.03.10:598][749]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Content/EnemyCharacter/EnemyCharacter.uasset
+[2018.01.19-07.08.03:852][652]BlueprintLog: New page: EnemyCharacter をコンパイル
+[2018.01.19-07.08.03:865][652]LogBlueprint: Error: [Compiler EnemyCharacter] このブループリントは ActorComponent ではありません。 ' ターゲット ' に接続が必要です。
+[2018.01.19-07.08.04:344][652]LogBlueprint: Warning: [Compiler EnemyCharacter] [9686.73] Compile of EnemyCharacter failed. 1 Fatal Issue(s) 0 Warning(s) [in 492 ms] (/Game/EnemyCharacter/EnemyCharacter.EnemyCharacter)
+[2018.01.19-07.08.04:821][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnemyCharacter/EnemyCharacter" FILE="../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Content/EnemyCharacter/EnemyCharacter.uasset" SILENT=true
+[2018.01.19-07.08.04:877][661]LogSavePackage: Save=43.24ms
+[2018.01.19-07.08.04:877][661]LogSavePackage: Moving '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/EnemyCharacterAB3F0C0546C06CFEBFAA818F235808D5.tmp' to '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Content/EnemyCharacter/EnemyCharacter.uasset'
+[2018.01.19-07.08.04:885][661]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Content/EnemyCharacter/EnemyCharacter.uasset
+[2018.01.19-07.08.25:561][631]BlueprintLog: New page: EnemyCharacter をコンパイル
+[2018.01.19-07.08.26:711][646]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnemyCharacter/EnemyCharacter" FILE="../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Content/EnemyCharacter/EnemyCharacter.uasset" SILENT=true
+[2018.01.19-07.08.26:770][646]LogSavePackage: Save=42.35ms
+[2018.01.19-07.08.26:770][646]LogSavePackage: Moving '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/EnemyCharacter226B69D4437D135A793832BC4702FD4C.tmp' to '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Content/EnemyCharacter/EnemyCharacter.uasset'
+[2018.01.19-07.08.26:775][646]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Content/EnemyCharacter/EnemyCharacter.uasset
+[2018.01.19-07.08.55:792][911]LogSavePackage: Save=253.22ms
+[2018.01.19-07.08.55:792][911]LogSavePackage: Moving '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/ThirdPersonExampleMap_Auto2E60406AE4663E853A9C985B70C1F8EB3.tmp' to '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2018.01.19-07.08.55:794][911]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap
+[2018.01.19-07.08.55:798][911]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.337
+[2018.01.19-07.08.55:798][911]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.337
+[2018.01.19-07.08.55:803][911]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/EnemyCharacter/EnemyCharacter] ([1] browsable assets)...
+[2018.01.19-07.08.55:938][911]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/EnemyCharacter/EnemyCharacter.EnemyCharacter]
+[2018.01.19-07.08.55:938][911]OBJ SavePackage: Finished generating thumbnails for package [/Game/EnemyCharacter/EnemyCharacter]
+[2018.01.19-07.08.55:988][911]LogSavePackage: Save=40.99ms
+[2018.01.19-07.08.55:988][911]LogSavePackage: Moving '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/EnemyCharacter_Auto29461BA9648AF712C2AC31C8413FEA14A.tmp' to '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/Autosaves/Game/EnemyCharacter/EnemyCharacter_Auto2.uasset'
+[2018.01.19-07.08.55:990][911]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/Autosaves/Game/EnemyCharacter/EnemyCharacter_Auto2.uasset
+[2018.01.19-07.08.55:991][911]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/EnemyCharacter/EnemyAnimation] ([1] browsable assets)...
+[2018.01.19-07.08.56:032][911]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/EnemyCharacter/EnemyAnimation.EnemyAnimation]
+[2018.01.19-07.08.56:032][911]OBJ SavePackage: Finished generating thumbnails for package [/Game/EnemyCharacter/EnemyAnimation]
+[2018.01.19-07.08.56:212][911]LogSavePackage: Save=162.56ms
+[2018.01.19-07.08.56:212][911]LogSavePackage: Moving '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/EnemyAnimation_Auto2443EC3394024FADBD8FE0D9F3D674C3E.tmp' to '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/Autosaves/Game/EnemyCharacter/EnemyAnimation_Auto2.uasset'
+[2018.01.19-07.08.56:214][911]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/Autosaves/Game/EnemyCharacter/EnemyAnimation_Auto2.uasset
+[2018.01.19-07.08.56:214][911]LogFileHelpers: Auto-saving content packages took 0.412
+[2018.01.19-07.09.05:948][364]BlueprintLog: New page: EnemyCharacter をコンパイル
+[2018.01.19-07.09.06:797][368]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnemyCharacter/EnemyCharacter" FILE="../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Content/EnemyCharacter/EnemyCharacter.uasset" SILENT=true
+[2018.01.19-07.09.06:849][368]LogSavePackage: Save=41.73ms
+[2018.01.19-07.09.06:849][368]LogSavePackage: Moving '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/EnemyCharacter24568240495D34DBA4FA298AF2838750.tmp' to '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Content/EnemyCharacter/EnemyCharacter.uasset'
+[2018.01.19-07.09.06:856][368]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Content/EnemyCharacter/EnemyCharacter.uasset
+[2018.01.19-07.09.59:862][ 48]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_62:PersistentLevel.Actor_16.DebugSkelMeshComponent_30) Already registered. Aborting.
+[2018.01.19-07.09.59:896][ 48]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_62:PersistentLevel.Actor_16.DebugSkelMeshComponent_30) - call TermArticulated first.
+[2018.01.19-07.10.00:479][ 48]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.19-07.10.11:958][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnemyCharacter/EnemyAnimation" FILE="../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Content/EnemyCharacter/EnemyAnimation.uasset" SILENT=true
+[2018.01.19-07.10.12:131][303]LogSavePackage: Save=162.51ms
+[2018.01.19-07.10.12:131][303]LogSavePackage: Moving '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/EnemyAnimation15F65556450632C9A3860786B95194DF.tmp' to '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Content/EnemyCharacter/EnemyAnimation.uasset'
+[2018.01.19-07.10.12:139][303]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Content/EnemyCharacter/EnemyAnimation.uasset
+[2018.01.19-07.11.17:099][600]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.01.19-07.11.25:420][742]BlueprintLog: New page: EnemyAttackNotifyState をコンパイル
+[2018.01.19-07.11.27:562][767]LogSavePackage: Save=33.05ms
+[2018.01.19-07.11.27:562][767]LogSavePackage: Moving '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/EnemyAttackNotifyState14F5975B47F658D178C0D3BF330D94B0.tmp' to '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Content/EnemyCharacter/EnemyAttackNotifyState.uasset'
+[2018.01.19-07.11.27:566][767]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Content/EnemyCharacter/EnemyAttackNotifyState.uasset
+[2018.01.19-07.12.52:831][523]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.01.19-07.13.06:882][767]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Test.
+[2018.01.19-07.13.32:938][262]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.01.19-07.13.40:539][349]LogClass: Warning: In asset 'None', there is an enum property of type 'EAnimationMode' with an invalid value of ''
+[2018.01.19-07.13.40:539][349]LogClass: Warning: In asset 'None', there is an enum property of type 'EAnimationMode' with an invalid value of ''
+[2018.01.19-07.13.41:490][365]LogClass: Warning: In asset 'None', there is an enum property of type 'EAnimationMode' with an invalid value of ''
+[2018.01.19-07.13.41:490][365]LogClass: Warning: In asset 'None', there is an enum property of type 'EAnimationMode' with an invalid value of ''
+[2018.01.19-07.16.39:310][358]BlueprintLog: New page: Test をコンパイル
+[2018.01.19-07.16.41:277][383]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test" FILE="../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Content/Test.uasset" SILENT=true
+[2018.01.19-07.16.41:310][383]LogSavePackage: Save=29.70ms
+[2018.01.19-07.16.41:310][383]LogSavePackage: Moving '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/Test554BE3114D200A83DAAE509C0D062B0B.tmp' to '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Content/Test.uasset'
+[2018.01.19-07.16.41:312][383]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Content/Test.uasset
+[2018.01.19-07.16.41:476][388]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Test.
+[2018.01.19-07.16.47:041][510]LogTemp: Repeating last play command: 選択ビューポート
+[2018.01.19-07.16.47:081][510]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.19-07.16.47:081][510]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.19-07.16.47:081][510]PIE: New page: PIEセッション: ThirdPersonExampleMap (2018/01/20 1:16:47)
+[2018.01.19-07.16.47:081][510]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.01.19-07.16.47:110][510]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028578s)
+[2018.01.19-07.16.47:111][510]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.01.19-07.16.47:112][510]LogPlayLevel: PIE: World Init took: (0.001263s)
+[2018.01.19-07.16.47:112][510]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.030201s)
+[2018.01.19-07.16.47:218][510]LogInit: XAudio2 using 'スピーカー / ヘッドホン (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.19-07.16.47:234][510]LogInit: FAudioDevice initialized.
+[2018.01.19-07.16.47:269][510]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.19-07.16.47:282][510]PIE: Warning: Invalid Simulate Options: Body (Test_56.SkeletalMesh T-Pose) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.19-07.16.47:283][510]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.01.19-16.16.47
+[2018.01.19-07.16.47:283][510]LogWorld: Bringing up level for play took: 0.013414
+[2018.01.19-07.16.47:285][510]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.786のプレイ イン エディタの開始時間
+[2018.01.19-07.16.47:285][510]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.19-07.17.53:539][499]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.19-07.17.53:609][499]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.19-07.18.18:626][ 35]BlueprintLog: New page: Test をコンパイル
+[2018.01.19-07.18.19:847][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test" FILE="../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Content/Test.uasset" SILENT=true
+[2018.01.19-07.18.19:890][ 44]LogSavePackage: Save=24.55ms
+[2018.01.19-07.18.19:890][ 44]LogSavePackage: Moving '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/TestD72C312141294CB09EBE26A7C8EDFCC5.tmp' to '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Content/Test.uasset'
+[2018.01.19-07.18.19:896][ 44]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Content/Test.uasset
+[2018.01.19-07.18.21:658][ 76]LogTemp: Repeating last play command: 選択ビューポート
+[2018.01.19-07.18.21:690][ 76]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.19-07.18.21:690][ 76]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.19-07.18.21:690][ 76]PIE: New page: PIEセッション: ThirdPersonExampleMap (2018/01/20 1:18:21)
+[2018.01.19-07.18.21:690][ 76]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.01.19-07.18.21:714][ 76]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024109s)
+[2018.01.19-07.18.21:715][ 76]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.01.19-07.18.21:715][ 76]LogPlayLevel: PIE: World Init took: (0.000833s)
+[2018.01.19-07.18.21:716][ 76]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.025335s)
+[2018.01.19-07.18.21:752][ 76]LogInit: XAudio2 using 'スピーカー / ヘッドホン (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.19-07.18.21:765][ 76]LogInit: FAudioDevice initialized.
+[2018.01.19-07.18.21:802][ 76]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.19-07.18.21:806][ 76]PIE: Warning: Invalid Simulate Options: Body (Test_56.SkeletalMesh T-Pose) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.19-07.18.21:806][ 76]PIE: Warning: Invalid Simulate Options: Body (Test_56.Capsule) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.19-07.18.21:806][ 76]PIE: Warning: Invalid Simulate Options: Body (Test_56.Capsule) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.19-07.18.21:807][ 76]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.01.19-16.18.21
+[2018.01.19-07.18.21:807][ 76]LogWorld: Bringing up level for play took: 0.004243
+[2018.01.19-07.18.21:809][ 76]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.691のプレイ イン エディタの開始時間
+[2018.01.19-07.18.21:809][ 76]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.19-07.18.33:759][422]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.19-07.18.33:829][422]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.19-07.19.23:106][557]BlueprintLog: New page: EnemyAttackNotifyState をコンパイル
+[2018.01.19-07.19.25:005][601]LogTemp: Repeating last play command: 選択ビューポート
+[2018.01.19-07.19.25:044][601]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.19-07.19.25:044][601]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.19-07.19.25:044][601]PIE: New page: PIEセッション: ThirdPersonExampleMap (2018/01/20 1:19:25)
+[2018.01.19-07.19.25:044][601]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.01.19-07.19.25:069][601]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024593s)
+[2018.01.19-07.19.25:072][601]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.01.19-07.19.25:074][601]LogPlayLevel: PIE: World Init took: (0.004294s)
+[2018.01.19-07.19.25:075][601]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.030417s)
+[2018.01.19-07.19.25:109][601]LogInit: XAudio2 using 'スピーカー / ヘッドホン (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.19-07.19.25:121][601]LogInit: FAudioDevice initialized.
+[2018.01.19-07.19.25:200][601]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.19-07.19.25:205][601]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.01.19-16.19.25
+[2018.01.19-07.19.25:206][601]LogWorld: Bringing up level for play took: 0.005051
+[2018.01.19-07.19.25:209][601]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.71のプレイ イン エディタの開始時間
+[2018.01.19-07.19.25:210][601]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.19-07.19.45:450][197]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.19-07.19.45:519][197]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.19-07.19.54:546][484]BlueprintLog: New page: EnemyAttackNotifyState をコンパイル
+[2018.01.19-07.19.55:646][501]LogTemp: Repeating last play command: 選択ビューポート
+[2018.01.19-07.19.55:674][501]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.19-07.19.55:674][501]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.19-07.19.55:674][501]PIE: New page: PIEセッション: ThirdPersonExampleMap (2018/01/20 1:19:55)
+[2018.01.19-07.19.55:675][501]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.01.19-07.19.55:700][501]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025067s)
+[2018.01.19-07.19.55:701][501]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.01.19-07.19.55:701][501]LogPlayLevel: PIE: World Init took: (0.001662s)
+[2018.01.19-07.19.55:702][501]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.027192s)
+[2018.01.19-07.19.56:026][501]LogInit: XAudio2 using 'スピーカー / ヘッドホン (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.19-07.19.56:038][501]LogInit: FAudioDevice initialized.
+[2018.01.19-07.19.56:126][501]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.19-07.19.56:130][501]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.01.19-16.19.56
+[2018.01.19-07.19.56:131][501]LogWorld: Bringing up level for play took: 0.002484
+[2018.01.19-07.19.56:134][501]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.365のプレイ イン エディタの開始時間
+[2018.01.19-07.19.56:135][501]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.19-07.20.10:342][713]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.19-07.20.10:449][713]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.19-07.20.15:955][895]BlueprintLog: New page: EnemyAttackNotifyState をコンパイル
+[2018.01.19-07.20.16:971][914]LogSavePackage: Save=31.48ms
+[2018.01.19-07.20.16:971][914]LogSavePackage: Moving '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/EnemyAttackNotifyState52DAEA1847BA4868B30A07B918BFF2F8.tmp' to '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Content/EnemyCharacter/EnemyAttackNotifyState.uasset'
+[2018.01.19-07.20.16:976][914]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Content/EnemyCharacter/EnemyAttackNotifyState.uasset
+[2018.01.19-07.20.36:712][490]LogTemp: Repeating last play command: 選択ビューポート
+[2018.01.19-07.20.36:836][490]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.19-07.20.36:836][490]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.19-07.20.36:836][490]PIE: New page: PIEセッション: ThirdPersonExampleMap (2018/01/20 1:20:36)
+[2018.01.19-07.20.36:836][490]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.01.19-07.20.36:858][490]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022053s)
+[2018.01.19-07.20.36:860][490]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.01.19-07.20.36:861][490]LogPlayLevel: PIE: World Init took: (0.002463s)
+[2018.01.19-07.20.36:862][490]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.025842s)
+[2018.01.19-07.20.36:920][490]LogInit: XAudio2 using 'スピーカー / ヘッドホン (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.19-07.20.36:935][490]LogInit: FAudioDevice initialized.
+[2018.01.19-07.20.36:969][490]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.19-07.20.36:973][490]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.01.19-16.20.36
+[2018.01.19-07.20.36:974][490]LogWorld: Bringing up level for play took: 0.003151
+[2018.01.19-07.20.36:976][490]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.476のプレイ イン エディタの開始時間
+[2018.01.19-07.20.36:976][490]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.19-07.20.54:961][ 31]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.19-07.20.55:022][ 31]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.19-07.21.00:061][160]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter2)
+[2018.01.19-07.21.01:473][191]Cmd: DELETE
+[2018.01.19-07.21.01:491][191]Cmd: ACTOR DELETE
+[2018.01.19-07.21.01:698][191]LogEditorActor: Deleted Actor: ThirdPersonCharacter_C
+[2018.01.19-07.21.01:746][191]LogEditorActor: Deleted 1 Actors (0.055 secs)
+[2018.01.19-07.21.29:002][534]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.01.19-07.21.58:935][843]BlueprintLog: New page: ThirdPersonCharacter をコンパイル
+[2018.01.19-07.22.00:835][855]LogTemp: Repeating last play command: 選択ビューポート
+[2018.01.19-07.22.00:890][855]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.19-07.22.00:890][855]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.19-07.22.00:890][855]PIE: New page: PIEセッション: ThirdPersonExampleMap (2018/01/20 1:22:00)
+[2018.01.19-07.22.00:890][855]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.01.19-07.22.00:911][855]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021005s)
+[2018.01.19-07.22.00:912][855]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.01.19-07.22.00:912][855]LogPlayLevel: PIE: World Init took: (0.000914s)
+[2018.01.19-07.22.00:912][855]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.022195s)
+[2018.01.19-07.22.00:966][855]LogInit: XAudio2 using 'スピーカー / ヘッドホン (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.19-07.22.00:978][855]LogInit: FAudioDevice initialized.
+[2018.01.19-07.22.01:024][855]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.19-07.22.01:026][855]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.01.19-16.22.01
+[2018.01.19-07.22.01:027][855]LogWorld: Bringing up level for play took: 0.002460
+[2018.01.19-07.22.01:029][855]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.529のプレイ イン エディタの開始時間
+[2018.01.19-07.22.01:029][855]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.19-07.23.10:032][ 58]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.19-07.23.10:095][ 58]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.19-07.23.37:985][665]BlueprintLog: New page: ThirdPersonCharacter をコンパイル
+[2018.01.19-07.23.43:434][761]BlueprintLog: New page: ThirdPersonCharacter をコンパイル
+[2018.01.19-07.24.29:202][431]BlueprintLog: New page: ThirdPersonCharacter をコンパイル
+[2018.01.19-07.24.31:320][474]LogTemp: Repeating last play command: 選択ビューポート
+[2018.01.19-07.24.31:388][474]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.19-07.24.31:389][474]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.19-07.24.31:389][474]PIE: New page: PIEセッション: ThirdPersonExampleMap (2018/01/20 1:24:31)
+[2018.01.19-07.24.31:389][474]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.01.19-07.24.31:414][474]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024444s)
+[2018.01.19-07.24.31:415][474]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.01.19-07.24.31:415][474]LogPlayLevel: PIE: World Init took: (0.001189s)
+[2018.01.19-07.24.31:415][474]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.026115s)
+[2018.01.19-07.24.31:453][474]LogInit: XAudio2 using 'スピーカー / ヘッドホン (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.19-07.24.31:468][474]LogInit: FAudioDevice initialized.
+[2018.01.19-07.24.31:632][474]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.19-07.24.31:639][474]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.01.19-16.24.31
+[2018.01.19-07.24.31:640][474]LogWorld: Bringing up level for play took: 0.005961
+[2018.01.19-07.24.31:643][474]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.143のプレイ イン エディタの開始時間
+[2018.01.19-07.24.31:644][474]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.19-07.24.31:675][474]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.31:835][475]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.31:843][476]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.31:920][477]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.31:987][478]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.32:036][479]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.32:069][480]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.32:102][481]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.32:136][482]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.32:170][483]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.32:203][484]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.32:236][485]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.32:270][486]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.32:303][487]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.32:337][488]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.32:369][489]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.32:404][490]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.32:437][491]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.32:469][492]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.32:502][493]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.32:536][494]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.32:570][495]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.32:603][496]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.32:635][497]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.32:671][498]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.32:702][499]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.32:735][500]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.32:768][501]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.32:802][502]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.32:836][503]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.32:870][504]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.32:902][505]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.32:936][506]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.32:970][507]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.33:002][508]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.33:037][509]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.33:069][510]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.33:103][511]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.33:136][512]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.33:170][513]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.33:202][514]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.33:236][515]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.33:269][516]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.33:302][517]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.33:335][518]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.33:369][519]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.33:402][520]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.33:436][521]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.33:469][522]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.33:503][523]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.33:536][524]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.33:569][525]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.33:602][526]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.33:635][527]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.33:669][528]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.33:702][529]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.33:735][530]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.33:769][531]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.33:802][532]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.33:835][533]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.33:869][534]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.33:902][535]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.33:935][536]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.33:969][537]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.34:001][538]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.34:035][539]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.34:068][540]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.34:102][541]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.34:137][542]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.34:168][543]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.34:202][544]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.34:236][545]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.34:268][546]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.34:302][547]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.34:336][548]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.34:369][549]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.34:402][550]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.34:435][551]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.34:469][552]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.34:502][553]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.34:535][554]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.34:569][555]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.34:601][556]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.34:636][557]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.34:668][558]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.34:701][559]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.34:735][560]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.34:770][561]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.34:803][562]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.34:838][563]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.34:870][564]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.34:901][565]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.34:936][566]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.34:969][567]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.35:001][568]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.35:034][569]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.35:069][570]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.35:103][571]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.35:136][572]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.35:168][573]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.35:201][574]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.35:235][575]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.35:268][576]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.35:302][577]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.35:335][578]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.35:368][579]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.35:402][580]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.35:435][581]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.35:469][582]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.35:502][583]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.35:535][584]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.35:569][585]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.35:602][586]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.35:635][587]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.35:668][588]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.35:701][589]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.35:734][590]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.35:767][591]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.35:802][592]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.35:835][593]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.35:868][594]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.35:901][595]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.35:935][596]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.35:968][597]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.36:002][598]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.36:035][599]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.36:068][600]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.36:101][601]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.36:135][602]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.36:168][603]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.36:201][604]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.36:235][605]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.36:267][606]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.36:301][607]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.36:334][608]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.36:368][609]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.36:400][610]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.36:435][611]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.36:468][612]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.36:501][613]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.36:534][614]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.36:568][615]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.36:602][616]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.36:635][617]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.36:667][618]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.36:701][619]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.36:734][620]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.36:767][621]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.36:801][622]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.36:834][623]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.36:868][624]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.36:901][625]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.36:934][626]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.36:968][627]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.37:001][628]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.37:034][629]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.37:067][630]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.37:101][631]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.37:134][632]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.37:167][633]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.37:201][634]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.37:234][635]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.37:268][636]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.37:300][637]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.37:334][638]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.37:367][639]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.37:400][640]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.37:433][641]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.37:468][642]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.37:500][643]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.37:534][644]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.37:567][645]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.37:601][646]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.37:634][647]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.37:668][648]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.37:700][649]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.37:734][650]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.37:767][651]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.37:800][652]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.37:834][653]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.37:867][654]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.37:900][655]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.37:934][656]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.37:967][657]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.38:000][658]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.38:034][659]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.38:067][660]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.38:100][661]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.38:133][662]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.38:167][663]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.38:201][664]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.38:234][665]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.38:267][666]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.38:300][667]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.38:334][668]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.38:367][669]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.38:400][670]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.38:434][671]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.38:467][672]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.38:500][673]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.38:533][674]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.38:567][675]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.38:601][676]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.38:634][677]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.38:667][678]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.38:700][679]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.38:734][680]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.38:766][681]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.38:800][682]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.38:834][683]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.38:866][684]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.38:900][685]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.38:933][686]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.38:966][687]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.38:999][688]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.39:033][689]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.39:066][690]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.39:099][691]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.39:133][692]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.39:166][693]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.39:200][694]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.39:234][695]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.39:266][696]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.39:300][697]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.39:333][698]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.39:366][699]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.39:400][700]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.39:433][701]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.39:467][702]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.39:500][703]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.39:533][704]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.39:566][705]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.39:600][706]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.39:633][707]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.39:666][708]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.39:700][709]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.39:733][710]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.39:766][711]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.39:800][712]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.39:833][713]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.39:866][714]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.39:900][715]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.39:934][716]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.39:967][717]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.39:999][718]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.40:033][719]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.40:066][720]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.40:099][721]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.40:133][722]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.40:166][723]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.40:200][724]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.40:233][725]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.40:266][726]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.40:300][727]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.40:333][728]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.40:366][729]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.40:400][730]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.40:433][731]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.40:466][732]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.40:500][733]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.40:533][734]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.40:566][735]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.40:599][736]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.40:633][737]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.40:666][738]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.40:699][739]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.40:732][740]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.40:766][741]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.40:799][742]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.40:832][743]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.40:866][744]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.40:899][745]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.40:933][746]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.40:966][747]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.40:999][748]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.41:033][749]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.41:066][750]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.41:099][751]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.41:133][752]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.41:166][753]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.41:199][754]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.41:233][755]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.41:265][756]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.41:299][757]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.41:332][758]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.41:366][759]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.41:544][760]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.41:554][761]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.41:633][762]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.41:716][763]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.41:784][764]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.41:831][765]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.41:866][766]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.41:899][767]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.41:933][768]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.41:966][769]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.41:999][770]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.42:032][771]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.42:066][772]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.42:099][773]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.42:132][774]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.42:165][775]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.42:199][776]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.42:233][777]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.42:266][778]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.42:299][779]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.42:332][780]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.42:366][781]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.42:399][782]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.42:432][783]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.42:466][784]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.42:499][785]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.42:532][786]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.42:566][787]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.42:599][788]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.42:632][789]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.42:666][790]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.42:699][791]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.42:732][792]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.42:765][793]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.42:798][794]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.42:832][795]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.42:865][796]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.42:899][797]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.42:932][798]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.42:966][799]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.42:998][800]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.43:032][801]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.43:065][802]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.43:098][803]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.43:132][804]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.43:165][805]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.43:199][806]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.43:232][807]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2018.01.19-07.24.43:234][807]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.19-07.24.43:342][807]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.19-07.25.15:588][194]LogSavePackage: Save=178.04ms
+[2018.01.19-07.25.15:588][194]LogSavePackage: Moving '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/ThirdPersonExampleMap_Auto378F68B594B903EF00E60FBAB27DF9D2F.tmp' to '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap'
+[2018.01.19-07.25.15:592][194]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap
+[2018.01.19-07.25.15:596][194]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.292
+[2018.01.19-07.25.15:596][194]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.292
+[2018.01.19-07.25.15:602][194]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2018.01.19-07.25.15:737][194]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2018.01.19-07.25.15:737][194]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2018.01.19-07.25.15:834][194]LogSavePackage: Save=81.43ms
+[2018.01.19-07.25.15:834][194]LogSavePackage: Moving '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/ThirdPersonCharacter_Auto3B8500BA2409BC3955C43CB88C2D8BC61.tmp' to '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto3.uasset'
+[2018.01.19-07.25.15:837][194]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto3.uasset
+[2018.01.19-07.25.15:837][194]LogFileHelpers: Auto-saving content packages took 0.236
+[2018.01.19-07.26.34:426][ 73]BlueprintLog: New page: ThirdPersonCharacter をコンパイル
+[2018.01.19-07.35.16:931][703]LogSavePackage: Save=166.68ms
+[2018.01.19-07.35.16:931][703]LogSavePackage: Moving '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/ThirdPersonExampleMap_Auto4BCA66695451E9EEF3975B680898832AE.tmp' to '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap'
+[2018.01.19-07.35.16:936][703]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap
+[2018.01.19-07.35.16:945][703]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.531
+[2018.01.19-07.35.16:945][703]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.531
+[2018.01.19-07.35.16:984][703]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2018.01.19-07.35.17:153][703]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2018.01.19-07.35.17:153][703]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2018.01.19-07.35.17:255][703]LogSavePackage: Save=83.93ms
+[2018.01.19-07.35.17:255][703]LogSavePackage: Moving '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/ThirdPersonCharacter_Auto4EE7863C646D15C1C307A5CB62336F717.tmp' to '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto4.uasset'
+[2018.01.19-07.35.17:257][703]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto4.uasset
+[2018.01.19-07.35.17:257][703]LogFileHelpers: Auto-saving content packages took 0.275
+[2018.01.19-07.41.07:516][819]LogSavePackage: Save=105.94ms
+[2018.01.19-07.41.07:516][819]LogSavePackage: Moving '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/ThirdPersonCharacter9F8BE03B4B83778CF4116CAC28D523B0.tmp' to '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.01.19-07.41.07:535][819]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.01.19-07.41.12:900][913]LogSavePackage: Save=168.29ms
+[2018.01.19-07.41.12:900][913]LogSavePackage: Moving '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/ThirdPersonExampleMapEF9AF90745EFD50C2E074BB65C371449.tmp' to '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.01.19-07.41.12:937][913]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.01.19-07.41.13:340][913]LogSavePackage: Save=170.05ms
+[2018.01.19-07.41.13:340][913]LogSavePackage: Moving '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/ThirdPersonExampleMap_BuiltData2747A49F45C96FAF62913A968A0712EF.tmp' to '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.01.19-07.41.13:350][913]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.01.19-07.41.18:308][ 14]Cmd: QUIT_EDITOR
+[2018.01.19-07.41.19:087][ 14]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Google 日本語入力).
+[2018.01.19-07.41.19:601][ 14]LogExit: Preparing to exit.
+[2018.01.19-07.41.21:876][ 14]LogDirectoryWatcher: A directory notification for 'C:/Users/tnk19/Documents/GitHub/Graduation/Graduation/Content/' was aborted.
+[2018.01.19-07.41.23:845][ 14]LogExit: Editor shut down
+[2018.01.19-07.41.23:878][ 14]LogExit: Transaction tracking system shut down
+[2018.01.19-07.41.26:244][ 14]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.01.19-07.41.26:244][ 14]LogDirectoryWatcher: A directory notification for '../../../../../../Users/tnk19/Documents/GitHub/Graduation/Graduation/Content/' was aborted.
+[2018.01.19-07.41.26:244][ 14]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.01.19-07.41.26:245][ 14]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.01.19-07.41.26:245][ 14]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.01.19-07.41.26:245][ 14]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.01.19-07.41.26:245][ 14]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.01.19-07.41.30:578][ 14]LogExit: Object subsystem successfully closed.
+[2018.01.19-07.41.31:268][ 14]LogD3D11RHI: Shutdown
+[2018.01.19-07.41.31:269][ 14]LogD3D11RHI: CleanupD3DDevice
+[2018.01.19-07.41.31:516][ 14]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.01.19-07.41.35:117][ 14]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (560)
+[2018.01.19-07.41.35:117][ 14]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (558)
+[2018.01.19-07.41.35:117][ 14]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (556)
+[2018.01.19-07.41.35:117][ 14]LogModuleManager: Shutting down and abandoning module BlueprintGraph (554)
+[2018.01.19-07.41.35:117][ 14]LogModuleManager: Shutting down and abandoning module SkeletonEditor (552)
+[2018.01.19-07.41.35:117][ 14]LogModuleManager: Shutting down and abandoning module AnimationEditor (550)
+[2018.01.19-07.41.35:117][ 14]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2018.01.19-07.41.35:117][ 14]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2018.01.19-07.41.35:117][ 14]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2018.01.19-07.41.35:146][ 14]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.01.19-07.41.35:305][ 14]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2018.01.19-07.41.35:305][ 14]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2018.01.19-07.41.35:305][ 14]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2018.01.19-07.41.35:329][ 14]LogDirectoryWatcher: A directory notification for 'C:/Users/tnk19/Documents/GitHub/Graduation/Graduation/Content/Collections/' was aborted.
+[2018.01.19-07.41.35:329][ 14]LogDirectoryWatcher: A directory notification for 'C:/Users/tnk19/Documents/GitHub/Graduation/Graduation/Content/Developers/tnk19/Collections/' was aborted.
+[2018.01.19-07.41.35:329][ 14]LogDirectoryWatcher: A directory notification for 'C:/Users/tnk19/Documents/GitHub/Graduation/Graduation/Saved/Collections/' was aborted.
+[2018.01.19-07.41.35:330][ 14]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.01.19-07.41.35:352][ 14]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.01.19-07.41.35:353][ 14]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.01.19-07.41.35:382][ 14]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.01.19-07.41.35:383][ 14]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.01.19-07.41.35:383][ 14]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.01.19-07.41.35:383][ 14]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.01.19-07.41.35:390][ 14]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.01.19-07.41.35:390][ 14]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.01.19-07.41.35:391][ 14]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.01.19-07.41.35:392][ 14]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.01.19-07.41.35:393][ 14]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.01.19-07.41.35:393][ 14]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.01.19-07.41.35:395][ 14]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.01.19-07.41.35:396][ 14]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.01.19-07.41.35:447][ 14]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.01.19-07.41.35:447][ 14]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.01.19-07.41.35:447][ 14]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.01.19-07.41.35:447][ 14]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.01.19-07.41.35:447][ 14]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.01.19-07.41.35:447][ 14]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.01.19-07.41.35:448][ 14]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.01.19-07.41.35:448][ 14]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.01.19-07.41.35:448][ 14]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.01.19-07.41.35:448][ 14]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.01.19-07.41.35:448][ 14]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.01.19-07.41.35:448][ 14]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.01.19-07.41.35:465][ 14]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.01.19-07.41.35:486][ 14]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.01.19-07.41.35:486][ 14]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.01.19-07.41.35:486][ 14]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.01.19-07.41.35:486][ 14]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.01.19-07.41.35:493][ 14]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.01.19-07.41.35:517][ 14]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.01.19-07.41.35:530][ 14]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.01.19-07.41.35:544][ 14]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.01.19-07.41.35:571][ 14]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.01.19-07.41.35:601][ 14]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.01.19-07.41.35:617][ 14]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.01.19-07.41.35:617][ 14]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.01.19-07.41.35:617][ 14]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.01.19-07.41.36:100][ 14]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.01.19-07.41.36:100][ 14]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.01.19-07.41.36:100][ 14]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.01.19-07.41.36:100][ 14]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.01.19-07.41.36:102][ 14]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.01.19-07.41.36:151][ 14]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.01.19-07.41.36:152][ 14]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.01.19-07.41.36:167][ 14]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.01.19-07.41.36:174][ 14]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.01.19-07.41.36:198][ 14]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.01.19-07.41.36:199][ 14]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.01.19-07.41.36:200][ 14]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.01.19-07.41.36:218][ 14]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.01.19-07.41.36:232][ 14]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.01.19-07.41.36:233][ 14]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.01.19-07.41.36:233][ 14]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.01.19-07.41.36:234][ 14]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.01.19-07.41.36:235][ 14]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.01.19-07.41.36:235][ 14]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.01.19-07.41.36:236][ 14]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.01.19-07.41.36:262][ 14]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.01.19-07.41.36:287][ 14]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.01.19-07.41.36:296][ 14]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.01.19-07.41.36:322][ 14]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.01.19-07.41.36:389][ 14]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.01.19-07.41.36:437][ 14]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.01.19-07.41.36:455][ 14]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.01.19-07.41.36:477][ 14]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.01.19-07.41.36:477][ 14]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.01.19-07.41.36:478][ 14]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.01.19-07.41.36:480][ 14]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.01.19-07.41.36:481][ 14]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.01.19-07.41.36:481][ 14]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.01.19-07.41.36:481][ 14]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.01.19-07.41.36:625][ 14]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.01.19-07.41.36:626][ 14]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.01.19-07.41.36:626][ 14]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.01.19-07.41.36:641][ 14]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.01.19-07.41.36:682][ 14]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.01.19-07.41.36:684][ 14]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.01.19-07.41.36:684][ 14]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.01.19-07.41.36:728][ 14]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.01.19-07.41.36:728][ 14]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.01.19-07.41.36:728][ 14]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.01.19-07.41.36:728][ 14]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.01.19-07.41.36:728][ 14]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.01.19-07.41.36:728][ 14]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.01.19-07.41.36:728][ 14]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.01.19-07.41.36:729][ 14]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.01.19-07.41.36:729][ 14]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.01.19-07.41.36:734][ 14]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.01.19-07.41.36:734][ 14]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.01.19-07.41.36:740][ 14]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2018.01.19-07.41.36:742][ 14]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2018.01.19-07.41.36:991][ 14]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2018.01.19-07.41.37:030][ 14]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2018.01.19-07.41.37:030][ 14]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2018.01.19-07.41.37:030][ 14]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2018.01.19-07.41.37:030][ 14]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2018.01.19-07.41.37:031][ 14]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2018.01.19-07.41.37:031][ 14]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2018.01.19-07.41.37:031][ 14]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2018.01.19-07.41.37:031][ 14]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2018.01.19-07.41.37:031][ 14]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2018.01.19-07.41.37:031][ 14]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2018.01.19-07.41.37:031][ 14]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2018.01.19-07.41.37:053][ 14]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2018.01.19-07.41.37:064][ 14]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2018.01.19-07.41.37:064][ 14]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.01.19-07.41.37:064][ 14]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.01.19-07.41.37:075][ 14]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.01.19-07.41.37:075][ 14]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.01.19-07.41.37:075][ 14]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.01.19-07.41.37:075][ 14]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.01.19-07.41.37:075][ 14]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.01.19-07.41.37:106][ 14]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.01.19-07.41.37:142][ 14]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.01.19-07.41.37:143][ 14]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2018.01.19-07.41.37:144][ 14]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.01.19-07.41.37:144][ 14]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.01.19-07.41.37:170][ 14]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.01.19-07.41.37:203][ 14]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.01.19-07.41.37:230][ 14]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.01.19-07.41.37:248][ 14]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.01.19-07.41.37:248][ 14]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.01.19-07.41.37:248][ 14]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.01.19-07.41.37:248][ 14]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.01.19-07.41.37:272][ 14]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.01.19-07.41.37:272][ 14]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.01.19-07.41.37:296][ 14]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.01.19-07.41.37:316][ 14]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.01.19-07.41.37:316][ 14]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.01.19-07.41.37:326][ 14]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.01.19-07.41.37:335][ 14]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.01.19-07.41.37:337][ 14]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.01.19-07.41.37:337][ 14]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.01.19-07.41.37:338][ 14]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.01.19-07.41.37:338][ 14]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.01.19-07.41.37:338][ 14]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.01.19-07.41.37:338][ 14]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.01.19-07.41.37:439][ 14]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.01.19-07.41.37:540][ 14]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.01.19-07.41.37:568][ 14]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.01.19-07.41.37:569][ 14]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.01.19-07.41.37:569][ 14]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.01.19-07.41.37:572][ 14]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.01.19-07.41.37:573][ 14]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.01.19-07.41.37:578][ 14]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.01.19-07.41.37:578][ 14]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.01.19-07.41.37:578][ 14]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.01.19-07.41.37:579][ 14]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.01.19-07.41.37:608][ 14]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.01.19-07.41.37:608][ 14]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.01.19-07.41.37:608][ 14]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.01.19-07.41.37:608][ 14]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.01.19-07.41.37:621][ 14]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.01.19-07.41.37:621][ 14]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.01.19-07.41.37:627][ 14]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.01.19-07.41.37:627][ 14]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.01.19-07.41.37:628][ 14]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.01.19-07.41.37:650][ 14]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.01.19-07.41.37:651][ 14]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.01.19-07.41.37:651][ 14]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.01.19-07.41.37:651][ 14]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.01.19-07.41.37:651][ 14]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.01.19-07.41.37:685][ 14]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.01.19-07.41.37:731][ 14]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.01.19-07.41.37:732][ 14]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.01.19-07.41.37:770][ 14]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.01.19-07.41.37:805][ 14]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.01.19-07.41.37:806][ 14]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.01.19-07.41.37:841][ 14]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.01.19-07.41.37:841][ 14]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.01.19-07.41.37:914][ 14]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.01.19-07.41.37:914][ 14]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.01.19-07.41.37:915][ 14]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.01.19-07.41.37:915][ 14]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.01.19-07.41.37:915][ 14]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.01.19-07.41.37:915][ 14]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.01.19-07.41.37:915][ 14]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.01.19-07.41.37:934][ 14]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.01.19-07.41.37:944][ 14]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.01.19-07.41.37:944][ 14]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.01.19-07.41.37:963][ 14]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.01.19-07.41.37:984][ 14]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.01.19-07.41.37:984][ 14]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.01.19-07.41.37:992][ 14]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.01.19-07.41.38:000][ 14]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.01.19-07.41.38:001][ 14]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.01.19-07.41.38:016][ 14]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.01.19-07.41.38:044][ 14]LogDerivedDataCache: Shutdown
+[2018.01.19-07.41.38:044][ 14]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.01.19-07.41.38:045][ 14]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.01.19-07.41.38:046][ 14]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.01.19-07.41.38:047][ 14]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.01.19-07.41.38:055][ 14]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.01.19-07.41.38:065][ 14]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.01.19-07.41.38:082][ 14]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.01.19-07.41.38:083][ 14]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.01.19-07.41.38:085][ 14]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.01.19-07.41.38:085][ 14]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.01.19-07.41.38:100][ 14]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.01.19-07.41.38:100][ 14]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.01.19-07.41.38:100][ 14]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.01.19-07.41.38:100][ 14]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.01.19-07.41.38:100][ 14]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.01.19-07.41.38:100][ 14]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.01.19-07.41.38:100][ 14]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.01.19-07.41.38:100][ 14]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.01.19-07.41.38:100][ 14]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.01.19-07.41.38:100][ 14]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.01.19-07.41.38:100][ 14]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.01.19-07.41.38:101][ 14]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.01.19-07.41.38:101][ 14]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.01.19-07.41.38:101][ 14]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.01.19-07.41.38:101][ 14]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.01.19-07.41.38:101][ 14]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.01.19-07.41.38:101][ 14]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.01.19-07.41.38:101][ 14]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.01.19-07.41.38:101][ 14]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.01.19-07.41.38:101][ 14]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.01.19-07.41.38:101][ 14]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.01.19-07.41.38:101][ 14]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.01.19-07.41.38:101][ 14]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.01.19-07.41.38:101][ 14]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.01.19-07.41.38:102][ 14]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.01.19-07.41.38:102][ 14]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.01.19-07.41.38:103][ 14]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.01.19-07.41.38:104][ 14]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.01.19-07.41.38:105][ 14]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.01.19-07.41.38:106][ 14]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.01.19-07.41.38:106][ 14]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.01.19-07.41.38:106][ 14]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.01.19-07.41.38:106][ 14]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.01.19-07.41.38:106][ 14]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.01.19-07.41.38:106][ 14]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.01.19-07.41.38:106][ 14]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.01.19-07.41.38:118][ 14]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.01.19-07.41.38:118][ 14]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.01.19-07.41.38:118][ 14]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.01.19-07.41.38:118][ 14]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.01.19-07.41.38:118][ 14]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.01.19-07.41.38:165][ 14]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.01.19-07.41.38:172][ 14]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.01.19-07.41.38:172][ 14]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.01.19-07.41.38:173][ 14]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF2FCCBFC-4059-C06F-D08E-37BA035811EC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.2-3794801%2B%2B%2BUE4%2BRelease-4.18&UserID=7e44996742d4a1c6f237028fd5a2e17d%7Ca68c0f67f38a4e45a1c1955f0f9f769b%7C63ae6c82-1414-4dba-976e-8cfdbf883c8e&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.01.19-07.41.38:251][ 14]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.01.19-07.41.38:298][ 14]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.01.19-07.41.38:300][ 14]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.01.19-07.41.38:301][ 14]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.01.19-07.41.38:321][ 14]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.01.19-07.41.38:366][ 14]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.01.19-07.41.38:366][ 14]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.01.19-07.41.38:385][ 14]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.01.19-07.41.38:511][ 14]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.01.19-07.41.38:513][ 14]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.01.19-07.41.38:513][ 14]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.01.19-07.41.38:522][ 14]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.01.19-07.41.38:522][ 14]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.01.19-07.41.38:522][ 14]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.01.19-07.41.38:522][ 14]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.01.19-07.41.38:523][ 14]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.01.19-07.41.38:523][ 14]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.01.19-07.41.38:524][ 14]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.01.19-07.41.38:524][ 14]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.01.19-07.41.38:584][ 14]LogExit: Exiting.
+[2018.01.19-07.41.38:665][ 14]Log file closed, 01/19/18 16:41:38
