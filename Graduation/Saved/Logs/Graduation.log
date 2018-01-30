@@ -23223,3 +23223,1340 @@ LogInit: Object subsystem initialized
 [2018.01.30-09.21.27:966][479]LogSavePackage: Save=94.75ms
 [2018.01.30-09.21.27:966][479]LogSavePackage: Moving '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Saved/EnemyCharacter63A376674E3AB72DC472949F05027D0B.tmp' to '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Content/EnemyCharacter/EnemyCharacter.uasset'
 [2018.01.30-09.21.27:977][479]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Content/EnemyCharacter/EnemyCharacter.uasset
+[2018.01.30-09.24.02:513][314]LogTemp: Repeating last play command: 選択ビューポート
+[2018.01.30-09.24.02:596][314]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.30-09.24.02:596][314]PIE: New page: PIEセッション: FieldMap (2018/01/31 3:24:02)
+[2018.01.30-09.24.02:596][314]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FieldMap
+[2018.01.30-09.24.02:622][314]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025318s)
+[2018.01.30-09.24.02:623][314]LogAIModule: Creating AISystem for world FieldMap
+[2018.01.30-09.24.02:624][314]LogPlayLevel: PIE: World Init took: (0.001582s)
+[2018.01.30-09.24.02:624][314]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FieldMap.FieldMap to /Game/Maps/UEDPIE_0_FieldMap.FieldMap (0.027621s)
+[2018.01.30-09.24.02:656][314]LogInit: XAudio2 using 'スピーカー / ヘッドホン (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.30-09.24.02:677][314]LogInit: FAudioDevice initialized.
+[2018.01.30-09.24.02:713][314]LogLoad: Game class is 'GameModeBase'
+[2018.01.30-09.24.02:725][314]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FieldMap.FieldMap up for play (max tick rate 0) at 2018.01.30-18.24.02
+[2018.01.30-09.24.02:726][314]LogWorld: Bringing up level for play took: 0.011078
+[2018.01.30-09.24.02:731][314]PIE: /Game/Maps/UEDPIE_0_FieldMap 0.481のプレイ イン エディタの開始時間
+[2018.01.30-09.24.19:579][587]LogEditorActor: Deleted Actor: PlayerCharacter_C
+[2018.01.30-09.24.19:613][587]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2018.01.30-09.25.25:268][286]LogTemp: Repeating last play command: 選択ビューポート
+[2018.01.30-09.25.25:322][286]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.30-09.25.25:322][286]PIE: New page: PIEセッション: FieldMap (2018/01/31 3:25:25)
+[2018.01.30-09.25.25:322][286]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FieldMap
+[2018.01.30-09.25.25:347][286]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025224s)
+[2018.01.30-09.25.25:349][286]LogAIModule: Creating AISystem for world FieldMap
+[2018.01.30-09.25.25:349][286]LogPlayLevel: PIE: World Init took: (0.002127s)
+[2018.01.30-09.25.25:350][286]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FieldMap.FieldMap to /Game/Maps/UEDPIE_0_FieldMap.FieldMap (0.028114s)
+[2018.01.30-09.25.25:412][286]LogInit: XAudio2 using 'スピーカー / ヘッドホン (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.30-09.25.25:430][286]LogInit: FAudioDevice initialized.
+[2018.01.30-09.25.25:460][286]LogLoad: Game class is 'GameModeBase'
+[2018.01.30-09.25.25:465][286]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FieldMap.FieldMap up for play (max tick rate 0) at 2018.01.30-18.25.25
+[2018.01.30-09.25.25:466][286]LogWorld: Bringing up level for play took: 0.004568
+[2018.01.30-09.25.25:468][286]PIE: /Game/Maps/UEDPIE_0_FieldMap -0.782のプレイ イン エディタの開始時間
+[2018.01.30-09.26.31:454][988]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.Actor_4.DebugSkelMeshComponent_8) Already registered. Aborting.
+[2018.01.30-09.26.32:055][988]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.30-09.26.33:737][ 13]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.Actor_5.DebugSkelMeshComponent_10) Already registered. Aborting.
+[2018.01.30-09.26.34:242][ 14]LogRenderer: Reallocating scene render targets to support 1024x712 Format 10 NumSamples 1 (Frame:1).
+[2018.01.30-09.26.48:950][278]LogTemp: Repeating last play command: 選択ビューポート
+[2018.01.30-09.26.49:071][278]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.30-09.26.49:072][278]PIE: New page: PIEセッション: FieldMap (2018/01/31 3:26:49)
+[2018.01.30-09.26.49:072][278]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FieldMap
+[2018.01.30-09.26.49:107][278]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035451s)
+[2018.01.30-09.26.49:109][278]LogAIModule: Creating AISystem for world FieldMap
+[2018.01.30-09.26.49:109][278]LogPlayLevel: PIE: World Init took: (0.001327s)
+[2018.01.30-09.26.49:109][278]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FieldMap.FieldMap to /Game/Maps/UEDPIE_0_FieldMap.FieldMap (0.037309s)
+[2018.01.30-09.26.49:140][278]LogInit: XAudio2 using 'スピーカー / ヘッドホン (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.30-09.26.49:157][278]LogInit: FAudioDevice initialized.
+[2018.01.30-09.26.49:297][278]LogLoad: Game class is 'GameModeBase'
+[2018.01.30-09.26.49:309][278]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FieldMap.FieldMap up for play (max tick rate 60) at 2018.01.30-18.26.49
+[2018.01.30-09.26.49:311][278]LogWorld: Bringing up level for play took: 0.011191
+[2018.01.30-09.26.49:319][278]PIE: /Game/Maps/UEDPIE_0_FieldMap 1.069のプレイ イン エディタの開始時間
+[2018.01.30-09.26.56:612][365]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.26.56:612][365]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.26.56:676][366]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.26.56:676][366]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.29.35:243][711]LogSavePackage: Save=458.68ms
+[2018.01.30-09.29.35:243][711]LogSavePackage: Moving '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Saved/FieldMap_Auto32D38A28B4D7BCF143C0431AE42EE0151.tmp' to '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Saved/Autosaves/Game/Maps/FieldMap_Auto3.umap'
+[2018.01.30-09.29.35:246][711]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Saved/Autosaves/Game/Maps/FieldMap_Auto3.umap
+[2018.01.30-09.29.35:253][711]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/FieldMap' took 0.549
+[2018.01.30-09.29.35:253][711]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.549
+[2018.01.30-09.29.35:256][711]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/EnemyCharacter/Animation/EnemyAttackNotifyState] ([1] browsable assets)...
+[2018.01.30-09.29.35:256][711]OBJ SavePackage: Finished generating thumbnails for package [/Game/EnemyCharacter/Animation/EnemyAttackNotifyState]
+[2018.01.30-09.29.35:363][711]LogSavePackage: Save=70.68ms
+[2018.01.30-09.29.35:363][711]LogSavePackage: Moving '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Saved/EnemyAttackNotifyState_Auto3576F793343E454CD5029AFB7399BA52A.tmp' to '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Saved/Autosaves/Game/EnemyCharacter/Animation/EnemyAttackNotifyState_Auto3.uasset'
+[2018.01.30-09.29.35:366][711]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Saved/Autosaves/Game/EnemyCharacter/Animation/EnemyAttackNotifyState_Auto3.uasset
+[2018.01.30-09.29.35:367][711]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/nishikawa/PlayerBP/Mesh/maria_prop_j_j_ong_Skeleton] ([1] browsable assets)...
+[2018.01.30-09.29.35:367][711]OBJ SavePackage: Finished generating thumbnails for package [/Game/nishikawa/PlayerBP/Mesh/maria_prop_j_j_ong_Skeleton]
+[2018.01.30-09.29.35:468][711]LogSavePackage: Save=18.78ms
+[2018.01.30-09.29.35:469][711]LogSavePackage: Moving '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Saved/maria_prop_j_j_ong_Skeleton_Auto40BB8B2345B4D28B1BF40FAFA4679043.tmp' to '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Saved/Autosaves/Game/nishikawa/PlayerBP/Mesh/maria_prop_j_j_ong_Skeleton_Auto3.uasset'
+[2018.01.30-09.29.35:471][711]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Saved/Autosaves/Game/nishikawa/PlayerBP/Mesh/maria_prop_j_j_ong_Skeleton_Auto3.uasset
+[2018.01.30-09.29.35:471][711]LogFileHelpers: Auto-saving content packages took 0.215
+[2018.01.30-09.39.44:935][616]Cmd: TRANSACTION UNDO
+[2018.01.30-09.39.44:935][616]LogEditorTransaction: Undo ボーン移動のリターゲティングモードを再帰的に設定
+[2018.01.30-09.39.46:644][616]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.Actor_2.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.01.30-09.39.46:680][616]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.Actor_3.DebugSkelMeshComponent_6) Already registered. Aborting.
+[2018.01.30-09.39.46:781][616]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.Actor_4.DebugSkelMeshComponent_8) Already registered. Aborting.
+[2018.01.30-09.39.46:818][616]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.Actor_5.DebugSkelMeshComponent_10) Already registered. Aborting.
+[2018.01.30-09.39.46:849][616]Cmd: TRANSACTION UNDO
+[2018.01.30-09.39.46:849][616]LogEditorTransaction: Undo アクタ を移動
+[2018.01.30-09.39.48:627][616]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.Actor_2.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.01.30-09.39.48:650][616]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.Actor_3.DebugSkelMeshComponent_6) Already registered. Aborting.
+[2018.01.30-09.39.48:664][616]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.Actor_4.DebugSkelMeshComponent_8) Already registered. Aborting.
+[2018.01.30-09.39.48:668][616]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.Actor_5.DebugSkelMeshComponent_10) Already registered. Aborting.
+[2018.01.30-09.39.49:432][620]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.Actor_6.DebugSkelMeshComponent_11) Already registered. Aborting.
+[2018.01.30-09.40.10:715][996]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.40.10:716][996]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.40.10:795][997]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.40.10:795][997]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.40.10:881][998]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.40.10:881][998]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.42.36:401][512]LogSavePackage: Save=318.47ms
+[2018.01.30-09.42.36:401][512]LogSavePackage: Moving '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Saved/FieldMap_Auto490A7A6EE4712C5F90ECF31A2A7CA6748.tmp' to '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Saved/Autosaves/Game/Maps/FieldMap_Auto4.umap'
+[2018.01.30-09.42.36:403][512]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Saved/Autosaves/Game/Maps/FieldMap_Auto4.umap
+[2018.01.30-09.42.36:411][512]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/FieldMap' took 0.401
+[2018.01.30-09.42.36:411][512]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.401
+[2018.01.30-09.43.05:873][679]LogEditorFactories: Performing atomic reimport of [C:/Users/yudai nishikawa/Desktop/Great Sword Run.fbx]
+[2018.01.30-09.43.06:229][679]LogFbx: Loading FBX Scene from C:/Users/yudai nishikawa/Desktop/Great Sword Run.fbx
+[2018.01.30-09.43.06:690][679]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.30-09.43.06:740][679]LogFbx: =================================================
+[2018.01.30-09.43.06:740][679]LogFbx: Dumping Node START [Maria_J_J_Ong] 
+[2018.01.30-09.43.06:740][679]LogFbx: 	Total Deformer Count -1286989984.
+[2018.01.30-09.43.06:740][679]LogFbx: 		[Node 1] Skin Maria_J_J_Ong (Type Skin).
+[2018.01.30-09.43.06:740][679]LogFbx: =================================================
+[2018.01.30-09.43.06:740][679]LogFbx: 	Attribute (Maria_J_J_Ong) Type (4).
+[2018.01.30-09.43.06:741][679]LogFbx: 		[Node Attribute Child 1] Maria_J_J_Ong (Type Mesh).
+[2018.01.30-09.43.06:741][679]LogFbx: Dumping Node END [Maria_J_J_Ong]
+[2018.01.30-09.43.06:741][679]LogFbx: =================================================
+[2018.01.30-09.43.06:741][679]LogFbx: Dumping Node START [Maria_sword] 
+[2018.01.30-09.43.06:741][679]LogFbx: 	Total Deformer Count 1404876672.
+[2018.01.30-09.43.06:741][679]LogFbx: 		[Node 1]  1 (Type Skin).
+[2018.01.30-09.43.06:741][679]LogFbx: =================================================
+[2018.01.30-09.43.06:741][679]LogFbx: 	Attribute (Maria_sword) Type (4).
+[2018.01.30-09.43.06:741][679]LogFbx: 		[Node Attribute Child 1] Maria_sword (Type Mesh).
+[2018.01.30-09.43.06:741][679]LogFbx: Dumping Node END [Maria_sword]
+[2018.01.30-09.43.06:748][679]LogFbx: =================================================
+[2018.01.30-09.43.06:748][679]LogFbx: Dumping Node START [Maria_J_J_Ong] 
+[2018.01.30-09.43.06:748][679]LogFbx: 	Total Deformer Count -1286989744.
+[2018.01.30-09.43.06:748][679]LogFbx: 		[Node 1] Skin Maria_J_J_Ong (Type Skin).
+[2018.01.30-09.43.06:748][679]LogFbx: =================================================
+[2018.01.30-09.43.06:748][679]LogFbx: 	Attribute (Maria_J_J_Ong) Type (4).
+[2018.01.30-09.43.06:748][679]LogFbx: 		[Node Attribute Child 1] Maria_J_J_Ong (Type Mesh).
+[2018.01.30-09.43.06:748][679]LogFbx: Dumping Node END [Maria_J_J_Ong]
+[2018.01.30-09.43.06:748][679]LogFbx: =================================================
+[2018.01.30-09.43.06:748][679]LogFbx: Dumping Node START [Maria_sword] 
+[2018.01.30-09.43.06:749][679]LogFbx: 	Total Deformer Count 1404874880.
+[2018.01.30-09.43.06:749][679]LogFbx: 		[Node 1]  1 (Type Skin).
+[2018.01.30-09.43.06:749][679]LogFbx: =================================================
+[2018.01.30-09.43.06:749][679]LogFbx: 	Attribute (Maria_sword) Type (4).
+[2018.01.30-09.43.06:749][679]LogFbx: 		[Node Attribute Child 1] Maria_sword (Type Mesh).
+[2018.01.30-09.43.06:749][679]LogFbx: Dumping Node END [Maria_sword]
+[2018.01.30-09.43.06:754][679]LogFbx: Parsing AnimStack mixamo.com
+[2018.01.30-09.43.08:167][679]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/nishikawa/PlayerBP/Animations/great_sword_run.great_sword_run
+[2018.01.30-09.43.08:169][679]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.great_sword_run) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.30-09.43.08:222][679]LogEditorFactories: -- imported successfully
+[2018.01.30-09.43.08:384][679]LogEditorFactories: Performing atomic reimport of [C:/Users/yudai nishikawa/Desktop/Great Sword Walk.fbx]
+[2018.01.30-09.43.09:323][679]LogFbx: Loading FBX Scene from C:/Users/yudai nishikawa/Desktop/Great Sword Walk.fbx
+[2018.01.30-09.43.09:457][679]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.30-09.43.09:461][679]LogFbx: =================================================
+[2018.01.30-09.43.09:461][679]LogFbx: Dumping Node START [Maria_J_J_Ong] 
+[2018.01.30-09.43.09:461][679]LogFbx: 	Total Deformer Count -1286983184.
+[2018.01.30-09.43.09:461][679]LogFbx: 		[Node 1] Skin Maria_J_J_Ong (Type Skin).
+[2018.01.30-09.43.09:461][679]LogFbx: =================================================
+[2018.01.30-09.43.09:461][679]LogFbx: 	Attribute (Maria_J_J_Ong) Type (4).
+[2018.01.30-09.43.09:461][679]LogFbx: 		[Node Attribute Child 1] Maria_J_J_Ong (Type Mesh).
+[2018.01.30-09.43.09:461][679]LogFbx: Dumping Node END [Maria_J_J_Ong]
+[2018.01.30-09.43.09:461][679]LogFbx: =================================================
+[2018.01.30-09.43.09:461][679]LogFbx: Dumping Node START [Maria_sword] 
+[2018.01.30-09.43.09:461][679]LogFbx: 	Total Deformer Count -1399683904.
+[2018.01.30-09.43.09:461][679]LogFbx: 		[Node 1]  1 (Type Skin).
+[2018.01.30-09.43.09:461][679]LogFbx: =================================================
+[2018.01.30-09.43.09:461][679]LogFbx: 	Attribute (Maria_sword) Type (4).
+[2018.01.30-09.43.09:461][679]LogFbx: 		[Node Attribute Child 1] Maria_sword (Type Mesh).
+[2018.01.30-09.43.09:461][679]LogFbx: Dumping Node END [Maria_sword]
+[2018.01.30-09.43.09:462][679]LogFbx: =================================================
+[2018.01.30-09.43.09:462][679]LogFbx: Dumping Node START [Maria_J_J_Ong] 
+[2018.01.30-09.43.09:462][679]LogFbx: 	Total Deformer Count -1286983584.
+[2018.01.30-09.43.09:462][679]LogFbx: 		[Node 1] Skin Maria_J_J_Ong (Type Skin).
+[2018.01.30-09.43.09:462][679]LogFbx: =================================================
+[2018.01.30-09.43.09:462][679]LogFbx: 	Attribute (Maria_J_J_Ong) Type (4).
+[2018.01.30-09.43.09:462][679]LogFbx: 		[Node Attribute Child 1] Maria_J_J_Ong (Type Mesh).
+[2018.01.30-09.43.09:462][679]LogFbx: Dumping Node END [Maria_J_J_Ong]
+[2018.01.30-09.43.09:462][679]LogFbx: =================================================
+[2018.01.30-09.43.09:462][679]LogFbx: Dumping Node START [Maria_sword] 
+[2018.01.30-09.43.09:462][679]LogFbx: 	Total Deformer Count -1399680512.
+[2018.01.30-09.43.09:462][679]LogFbx: 		[Node 1]  1 (Type Skin).
+[2018.01.30-09.43.09:462][679]LogFbx: =================================================
+[2018.01.30-09.43.09:462][679]LogFbx: 	Attribute (Maria_sword) Type (4).
+[2018.01.30-09.43.09:462][679]LogFbx: 		[Node Attribute Child 1] Maria_sword (Type Mesh).
+[2018.01.30-09.43.09:462][679]LogFbx: Dumping Node END [Maria_sword]
+[2018.01.30-09.43.09:463][679]LogFbx: Parsing AnimStack mixamo.com
+[2018.01.30-09.43.12:095][679]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/nishikawa/PlayerBP/Animations/great_sword_walk.great_sword_walk
+[2018.01.30-09.43.12:097][679]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.great_sword_walk) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.30-09.43.12:158][679]LogEditorFactories: -- imported successfully
+[2018.01.30-09.43.29:472][859]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_31:PersistentLevel.Actor_7.DebugSkelMeshComponent_12) Already registered. Aborting.
+[2018.01.30-09.43.30:870][859]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.30-09.43.56:385][465]LogSavePackage: Save=54.00ms
+[2018.01.30-09.43.56:385][465]LogSavePackage: Moving '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Saved/great_sword_run20F4EE594A361CBB09B516A47907D81C.tmp' to '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Content/nishikawa/PlayerBP/Animations/great_sword_run.uasset'
+[2018.01.30-09.43.56:402][465]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Content/nishikawa/PlayerBP/Animations/great_sword_run.uasset
+[2018.01.30-09.45.17:510][636]LogSavePackage: Save=50.87ms
+[2018.01.30-09.45.17:510][636]LogSavePackage: Moving '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Saved/great_sword_walk006E34D943E19ABB18404E8CE562E25B.tmp' to '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Content/nishikawa/PlayerBP/Animations/great_sword_walk.uasset'
+[2018.01.30-09.45.17:521][636]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Content/nishikawa/PlayerBP/Animations/great_sword_walk.uasset
+[2018.01.30-09.45.23:308][727]LogTemp: Repeating last play command: 選択ビューポート
+[2018.01.30-09.45.23:404][727]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.30-09.45.23:405][727]PIE: New page: PIEセッション: FieldMap (2018/01/31 3:45:23)
+[2018.01.30-09.45.23:405][727]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FieldMap
+[2018.01.30-09.45.23:477][727]LogPlayLevel: PIE: StaticDuplicateObject took: (0.072186s)
+[2018.01.30-09.45.23:479][727]LogAIModule: Creating AISystem for world FieldMap
+[2018.01.30-09.45.23:480][727]LogPlayLevel: PIE: World Init took: (0.001963s)
+[2018.01.30-09.45.23:480][727]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FieldMap.FieldMap to /Game/Maps/UEDPIE_0_FieldMap.FieldMap (0.075159s)
+[2018.01.30-09.45.23:540][727]LogInit: XAudio2 using 'スピーカー / ヘッドホン (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.30-09.45.23:589][727]LogInit: FAudioDevice initialized.
+[2018.01.30-09.45.23:650][727]LogLoad: Game class is 'GameModeBase'
+[2018.01.30-09.45.23:672][727]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FieldMap.FieldMap up for play (max tick rate 60) at 2018.01.30-18.45.23
+[2018.01.30-09.45.23:674][727]LogWorld: Bringing up level for play took: 0.020210
+[2018.01.30-09.45.23:679][727]PIE: /Game/Maps/UEDPIE_0_FieldMap -0.571のプレイ イン エディタの開始時間
+[2018.01.30-09.46.37:094][421]LogTemp: Repeating last play command: 選択ビューポート
+[2018.01.30-09.46.37:215][421]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.30-09.46.37:216][421]PIE: New page: PIEセッション: FieldMap (2018/01/31 3:46:37)
+[2018.01.30-09.46.37:216][421]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FieldMap
+[2018.01.30-09.46.37:278][421]LogPlayLevel: PIE: StaticDuplicateObject took: (0.062270s)
+[2018.01.30-09.46.37:280][421]LogAIModule: Creating AISystem for world FieldMap
+[2018.01.30-09.46.37:280][421]LogPlayLevel: PIE: World Init took: (0.002055s)
+[2018.01.30-09.46.37:281][421]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FieldMap.FieldMap to /Game/Maps/UEDPIE_0_FieldMap.FieldMap (0.065190s)
+[2018.01.30-09.46.37:378][421]LogInit: XAudio2 using 'スピーカー / ヘッドホン (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.30-09.46.37:426][421]LogInit: FAudioDevice initialized.
+[2018.01.30-09.46.37:481][421]LogLoad: Game class is 'GameModeBase'
+[2018.01.30-09.46.37:499][421]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FieldMap.FieldMap up for play (max tick rate 60) at 2018.01.30-18.46.37
+[2018.01.30-09.46.37:501][421]LogWorld: Bringing up level for play took: 0.019077
+[2018.01.30-09.46.37:507][421]PIE: /Game/Maps/UEDPIE_0_FieldMap 1.257のプレイ イン エディタの開始時間
+[2018.01.30-09.47.23:450][179]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.01.30-09.48.07:613][872]LogEditorActor: Deleted Actor: PlayerCharacter_C
+[2018.01.30-09.48.07:665][872]LogEditorActor: Deleted 1 Actors (0.066 secs)
+[2018.01.30-09.48.50:842][813]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.Actor_8.DebugSkelMeshComponent_16) Already registered. Aborting.
+[2018.01.30-09.48.52:553][813]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.30-09.49.37:084][337]Cmd: TRANSACTION UNDO
+[2018.01.30-09.49.37:084][337]LogEditorTransaction: Undo ブレンドグリッドサンプルを削除
+[2018.01.30-09.49.37:450][337]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.Actor_8.DebugSkelMeshComponent_16) Already registered. Aborting.
+[2018.01.30-09.49.56:672][559]LogSavePackage: Save=26.77ms
+[2018.01.30-09.49.56:672][559]LogSavePackage: Moving '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Saved/great_sword_walkBF4A974D4FBE9790F6F4C3992F026D9C.tmp' to '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Content/nishikawa/PlayerBP/Animations/great_sword_walk.uasset'
+[2018.01.30-09.49.56:680][559]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Content/nishikawa/PlayerBP/Animations/great_sword_walk.uasset
+[2018.01.30-09.50.02:478][653]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_39:PersistentLevel.Actor_9.DebugSkelMeshComponent_19) Already registered. Aborting.
+[2018.01.30-09.50.04:492][653]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.30-09.50.22:376][ 45]Cmd: TRANSACTION UNDO
+[2018.01.30-09.50.22:376][ 45]LogEditorTransaction: Undo ブレンドグリッドサンプルを削除
+[2018.01.30-09.50.23:156][ 45]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_39:PersistentLevel.Actor_9.DebugSkelMeshComponent_19) Already registered. Aborting.
+[2018.01.30-09.50.23:161][ 45]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.Actor_8.DebugSkelMeshComponent_16) Already registered. Aborting.
+[2018.01.30-09.51.28:089][314]LogSavePackage: Save=44.64ms
+[2018.01.30-09.51.28:089][314]LogSavePackage: Moving '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Saved/great_sword_run__2_BE549134415558A8DA63D3BA24A9AD5F.tmp' to '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Content/nishikawa/PlayerBP/Animations/great_sword_run__2_.uasset'
+[2018.01.30-09.51.28:098][314]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Content/nishikawa/PlayerBP/Animations/great_sword_run__2_.uasset
+[2018.01.30-09.52.24:938][450]LogSavePackage: Save=51.01ms
+[2018.01.30-09.52.24:938][450]LogSavePackage: Moving '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Saved/PlayerBlendSpace2D076CECD34A507C4FE622D7A2D44A4EB2.tmp' to '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Content/nishikawa/PlayerBP/Animations/PlayerBlendSpace2D.uasset'
+[2018.01.30-09.52.24:963][450]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Content/nishikawa/PlayerBP/Animations/PlayerBlendSpace2D.uasset
+[2018.01.30-09.52.29:907][538]LogTemp: Repeating last play command: 選択ビューポート
+[2018.01.30-09.52.29:988][538]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.30-09.52.29:989][538]PIE: New page: PIEセッション: FieldMap (2018/01/31 3:52:29)
+[2018.01.30-09.52.29:990][538]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FieldMap
+[2018.01.30-09.52.30:052][538]LogPlayLevel: PIE: StaticDuplicateObject took: (0.062506s)
+[2018.01.30-09.52.30:055][538]LogAIModule: Creating AISystem for world FieldMap
+[2018.01.30-09.52.30:056][538]LogPlayLevel: PIE: World Init took: (0.003288s)
+[2018.01.30-09.52.30:056][538]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FieldMap.FieldMap to /Game/Maps/UEDPIE_0_FieldMap.FieldMap (0.066773s)
+[2018.01.30-09.52.30:168][538]LogInit: XAudio2 using 'スピーカー / ヘッドホン (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.30-09.52.30:218][538]LogInit: FAudioDevice initialized.
+[2018.01.30-09.52.30:272][538]LogLoad: Game class is 'GameModeBase'
+[2018.01.30-09.52.30:286][538]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FieldMap.FieldMap up for play (max tick rate 60) at 2018.01.30-18.52.30
+[2018.01.30-09.52.30:290][538]LogWorld: Bringing up level for play took: 0.017456
+[2018.01.30-09.52.30:297][538]PIE: /Game/Maps/UEDPIE_0_FieldMap 0.047のプレイ イン エディタの開始時間
+[2018.01.30-09.52.53:838][236]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.52.53:839][236]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.52.53:870][237]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.52.53:870][237]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.52.53:903][238]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.52.53:903][238]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.52.53:933][239]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.52.53:933][239]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.52.53:964][240]LogBlueprintUserMessages: [None] Hello
+[2018.01.30-09.52.54:102][241]LogBlueprintUserMessages: [None] Hello
+[2018.01.30-09.52.56:507][314]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.52.56:507][314]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.52.56:530][315]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.52.56:530][315]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.52.56:568][316]LogBlueprintUserMessages: [None] Hello
+[2018.01.30-09.52.56:604][317]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.52.56:604][317]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.52.56:636][318]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.52.56:636][318]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.52.56:665][319]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.52.56:665][319]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.52.58:563][376]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.52.58:563][376]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.52.58:607][377]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.52.58:608][377]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.52.58:640][378]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.52.58:640][378]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.52.58:673][379]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.52.58:674][379]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.52.58:705][380]LogBlueprintUserMessages: [None] Hello
+[2018.01.30-09.52.58:750][381]LogBlueprintUserMessages: [None] Hello
+[2018.01.30-09.53.00:269][426]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.53.00:269][426]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.53.00:304][427]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.53.00:304][427]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.53.00:340][428]LogBlueprintUserMessages: [None] Hello
+[2018.01.30-09.53.00:372][429]LogBlueprintUserMessages: [None] Hello
+[2018.01.30-09.53.00:403][430]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.53.00:403][430]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.53.00:442][431]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.53.00:442][431]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.53.01:216][454]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.53.01:216][454]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.53.01:288][456]LogBlueprintUserMessages: [None] Hello
+[2018.01.30-09.53.01:316][457]LogBlueprintUserMessages: [None] Hello
+[2018.01.30-09.53.01:351][458]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.53.01:351][458]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.53.01:390][459]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.53.01:390][459]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.53.01:634][466]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/nishikawa/PlayerBP/Animations/great_sword_casting.great_sword_casting
+[2018.01.30-09.53.03:296][514]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.53.03:296][514]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.53.03:339][515]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.53.03:339][515]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.53.03:369][516]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.53.03:369][516]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.53.03:401][517]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.53.03:401][517]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.53.03:443][518]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.53.03:443][518]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.53.03:475][519]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.53.03:476][519]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.53.03:577][522]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.53.03:577][522]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.53.03:605][523]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.53.03:606][523]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.53.03:642][524]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.53.03:642][524]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.53.03:670][525]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.53.03:670][525]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.53.03:713][526]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.53.03:713][526]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.53.03:742][527]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.53.03:742][527]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.53.06:401][606]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.53.06:401][606]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.53.06:439][607]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.53.06:439][607]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.53.06:485][608]LogBlueprintUserMessages: [None] Hello
+[2018.01.30-09.53.06:514][609]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.53.06:514][609]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.53.06:614][610]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.53.06:614][610]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.53.07:494][636]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.53.07:494][636]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.53.07:532][637]LogBlueprintUserMessages: [None] Hello
+[2018.01.30-09.53.07:565][638]LogBlueprintUserMessages: [None] Hello
+[2018.01.30-09.53.07:605][639]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.53.07:605][639]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.53.07:641][640]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.53.07:641][640]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.53.07:671][641]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.53.07:671][641]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.53.08:904][678]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/nishikawa/PlayerBP/Animations/great_sword_casting.great_sword_casting
+[2018.01.30-09.53.09:117][684]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.53.09:117][684]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.53.09:158][685]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.53.09:158][685]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.53.09:185][686]LogBlueprintUserMessages: [None] Hello
+[2018.01.30-09.53.09:219][687]LogBlueprintUserMessages: [None] Hello
+[2018.01.30-09.53.09:257][688]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.53.09:257][688]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.53.11:119][741]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.53.11:120][741]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.53.11:182][743]LogBlueprintUserMessages: [None] Hello
+[2018.01.30-09.53.11:217][744]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.53.11:218][744]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.53.11:257][745]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.53.11:257][745]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.53.11:290][746]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.53.11:290][746]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.53.12:271][775]LogBlueprintUserMessages: [None] Hello
+[2018.01.30-09.53.12:300][776]LogBlueprintUserMessages: [None] Hello
+[2018.01.30-09.53.12:331][777]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.53.12:331][777]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.53.22:772][ 15]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.Actor_10.DebugSkelMeshComponent_23) Already registered. Aborting.
+[2018.01.30-09.53.46:272][570]LogTemp: Repeating last play command: 選択ビューポート
+[2018.01.30-09.53.46:353][570]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.30-09.53.46:354][570]PIE: New page: PIEセッション: FieldMap (2018/01/31 3:53:46)
+[2018.01.30-09.53.46:354][570]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FieldMap
+[2018.01.30-09.53.46:414][570]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059852s)
+[2018.01.30-09.53.46:417][570]LogAIModule: Creating AISystem for world FieldMap
+[2018.01.30-09.53.46:418][570]LogPlayLevel: PIE: World Init took: (0.003648s)
+[2018.01.30-09.53.46:420][570]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FieldMap.FieldMap to /Game/Maps/UEDPIE_0_FieldMap.FieldMap (0.066303s)
+[2018.01.30-09.53.46:480][570]LogInit: XAudio2 using 'スピーカー / ヘッドホン (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.30-09.53.46:524][570]LogInit: FAudioDevice initialized.
+[2018.01.30-09.53.46:588][570]LogLoad: Game class is 'GameModeBase'
+[2018.01.30-09.53.46:600][570]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FieldMap.FieldMap up for play (max tick rate 60) at 2018.01.30-18.53.46
+[2018.01.30-09.53.46:601][570]LogWorld: Bringing up level for play took: 0.010191
+[2018.01.30-09.53.46:606][570]PIE: /Game/Maps/UEDPIE_0_FieldMap 0.356のプレイ イン エディタの開始時間
+[2018.01.30-09.53.52:225][729]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.53.52:225][729]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.53.52:256][730]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.53.52:257][730]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.53.52:290][731]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.53.52:291][731]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.53.52:331][732]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.53.52:331][732]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.53.52:370][733]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.53.52:370][733]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.53.52:397][734]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.53.52:397][734]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.53.54:690][803]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.53.54:691][803]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.53.54:722][804]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.53.54:722][804]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.53.54:761][805]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.53.54:761][805]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.53.54:794][806]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.53.54:794][806]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.53.54:824][807]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.53.54:824][807]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.53.54:863][808]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.53.54:863][808]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.53.54:894][809]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.53.54:894][809]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.53.54:922][810]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.53.54:922][810]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.53.54:957][811]LogBlueprintUserMessages: [None] Hello
+[2018.01.30-09.53.54:999][812]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.53.54:999][812]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.53.55:024][813]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.53.55:024][813]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.53.55:055][814]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.53.55:056][814]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.53.56:890][869]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/nishikawa/PlayerBP/Animations/great_sword_casting.great_sword_casting
+[2018.01.30-09.53.57:057][874]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.53.57:057][874]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.53.57:098][875]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.53.57:098][875]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.53.57:124][876]LogBlueprintUserMessages: [None] Hello
+[2018.01.30-09.53.57:165][877]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.53.57:166][877]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.53.57:199][878]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.53.57:199][878]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.53.57:231][879]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.53.57:232][879]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.53.57:892][898]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.53.57:892][898]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.53.57:922][899]LogBlueprintUserMessages: [None] Hello
+[2018.01.30-09.53.57:982][901]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.53.57:982][901]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.53.58:013][902]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.53.58:013][902]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.53.59:486][946]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.53.59:487][946]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.53.59:514][947]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.53.59:514][947]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.53.59:542][948]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.53.59:542][948]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.53.59:580][949]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.53.59:580][949]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.53.59:608][950]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.53.59:609][950]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.53.59:638][951]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.53.59:638][951]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.53.59:670][952]LogBlueprintUserMessages: [None] Hello
+[2018.01.30-09.53.59:700][953]LogBlueprintUserMessages: [None] Hello
+[2018.01.30-09.53.59:736][954]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.53.59:736][954]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.53.59:773][955]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.53.59:773][955]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.54.01:798][ 16]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.54.01:799][ 16]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.54.01:839][ 17]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.54.01:839][ 17]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.54.01:869][ 18]LogBlueprintUserMessages: [None] Hello
+[2018.01.30-09.54.01:906][ 19]LogBlueprintUserMessages: [None] Hello
+[2018.01.30-09.54.01:940][ 20]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.54.01:940][ 20]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.54.01:983][ 21]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.54.01:983][ 21]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.54.02:667][ 42]LogBlueprintUserMessages: [None] Hello
+[2018.01.30-09.54.02:704][ 43]LogBlueprintUserMessages: [None] Hello
+[2018.01.30-09.54.02:736][ 44]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.54.02:736][ 44]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.54.02:772][ 45]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.54.02:772][ 45]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.54.03:168][ 57]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/nishikawa/PlayerBP/Animations/great_sword_casting.great_sword_casting
+[2018.01.30-09.54.04:207][ 87]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.54.04:207][ 87]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.54.04:238][ 88]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.54.04:238][ 88]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.54.04:269][ 89]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.54.04:269][ 89]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.54.04:308][ 90]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.54.04:308][ 90]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.54.04:335][ 91]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.54.04:335][ 91]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.54.04:378][ 92]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.54.04:378][ 92]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.54.04:407][ 93]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.54.04:407][ 93]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.54.04:441][ 94]LogBlueprintUserMessages: [None] Hello
+[2018.01.30-09.54.04:486][ 95]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.54.04:486][ 95]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.54.04:520][ 96]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.54.04:520][ 96]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.54.04:559][ 97]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.54.04:559][ 97]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.54.35:581][888]LogTemp: Repeating last play command: 選択ビューポート
+[2018.01.30-09.54.35:676][888]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.30-09.54.35:677][888]PIE: New page: PIEセッション: FieldMap (2018/01/31 3:54:35)
+[2018.01.30-09.54.35:677][888]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FieldMap
+[2018.01.30-09.54.35:738][888]LogPlayLevel: PIE: StaticDuplicateObject took: (0.060866s)
+[2018.01.30-09.54.35:742][888]LogAIModule: Creating AISystem for world FieldMap
+[2018.01.30-09.54.35:742][888]LogPlayLevel: PIE: World Init took: (0.003901s)
+[2018.01.30-09.54.35:743][888]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FieldMap.FieldMap to /Game/Maps/UEDPIE_0_FieldMap.FieldMap (0.065973s)
+[2018.01.30-09.54.35:809][888]LogInit: XAudio2 using 'スピーカー / ヘッドホン (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.30-09.54.35:853][888]LogInit: FAudioDevice initialized.
+[2018.01.30-09.54.35:919][888]LogLoad: Game class is 'GameModeBase'
+[2018.01.30-09.54.35:939][888]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FieldMap.FieldMap up for play (max tick rate 60) at 2018.01.30-18.54.35
+[2018.01.30-09.54.35:942][888]LogWorld: Bringing up level for play took: 0.021575
+[2018.01.30-09.54.35:953][888]PIE: /Game/Maps/UEDPIE_0_FieldMap -0.298のプレイ イン エディタの開始時間
+[2018.01.30-09.54.45:797][174]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.54.45:797][174]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.54.45:831][175]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.54.45:831][175]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.54.45:861][176]LogBlueprintUserMessages: [None] Hello
+[2018.01.30-09.54.45:901][177]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.54.45:901][177]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.54.45:932][178]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.54.45:932][178]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.54.45:963][179]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.54.45:963][179]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.54.47:395][222]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.54.47:395][222]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.54.47:426][223]LogBlueprintUserMessages: [None] Hello
+[2018.01.30-09.54.47:458][224]LogBlueprintUserMessages: [None] Hello
+[2018.01.30-09.54.47:494][225]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.54.47:494][225]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.54.47:529][226]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.54.47:529][226]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.54.48:127][244]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/nishikawa/PlayerBP/Animations/great_sword_casting.great_sword_casting
+[2018.01.30-09.54.50:561][317]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.54.50:561][317]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.54.50:597][318]LogBlueprintUserMessages: [None] Hello
+[2018.01.30-09.54.50:630][319]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.54.50:630][319]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.54.50:661][320]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.54.50:662][320]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.54.50:696][321]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.54.50:696][321]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.54.52:092][363]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.54.52:092][363]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.54.52:128][364]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.54.52:128][364]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.54.52:161][365]LogBlueprintUserMessages: [None] Hello
+[2018.01.30-09.54.52:191][366]LogBlueprintUserMessages: [None] Hello
+[2018.01.30-09.54.52:225][367]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.54.52:225][367]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.54.52:260][368]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.54.52:260][368]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.54.56:168][485]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.54.56:168][485]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.54.56:203][486]LogBlueprintUserMessages: [None] Hello
+[2018.01.30-09.54.56:235][487]LogBlueprintUserMessages: [None] Hello
+[2018.01.30-09.54.56:268][488]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.54.56:268][488]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.54.56:306][489]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.54.56:306][489]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.54.57:438][523]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/nishikawa/PlayerBP/Animations/great_sword_casting.great_sword_casting
+[2018.01.30-09.54.58:077][541]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.54.58:077][541]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.54.58:108][542]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.54.58:108][542]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.54.58:141][543]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.54.58:141][543]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.54.58:169][544]LogBlueprintUserMessages: [None] Hello
+[2018.01.30-09.54.58:202][545]LogBlueprintUserMessages: [None] Hello
+[2018.01.30-09.54.58:242][546]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.54.58:243][546]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.55.01:709][651]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.55.01:710][651]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.55.01:740][652]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.55.01:740][652]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.55.01:772][653]LogBlueprintUserMessages: [None] Hello
+[2018.01.30-09.55.01:810][654]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.55.01:810][654]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.55.01:842][655]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.55.01:842][655]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.55.01:876][656]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.55.01:876][656]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.55.22:837][281]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/nishikawa/PlayerBP/Animations/great_sword_casting.great_sword_casting
+[2018.01.30-09.55.28:801][459]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/nishikawa/PlayerBP/Animations/great_sword_casting.great_sword_casting
+[2018.01.30-09.55.39:031][760]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/nishikawa/PlayerBP/Animations/great_sword_casting.great_sword_casting
+[2018.01.30-09.55.58:661][137]LogSavePackage: Save=22.45ms
+[2018.01.30-09.55.58:661][137]LogSavePackage: Moving '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Saved/maria_prop_j_j_ong_Skeleton10F94BF843FA1B3283638DA7433F1194.tmp' to '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Content/nishikawa/PlayerBP/Mesh/maria_prop_j_j_ong_Skeleton.uasset'
+[2018.01.30-09.55.58:695][137]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Content/nishikawa/PlayerBP/Mesh/maria_prop_j_j_ong_Skeleton.uasset
+[2018.01.30-09.56.00:740][178]LogTemp: Repeating last play command: 選択ビューポート
+[2018.01.30-09.56.00:821][178]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.30-09.56.00:822][178]PIE: New page: PIEセッション: FieldMap (2018/01/31 3:56:00)
+[2018.01.30-09.56.00:822][178]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FieldMap
+[2018.01.30-09.56.00:887][178]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064681s)
+[2018.01.30-09.56.00:891][178]LogAIModule: Creating AISystem for world FieldMap
+[2018.01.30-09.56.00:892][178]LogPlayLevel: PIE: World Init took: (0.004785s)
+[2018.01.30-09.56.00:894][178]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FieldMap.FieldMap to /Game/Maps/UEDPIE_0_FieldMap.FieldMap (0.071887s)
+[2018.01.30-09.56.00:948][178]LogInit: XAudio2 using 'スピーカー / ヘッドホン (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.30-09.56.01:002][178]LogInit: FAudioDevice initialized.
+[2018.01.30-09.56.01:057][178]LogLoad: Game class is 'GameModeBase'
+[2018.01.30-09.56.01:074][178]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FieldMap.FieldMap up for play (max tick rate 60) at 2018.01.30-18.56.01
+[2018.01.30-09.56.01:075][178]LogWorld: Bringing up level for play took: 0.016342
+[2018.01.30-09.56.01:086][178]PIE: /Game/Maps/UEDPIE_0_FieldMap 0.836のプレイ イン エディタの開始時間
+[2018.01.30-09.56.09:279][415]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.56.09:279][415]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.56.09:313][416]LogBlueprintUserMessages: [None] Hello
+[2018.01.30-09.56.09:345][417]LogBlueprintUserMessages: [None] Hello
+[2018.01.30-09.56.09:381][418]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.56.09:381][418]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.56.09:420][419]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-09.56.09:420][419]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-09.57.02:788][429]LogTemp: Repeating last play command: 選択ビューポート
+[2018.01.30-09.57.02:881][429]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.30-09.57.02:882][429]PIE: New page: PIEセッション: FieldMap (2018/01/31 3:57:02)
+[2018.01.30-09.57.02:882][429]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FieldMap
+[2018.01.30-09.57.02:939][429]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056661s)
+[2018.01.30-09.57.02:942][429]LogAIModule: Creating AISystem for world FieldMap
+[2018.01.30-09.57.02:942][429]LogPlayLevel: PIE: World Init took: (0.002382s)
+[2018.01.30-09.57.02:943][429]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FieldMap.FieldMap to /Game/Maps/UEDPIE_0_FieldMap.FieldMap (0.060288s)
+[2018.01.30-09.57.03:004][429]LogInit: XAudio2 using 'スピーカー / ヘッドホン (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.30-09.57.03:049][429]LogInit: FAudioDevice initialized.
+[2018.01.30-09.57.03:114][429]LogLoad: Game class is 'GameModeBase'
+[2018.01.30-09.57.03:124][429]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FieldMap.FieldMap up for play (max tick rate 60) at 2018.01.30-18.57.03
+[2018.01.30-09.57.03:130][429]LogWorld: Bringing up level for play took: 0.012086
+[2018.01.30-09.57.03:139][429]PIE: /Game/Maps/UEDPIE_0_FieldMap 0.888のプレイ イン エディタの開始時間
+[2018.01.30-09.57.20:246][938]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/nishikawa/PlayerBP/Animations/great_sword_casting.great_sword_casting
+[2018.01.30-09.57.39:860][526]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/nishikawa/PlayerBP/Animations/great_sword_casting.great_sword_casting
+[2018.01.30-09.57.46:088][705]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/nishikawa/PlayerBP/Animations/great_sword_casting.great_sword_casting
+[2018.01.30-09.59.02:610][583]LogSavePackage: Save=690.46ms
+[2018.01.30-09.59.02:610][583]LogSavePackage: Moving '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Saved/FieldMap_Auto56ACBBEEC4711623318E73FB07FB0CDC4.tmp' to '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Saved/Autosaves/Game/Maps/FieldMap_Auto5.umap'
+[2018.01.30-09.59.02:616][583]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Saved/Autosaves/Game/Maps/FieldMap_Auto5.umap
+[2018.01.30-09.59.02:624][583]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/FieldMap' took 0.890
+[2018.01.30-09.59.02:624][583]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.890
+[2018.01.30-09.59.02:765][583]LogSavePackage: Save=12.11ms
+[2018.01.30-09.59.02:765][583]LogSavePackage: Moving '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Saved/PlayerCharacter_Auto5F1E75F5E43BB1414310479BEC1474859.tmp' to '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Saved/Autosaves/Game/PlayerBP/Character/Blueprints/PlayerCharacter_Auto5.uasset'
+[2018.01.30-09.59.02:774][583]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Saved/Autosaves/Game/PlayerBP/Character/Blueprints/PlayerCharacter_Auto5.uasset
+[2018.01.30-09.59.02:871][583]LogSavePackage: Save=19.06ms
+[2018.01.30-09.59.02:872][583]LogSavePackage: Moving '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Saved/PlayerUI_Auto5D0DCF4EF4C2777DD87E24AAA184B90A0.tmp' to '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Saved/Autosaves/Game/PlayerBP/Character/Blueprints/PlayerUI_Auto5.uasset'
+[2018.01.30-09.59.02:877][583]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Saved/Autosaves/Game/PlayerBP/Character/Blueprints/PlayerUI_Auto5.uasset
+[2018.01.30-09.59.02:878][583]LogFileHelpers: Auto-saving content packages took 0.243
+[2018.01.30-10.00.10:699][187]LogSavePackage: Save=52.80ms
+[2018.01.30-10.00.10:699][187]LogSavePackage: Moving '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Saved/great_sword_jump0CE13E694F3DAFB54750ED9925EC495B.tmp' to '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Content/nishikawa/PlayerBP/Animations/great_sword_jump.uasset'
+[2018.01.30-10.00.10:705][187]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Content/nishikawa/PlayerBP/Animations/great_sword_jump.uasset
+[2018.01.30-10.00.11:612][187]LogSavePackage: Save=341.61ms
+[2018.01.30-10.00.11:612][187]LogSavePackage: Moving '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Saved/PlayerAnimBP95417ACB46E4462C2EC4B5A3FF7AE430.tmp' to '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Content/nishikawa/PlayerBP/Animations/PlayerAnimBP.uasset'
+[2018.01.30-10.00.11:617][187]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Content/nishikawa/PlayerBP/Animations/PlayerAnimBP.uasset
+[2018.01.30-10.00.55:398][671]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_45:PersistentLevel.Actor_11.DebugSkelMeshComponent_25) Already registered. Aborting.
+[2018.01.30-10.00.56:244][671]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.30-10.01.14:878][927]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_48:PersistentLevel.Actor_12.DebugSkelMeshComponent_28) Already registered. Aborting.
+[2018.01.30-10.01.15:511][927]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.30-10.01.35:380][345]LogTemp: Repeating last play command: 選択ビューポート
+[2018.01.30-10.01.35:449][345]BlueprintLog: New page: プレイ前に自動再コンパイル
+[2018.01.30-10.01.35:462][345]LogPlayLevel: [PlayLevel] Compiling EnemyAttackNotifyState before play...
+[2018.01.30-10.01.35:644][345]LogPlayLevel: [PlayLevel] Compiling BTTask_FindPlayer before play...
+[2018.01.30-10.01.35:773][345]LogPlayLevel: [PlayLevel] Compiling EnemyAnimation before play...
+[2018.01.30-10.01.35:997][345]LogPlayLevel: [PlayLevel] Compiling PlayerAnimBP before play...
+[2018.01.30-10.01.36:212][345]LogPlayLevel: PlayLevel: Blueprint regeneration took 762 ms (4 blueprints)
+[2018.01.30-10.01.36:212][345]PIE: New page: PIEセッション: FieldMap (2018/01/31 4:01:36)
+[2018.01.30-10.01.36:212][345]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FieldMap
+[2018.01.30-10.01.36:233][345]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020158s)
+[2018.01.30-10.01.36:234][345]LogAIModule: Creating AISystem for world FieldMap
+[2018.01.30-10.01.36:234][345]LogPlayLevel: PIE: World Init took: (0.001222s)
+[2018.01.30-10.01.36:234][345]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FieldMap.FieldMap to /Game/Maps/UEDPIE_0_FieldMap.FieldMap (0.021856s)
+[2018.01.30-10.01.36:253][345]LogInit: XAudio2 using 'スピーカー / ヘッドホン (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.30-10.01.36:269][345]LogInit: FAudioDevice initialized.
+[2018.01.30-10.01.36:311][345]LogLoad: Game class is 'GameModeBase'
+[2018.01.30-10.01.36:327][345]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FieldMap.FieldMap up for play (max tick rate 60) at 2018.01.30-19.01.36
+[2018.01.30-10.01.36:329][345]LogWorld: Bringing up level for play took: 0.015117
+[2018.01.30-10.01.36:335][345]PIE: /Game/Maps/UEDPIE_0_FieldMap 0.085のプレイ イン エディタの開始時間
+[2018.01.30-10.01.42:809][533]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-10.01.42:809][533]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-10.01.42:842][534]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-10.01.42:843][534]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-10.01.42:874][535]LogBlueprintUserMessages: [None] Hello
+[2018.01.30-10.01.42:907][536]LogBlueprintUserMessages: [None] Hello
+[2018.01.30-10.01.42:942][537]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-10.01.42:942][537]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-10.01.42:976][538]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-10.01.42:976][538]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-10.01.47:576][676]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-10.01.47:576][676]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-10.01.47:607][677]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-10.01.47:607][677]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-10.01.47:640][678]LogBlueprintUserMessages: [None] Hello
+[2018.01.30-10.01.47:673][679]LogBlueprintUserMessages: [None] Hello
+[2018.01.30-10.01.47:708][680]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-10.01.47:708][680]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-10.01.47:741][681]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-10.01.47:741][681]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-10.02.59:327][893]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Ruin_BuildingLOD02)
+[2018.01.30-10.03.07:332][ 52]LogRenderer: Reallocating scene render targets to support 1088x748 Format 10 NumSamples 1 (Frame:1).
+[2018.01.30-10.04.14:209][696]LogSavePackage: Save=65.14ms
+[2018.01.30-10.04.14:209][696]LogSavePackage: Moving '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Saved/SM_Plains_Ruin_BuildingLOD02B9AB2F3E4CEA60EF3F4AEE80338CE743.tmp' to '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Ruin_BuildingLOD02.uasset'
+[2018.01.30-10.04.14:219][696]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Ruin_BuildingLOD02.uasset
+[2018.01.30-10.04.19:449][806]LogTemp: Repeating last play command: 選択ビューポート
+[2018.01.30-10.04.19:569][806]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.30-10.04.19:570][806]PIE: New page: PIEセッション: FieldMap (2018/01/31 4:04:19)
+[2018.01.30-10.04.19:570][806]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FieldMap
+[2018.01.30-10.04.19:592][806]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022136s)
+[2018.01.30-10.04.19:593][806]LogAIModule: Creating AISystem for world FieldMap
+[2018.01.30-10.04.19:594][806]LogPlayLevel: PIE: World Init took: (0.001322s)
+[2018.01.30-10.04.19:594][806]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FieldMap.FieldMap to /Game/Maps/UEDPIE_0_FieldMap.FieldMap (0.024054s)
+[2018.01.30-10.04.19:698][806]LogInit: XAudio2 using 'スピーカー / ヘッドホン (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.30-10.04.19:745][806]LogInit: FAudioDevice initialized.
+[2018.01.30-10.04.19:789][806]LogLoad: Game class is 'GameModeBase'
+[2018.01.30-10.04.19:805][806]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FieldMap.FieldMap up for play (max tick rate 0) at 2018.01.30-19.04.19
+[2018.01.30-10.04.19:807][806]LogWorld: Bringing up level for play took: 0.015696
+[2018.01.30-10.04.19:814][806]PIE: /Game/Maps/UEDPIE_0_FieldMap -0.436のプレイ イン エディタの開始時間
+[2018.01.30-10.05.25:268][636]LogTemp: Repeating last play command: 選択ビューポート
+[2018.01.30-10.05.25:358][636]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.30-10.05.25:360][636]PIE: New page: PIEセッション: FieldMap (2018/01/31 4:05:25)
+[2018.01.30-10.05.25:361][636]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FieldMap
+[2018.01.30-10.05.25:436][636]LogPlayLevel: PIE: StaticDuplicateObject took: (0.075200s)
+[2018.01.30-10.05.25:437][636]LogAIModule: Creating AISystem for world FieldMap
+[2018.01.30-10.05.25:438][636]LogPlayLevel: PIE: World Init took: (0.001894s)
+[2018.01.30-10.05.25:439][636]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FieldMap.FieldMap to /Game/Maps/UEDPIE_0_FieldMap.FieldMap (0.078085s)
+[2018.01.30-10.05.25:467][636]LogInit: XAudio2 using 'スピーカー / ヘッドホン (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.30-10.05.25:486][636]LogInit: FAudioDevice initialized.
+[2018.01.30-10.05.25:519][636]LogLoad: Game class is 'GameModeBase'
+[2018.01.30-10.05.25:524][636]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FieldMap.FieldMap up for play (max tick rate 0) at 2018.01.30-19.05.25
+[2018.01.30-10.05.25:525][636]LogWorld: Bringing up level for play took: 0.005080
+[2018.01.30-10.05.25:527][636]PIE: /Game/Maps/UEDPIE_0_FieldMap -0.723のプレイ イン エディタの開始時間
+[2018.01.30-10.06.42:613][939]LogEditorViewport: Clicking on Actor (LMB): PlayerCharacter_C (PlayerCharacter)
+[2018.01.30-10.06.58:966][299]LogTemp: Repeating last play command: 選択ビューポート
+[2018.01.30-10.06.59:059][299]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.30-10.06.59:060][299]PIE: New page: PIEセッション: FieldMap (2018/01/31 4:06:59)
+[2018.01.30-10.06.59:060][299]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FieldMap
+[2018.01.30-10.06.59:104][299]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043834s)
+[2018.01.30-10.06.59:105][299]LogAIModule: Creating AISystem for world FieldMap
+[2018.01.30-10.06.59:106][299]LogPlayLevel: PIE: World Init took: (0.001470s)
+[2018.01.30-10.06.59:106][299]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FieldMap.FieldMap to /Game/Maps/UEDPIE_0_FieldMap.FieldMap (0.045939s)
+[2018.01.30-10.06.59:158][299]LogInit: XAudio2 using 'スピーカー / ヘッドホン (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.30-10.06.59:195][299]LogInit: FAudioDevice initialized.
+[2018.01.30-10.06.59:235][299]LogLoad: Game class is 'GameModeBase'
+[2018.01.30-10.06.59:252][299]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FieldMap.FieldMap up for play (max tick rate 0) at 2018.01.30-19.06.59
+[2018.01.30-10.06.59:254][299]LogWorld: Bringing up level for play took: 0.016454
+[2018.01.30-10.06.59:262][299]PIE: /Game/Maps/UEDPIE_0_FieldMap 1.011のプレイ イン エディタの開始時間
+[2018.01.30-10.07.52:780][362]LogSavePackage: Save=37.69ms
+[2018.01.30-10.07.52:780][362]LogSavePackage: Moving '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Saved/SM_Plains_Ruin_BuildingLOD02AA0B38444F031D6EA42D9E900E36F1A4.tmp' to '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Ruin_BuildingLOD02.uasset'
+[2018.01.30-10.07.52:793][362]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Ruin_BuildingLOD02.uasset
+[2018.01.30-10.08.15:785][847]LogTemp: Repeating last play command: 選択ビューポート
+[2018.01.30-10.08.15:887][847]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.30-10.08.15:887][847]PIE: New page: PIEセッション: FieldMap (2018/01/31 4:08:15)
+[2018.01.30-10.08.15:888][847]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FieldMap
+[2018.01.30-10.08.15:916][847]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028924s)
+[2018.01.30-10.08.15:918][847]LogAIModule: Creating AISystem for world FieldMap
+[2018.01.30-10.08.15:918][847]LogPlayLevel: PIE: World Init took: (0.001573s)
+[2018.01.30-10.08.15:919][847]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FieldMap.FieldMap to /Game/Maps/UEDPIE_0_FieldMap.FieldMap (0.031106s)
+[2018.01.30-10.08.15:944][847]LogInit: XAudio2 using 'スピーカー / ヘッドホン (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.30-10.08.15:959][847]LogInit: FAudioDevice initialized.
+[2018.01.30-10.08.15:993][847]LogLoad: Game class is 'GameModeBase'
+[2018.01.30-10.08.15:998][847]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FieldMap.FieldMap up for play (max tick rate 0) at 2018.01.30-19.08.15
+[2018.01.30-10.08.15:998][847]LogWorld: Bringing up level for play took: 0.004633
+[2018.01.30-10.08.16:000][847]PIE: /Game/Maps/UEDPIE_0_FieldMap -0.25のプレイ イン エディタの開始時間
+[2018.01.30-10.08.22:346][ 37]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-10.08.22:346][ 37]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-10.08.22:380][ 38]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-10.08.22:380][ 38]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-10.08.22:417][ 39]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-10.08.22:418][ 39]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-10.08.22:448][ 40]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-10.08.22:448][ 40]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-10.08.22:478][ 41]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-10.08.22:478][ 41]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-10.08.22:511][ 42]LogBlueprintUserMessages: [None] Hello
+[2018.01.30-10.08.24:580][104]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-10.08.24:580][104]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-10.08.24:612][105]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-10.08.24:612][105]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-10.08.24:644][106]LogBlueprintUserMessages: [None] Hello
+[2018.01.30-10.08.25:179][122]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/nishikawa/PlayerBP/Animations/great_sword_casting.great_sword_casting
+[2018.01.30-10.08.25:247][124]LogBlueprintUserMessages: [None] Hello
+[2018.01.30-10.08.25:277][125]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-10.08.25:278][125]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-10.08.25:311][126]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-10.08.25:311][126]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-10.08.25:344][127]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-10.08.25:344][127]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-10.08.27:078][179]LogBlueprintUserMessages: [None] Hello
+[2018.01.30-10.08.27:113][180]LogBlueprintUserMessages: [None] Hello
+[2018.01.30-10.08.27:147][181]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-10.08.27:147][181]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-10.08.27:177][182]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-10.08.27:177][182]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-10.08.27:210][183]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-10.08.27:210][183]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-10.08.27:245][184]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-10.08.27:245][184]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-10.08.29:344][247]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-10.08.29:344][247]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-10.08.29:377][248]LogBlueprintUserMessages: [None] Hello
+[2018.01.30-10.08.29:411][249]LogBlueprintUserMessages: [None] Hello
+[2018.01.30-10.08.30:044][268]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-10.08.30:044][268]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-10.08.30:077][269]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-10.08.30:077][269]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-10.08.30:112][270]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-10.08.30:112][270]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-10.08.30:546][283]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/nishikawa/PlayerBP/Animations/great_sword_casting.great_sword_casting
+[2018.01.30-10.08.31:843][322]LogBlueprintUserMessages: [None] Hello
+[2018.01.30-10.08.31:876][323]LogBlueprintUserMessages: [None] Hello
+[2018.01.30-10.08.31:909][324]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-10.08.31:909][324]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-10.08.31:943][325]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-10.08.31:943][325]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-10.08.31:978][326]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-10.08.31:978][326]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-10.08.32:012][327]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-10.08.32:012][327]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-10.08.34:913][414]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-10.08.34:913][414]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-10.08.34:946][415]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-10.08.34:947][415]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-10.08.34:978][416]LogBlueprintUserMessages: [None] Hello
+[2018.01.30-10.08.35:010][417]LogBlueprintUserMessages: [None] Hello
+[2018.01.30-10.08.35:046][418]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-10.08.35:046][418]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-10.08.35:078][419]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-10.08.35:078][419]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-10.08.36:178][452]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-10.08.36:178][452]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-10.08.36:245][454]LogBlueprintUserMessages: [None] Hello
+[2018.01.30-10.08.36:280][455]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-10.08.36:280][455]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-10.08.36:310][456]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-10.08.36:310][456]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-10.08.36:343][457]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.01.30-10.08.36:343][457]LogScriptCore: Error: Script call stack:
+	EnemyAttackNotifyState_C.Received_NotifyTick
+
+[2018.01.30-10.08.58:307][116]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/nishikawa/PlayerBP/Animations/great_sword_casting.great_sword_casting
+[2018.01.30-10.09.54:511][166]BlueprintLog: New page: PlayerBullet をコンパイル
+[2018.01.30-10.09.55:718][174]LogSavePackage: Save=38.36ms
+[2018.01.30-10.09.55:718][174]LogSavePackage: Moving '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Saved/PlayerBullet28E6E85340B3022AC2ED4092BCC09F2A.tmp' to '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Content/nishikawa/PlayerBP/Character/Bullet/PlayerBullet.uasset'
+[2018.01.30-10.09.55:724][174]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Content/nishikawa/PlayerBP/Character/Bullet/PlayerBullet.uasset
+[2018.01.30-10.09.59:666][240]LogTemp: Repeating last play command: 選択ビューポート
+[2018.01.30-10.09.59:751][240]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.30-10.09.59:751][240]PIE: New page: PIEセッション: FieldMap (2018/01/31 4:09:59)
+[2018.01.30-10.09.59:751][240]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FieldMap
+[2018.01.30-10.09.59:803][240]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051139s)
+[2018.01.30-10.09.59:806][240]LogAIModule: Creating AISystem for world FieldMap
+[2018.01.30-10.09.59:807][240]LogPlayLevel: PIE: World Init took: (0.003251s)
+[2018.01.30-10.09.59:807][240]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FieldMap.FieldMap to /Game/Maps/UEDPIE_0_FieldMap.FieldMap (0.055201s)
+[2018.01.30-10.09.59:840][240]LogInit: XAudio2 using 'スピーカー / ヘッドホン (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.30-10.09.59:861][240]LogInit: FAudioDevice initialized.
+[2018.01.30-10.09.59:896][240]LogLoad: Game class is 'GameModeBase'
+[2018.01.30-10.09.59:909][240]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FieldMap.FieldMap up for play (max tick rate 0) at 2018.01.30-19.09.59
+[2018.01.30-10.09.59:911][240]LogWorld: Bringing up level for play took: 0.013396
+[2018.01.30-10.09.59:917][240]PIE: /Game/Maps/UEDPIE_0_FieldMap -0.333のプレイ イン エディタの開始時間
+[2018.01.30-10.10.04:007][362]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/nishikawa/PlayerBP/Animations/great_sword_casting.great_sword_casting
+[2018.01.30-10.10.19:254][801]LogEditorViewport: Clicking on Actor (LMB): PlayerCharacter_C (PlayerCharacter)
+[2018.01.30-10.10.51:545][688]LogTemp: Repeating last play command: 選択ビューポート
+[2018.01.30-10.10.51:584][688]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.30-10.10.51:585][688]PIE: New page: PIEセッション: FieldMap (2018/01/31 4:10:51)
+[2018.01.30-10.10.51:585][688]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FieldMap
+[2018.01.30-10.10.51:611][688]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026200s)
+[2018.01.30-10.10.51:612][688]LogAIModule: Creating AISystem for world FieldMap
+[2018.01.30-10.10.51:613][688]LogPlayLevel: PIE: World Init took: (0.001226s)
+[2018.01.30-10.10.51:613][688]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FieldMap.FieldMap to /Game/Maps/UEDPIE_0_FieldMap.FieldMap (0.028048s)
+[2018.01.30-10.10.51:669][688]LogInit: XAudio2 using 'スピーカー / ヘッドホン (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.30-10.10.51:690][688]LogInit: FAudioDevice initialized.
+[2018.01.30-10.10.51:725][688]LogLoad: Game class is 'GameModeBase'
+[2018.01.30-10.10.51:731][688]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FieldMap.FieldMap up for play (max tick rate 0) at 2018.01.30-19.10.51
+[2018.01.30-10.10.51:731][688]LogWorld: Bringing up level for play took: 0.005419
+[2018.01.30-10.10.51:734][688]PIE: /Game/Maps/UEDPIE_0_FieldMap -0.516のプレイ イン エディタの開始時間
+[2018.01.30-10.10.56:067][819]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/nishikawa/PlayerBP/Animations/great_sword_casting.great_sword_casting
+[2018.01.30-10.11.02:732][ 19]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/nishikawa/PlayerBP/Animations/great_sword_casting.great_sword_casting
+[2018.01.30-10.11.22:857][451]BlueprintLog: New page: PlayerBullet をコンパイル
+[2018.01.30-10.11.24:560][468]LogSavePackage: Save=45.34ms
+[2018.01.30-10.11.24:560][468]LogSavePackage: Moving '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Saved/PlayerBullet37F251FA422D016653DE8884C17C6A0E.tmp' to '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Content/nishikawa/PlayerBP/Character/Bullet/PlayerBullet.uasset'
+[2018.01.30-10.11.24:567][468]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Content/nishikawa/PlayerBP/Character/Bullet/PlayerBullet.uasset
+[2018.01.30-10.11.26:881][505]LogTemp: Repeating last play command: 選択ビューポート
+[2018.01.30-10.11.26:983][505]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.30-10.11.26:983][505]PIE: New page: PIEセッション: FieldMap (2018/01/31 4:11:26)
+[2018.01.30-10.11.26:984][505]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FieldMap
+[2018.01.30-10.11.27:012][505]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028275s)
+[2018.01.30-10.11.27:013][505]LogAIModule: Creating AISystem for world FieldMap
+[2018.01.30-10.11.27:013][505]LogPlayLevel: PIE: World Init took: (0.001311s)
+[2018.01.30-10.11.27:014][505]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FieldMap.FieldMap to /Game/Maps/UEDPIE_0_FieldMap.FieldMap (0.030309s)
+[2018.01.30-10.11.27:040][505]LogInit: XAudio2 using 'スピーカー / ヘッドホン (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.30-10.11.27:060][505]LogInit: FAudioDevice initialized.
+[2018.01.30-10.11.27:142][505]LogLoad: Game class is 'GameModeBase'
+[2018.01.30-10.11.27:148][505]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FieldMap.FieldMap up for play (max tick rate 0) at 2018.01.30-19.11.27
+[2018.01.30-10.11.27:149][505]LogWorld: Bringing up level for play took: 0.005573
+[2018.01.30-10.11.27:155][505]PIE: /Game/Maps/UEDPIE_0_FieldMap 0.905のプレイ イン エディタの開始時間
+[2018.01.30-10.11.31:374][569]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/nishikawa/PlayerBP/Animations/great_sword_casting.great_sword_casting
+[2018.01.30-10.11.46:902][848]BlueprintLog: New page: PlayerBullet をコンパイル
+[2018.01.30-10.11.48:294][860]LogSavePackage: Save=40.68ms
+[2018.01.30-10.11.48:294][860]LogSavePackage: Moving '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Saved/PlayerBulletFF010D204BCF012C1C1BE2BFFF978C0D.tmp' to '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Content/nishikawa/PlayerBP/Character/Bullet/PlayerBullet.uasset'
+[2018.01.30-10.11.48:298][860]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Content/nishikawa/PlayerBP/Character/Bullet/PlayerBullet.uasset
+[2018.01.30-10.13.43:863][938]BlueprintLog: New page: PlayerBullet をコンパイル
+[2018.01.30-10.13.50:961][ 63]BlueprintLog: New page: PlayerBullet をコンパイル
+[2018.01.30-10.13.52:145][ 73]LogSavePackage: Save=21.73ms
+[2018.01.30-10.13.52:145][ 73]LogSavePackage: Moving '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Saved/PlayerBullet5E87E36F4BDFC63141F21DA372C70170.tmp' to '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Content/nishikawa/PlayerBP/Character/Bullet/PlayerBullet.uasset'
+[2018.01.30-10.13.52:150][ 73]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Content/nishikawa/PlayerBP/Character/Bullet/PlayerBullet.uasset
+[2018.01.30-10.13.54:496][109]LogTemp: Repeating last play command: 選択ビューポート
+[2018.01.30-10.13.54:534][109]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.30-10.13.54:534][109]PIE: New page: PIEセッション: FieldMap (2018/01/31 4:13:54)
+[2018.01.30-10.13.54:534][109]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FieldMap
+[2018.01.30-10.13.54:568][109]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034019s)
+[2018.01.30-10.13.54:569][109]LogAIModule: Creating AISystem for world FieldMap
+[2018.01.30-10.13.54:569][109]LogPlayLevel: PIE: World Init took: (0.001402s)
+[2018.01.30-10.13.54:570][109]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FieldMap.FieldMap to /Game/Maps/UEDPIE_0_FieldMap.FieldMap (0.035884s)
+[2018.01.30-10.13.54:596][109]LogInit: XAudio2 using 'スピーカー / ヘッドホン (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.30-10.13.54:615][109]LogInit: FAudioDevice initialized.
+[2018.01.30-10.13.54:697][109]LogLoad: Game class is 'GameModeBase'
+[2018.01.30-10.13.54:703][109]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FieldMap.FieldMap up for play (max tick rate 0) at 2018.01.30-19.13.54
+[2018.01.30-10.13.54:704][109]LogWorld: Bringing up level for play took: 0.005943
+[2018.01.30-10.13.54:712][109]PIE: /Game/Maps/UEDPIE_0_FieldMap 0.462のプレイ イン エディタの開始時間
+[2018.01.30-10.14.01:878][217]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/nishikawa/PlayerBP/Animations/great_sword_casting.great_sword_casting
+[2018.01.30-10.14.19:973][589]BlueprintLog: New page: PlayerBullet をコンパイル
+[2018.01.30-10.14.21:072][597]LogSavePackage: Save=34.53ms
+[2018.01.30-10.14.21:072][597]LogSavePackage: Moving '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Saved/PlayerBullet53362485457A5CA45DC2EC81E03E9977.tmp' to '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Content/nishikawa/PlayerBP/Character/Bullet/PlayerBullet.uasset'
+[2018.01.30-10.14.21:077][597]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Content/nishikawa/PlayerBP/Character/Bullet/PlayerBullet.uasset
+[2018.01.30-10.15.51:231][828]LogSavePackage: Save=409.49ms
+[2018.01.30-10.15.51:231][828]LogSavePackage: Moving '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Saved/FieldMap_Auto62632F7F7473F520A677725B1F17D1DF0.tmp' to '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Saved/Autosaves/Game/Maps/FieldMap_Auto6.umap'
+[2018.01.30-10.15.51:237][828]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Saved/Autosaves/Game/Maps/FieldMap_Auto6.umap
+[2018.01.30-10.15.51:244][828]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/FieldMap' took 0.490
+[2018.01.30-10.15.51:244][828]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.490
+[2018.01.30-10.15.51:251][828]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/EnemyCharacter/EnemyAnimation] ([1] browsable assets)...
+[2018.01.30-10.15.51:410][828]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/EnemyCharacter/EnemyAnimation.EnemyAnimation]
+[2018.01.30-10.15.51:410][828]OBJ SavePackage: Finished generating thumbnails for package [/Game/EnemyCharacter/EnemyAnimation]
+[2018.01.30-10.15.51:813][828]LogSavePackage: Save=272.14ms
+[2018.01.30-10.15.51:813][828]LogSavePackage: Moving '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Saved/EnemyAnimation_Auto63ECFA5C24B7A76D7BCF5F48940F940F8.tmp' to '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Saved/Autosaves/Game/EnemyCharacter/EnemyAnimation_Auto6.uasset'
+[2018.01.30-10.15.51:815][828]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Saved/Autosaves/Game/EnemyCharacter/EnemyAnimation_Auto6.uasset
+[2018.01.30-10.15.51:816][828]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/EnemyCharacter/Animation/EnemyAttackNotifyState] ([1] browsable assets)...
+[2018.01.30-10.15.51:816][828]OBJ SavePackage: Finished generating thumbnails for package [/Game/EnemyCharacter/Animation/EnemyAttackNotifyState]
+[2018.01.30-10.15.51:902][828]LogSavePackage: Save=65.97ms
+[2018.01.30-10.15.51:902][828]LogSavePackage: Moving '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Saved/EnemyAttackNotifyState_Auto60A570A114B5B802093AD1DBE5AA7AE88.tmp' to '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Saved/Autosaves/Game/EnemyCharacter/Animation/EnemyAttackNotifyState_Auto6.uasset'
+[2018.01.30-10.15.51:904][828]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Saved/Autosaves/Game/EnemyCharacter/Animation/EnemyAttackNotifyState_Auto6.uasset
+[2018.01.30-10.15.51:905][828]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/EnemyCharacter/AI/BTTask_FindPlayer] ([1] browsable assets)...
+[2018.01.30-10.15.51:905][828]OBJ SavePackage: Finished generating thumbnails for package [/Game/EnemyCharacter/AI/BTTask_FindPlayer]
+[2018.01.30-10.15.52:003][828]LogSavePackage: Save=61.86ms
+[2018.01.30-10.15.52:003][828]LogSavePackage: Moving '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Saved/BTTask_FindPlayer_Auto636E6CE514B102DAF4474D398DE890283.tmp' to '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Saved/Autosaves/Game/EnemyCharacter/AI/BTTask_FindPlayer_Auto6.uasset'
+[2018.01.30-10.15.52:005][828]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Saved/Autosaves/Game/EnemyCharacter/AI/BTTask_FindPlayer_Auto6.uasset
+[2018.01.30-10.15.52:005][828]LogFileHelpers: Auto-saving content packages took 0.756
+[2018.01.30-10.17.26:636][738]LogTemp: Repeating last play command: 選択ビューポート
+[2018.01.30-10.17.26:729][738]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.30-10.17.26:730][738]PIE: New page: PIEセッション: FieldMap (2018/01/31 4:17:26)
+[2018.01.30-10.17.26:730][738]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FieldMap
+[2018.01.30-10.17.26:772][738]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042088s)
+[2018.01.30-10.17.26:774][738]LogAIModule: Creating AISystem for world FieldMap
+[2018.01.30-10.17.26:775][738]LogPlayLevel: PIE: World Init took: (0.001995s)
+[2018.01.30-10.17.26:775][738]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FieldMap.FieldMap to /Game/Maps/UEDPIE_0_FieldMap.FieldMap (0.044987s)
+[2018.01.30-10.17.26:807][738]LogInit: XAudio2 using 'スピーカー / ヘッドホン (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.30-10.17.26:822][738]LogInit: FAudioDevice initialized.
+[2018.01.30-10.17.26:899][738]LogLoad: Game class is 'GameModeBase'
+[2018.01.30-10.17.26:911][738]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FieldMap.FieldMap up for play (max tick rate 0) at 2018.01.30-19.17.26
+[2018.01.30-10.17.26:913][738]LogWorld: Bringing up level for play took: 0.012091
+[2018.01.30-10.17.26:922][738]PIE: /Game/Maps/UEDPIE_0_FieldMap 0.671のプレイ イン エディタの開始時間
+[2018.01.30-10.17.27:089][739]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.091833 > MaxSimulationTimeStep (0.050) for 'PlayerCharacter_2645', movement 'Walking'
+[2018.01.30-10.17.31:237][803]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/nishikawa/PlayerBP/Animations/great_sword_casting.great_sword_casting
+[2018.01.30-10.20.23:235][268]LogTemp: Repeating last play command: 選択ビューポート
+[2018.01.30-10.20.23:309][268]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.30-10.20.23:310][268]PIE: New page: PIEセッション: FieldMap (2018/01/31 4:20:23)
+[2018.01.30-10.20.23:310][268]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FieldMap
+[2018.01.30-10.20.23:360][268]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050302s)
+[2018.01.30-10.20.23:362][268]LogAIModule: Creating AISystem for world FieldMap
+[2018.01.30-10.20.23:363][268]LogPlayLevel: PIE: World Init took: (0.002323s)
+[2018.01.30-10.20.23:363][268]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FieldMap.FieldMap to /Game/Maps/UEDPIE_0_FieldMap.FieldMap (0.053518s)
+[2018.01.30-10.20.23:420][268]LogInit: XAudio2 using 'スピーカー / ヘッドホン (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.30-10.20.23:458][268]LogInit: FAudioDevice initialized.
+[2018.01.30-10.20.23:553][268]LogLoad: Game class is 'GameModeBase'
+[2018.01.30-10.20.23:563][268]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FieldMap.FieldMap up for play (max tick rate 0) at 2018.01.30-19.20.23
+[2018.01.30-10.20.23:566][268]LogWorld: Bringing up level for play took: 0.010784
+[2018.01.30-10.20.23:574][268]PIE: /Game/Maps/UEDPIE_0_FieldMap -0.676のプレイ イン エディタの開始時間
+[2018.01.30-10.22.33:360][165]BlueprintLog: New page: PlayerCharacter をコンパイル
+[2018.01.30-10.24.00:075][674]BlueprintLog: New page: PlayerUI をコンパイル
+[2018.01.30-10.24.01:930][698]LogSavePackage: Save=25.20ms
+[2018.01.30-10.24.01:930][698]LogSavePackage: Moving '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Saved/PlayerUIFC5056A545B048EF8621649E8EFCB702.tmp' to '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Content/nishikawa/PlayerBP/Character/Blueprints/PlayerUI.uasset'
+[2018.01.30-10.24.01:935][698]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Content/nishikawa/PlayerBP/Character/Blueprints/PlayerUI.uasset
+[2018.01.30-10.24.05:829][755]LogTemp: Repeating last play command: 選択ビューポート
+[2018.01.30-10.24.06:038][755]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.30-10.24.06:038][755]PIE: New page: PIEセッション: FieldMap (2018/01/31 4:24:06)
+[2018.01.30-10.24.06:039][755]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FieldMap
+[2018.01.30-10.24.06:086][755]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046928s)
+[2018.01.30-10.24.06:087][755]LogAIModule: Creating AISystem for world FieldMap
+[2018.01.30-10.24.06:088][755]LogPlayLevel: PIE: World Init took: (0.002138s)
+[2018.01.30-10.24.06:089][755]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FieldMap.FieldMap to /Game/Maps/UEDPIE_0_FieldMap.FieldMap (0.049677s)
+[2018.01.30-10.24.06:119][755]LogInit: XAudio2 using 'スピーカー / ヘッドホン (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.30-10.24.06:146][755]LogInit: FAudioDevice initialized.
+[2018.01.30-10.24.06:178][755]LogLoad: Game class is 'GameModeBase'
+[2018.01.30-10.24.06:185][755]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FieldMap.FieldMap up for play (max tick rate 0) at 2018.01.30-19.24.06
+[2018.01.30-10.24.06:185][755]LogWorld: Bringing up level for play took: 0.006249
+[2018.01.30-10.24.06:188][755]PIE: /Game/Maps/UEDPIE_0_FieldMap -0.062のプレイ イン エディタの開始時間
+[2018.01.30-10.25.30:408][169]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.01.30-10.25.48:088][478]BlueprintLog: New page: FieldMap をコンパイル
+[2018.01.30-10.25.48:970][487]LogTemp: Repeating last play command: 選択ビューポート
+[2018.01.30-10.25.49:061][487]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FieldMap.FieldMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FieldMap.FieldMap:PersistentLevel.FieldMap' with GeneratedClass '/Game/Maps/FieldMap.FieldMap_C' with ClassGeneratedBy '/Game/Maps/FieldMap.FieldMap:PersistentLevel.FieldMap'
+[2018.01.30-10.25.49:062][487]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.30-10.25.49:062][487]PIE: New page: PIEセッション: FieldMap (2018/01/31 4:25:49)
+[2018.01.30-10.25.49:062][487]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FieldMap
+[2018.01.30-10.25.49:109][487]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046519s)
+[2018.01.30-10.25.49:110][487]LogAIModule: Creating AISystem for world FieldMap
+[2018.01.30-10.25.49:111][487]LogPlayLevel: PIE: World Init took: (0.001866s)
+[2018.01.30-10.25.49:111][487]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FieldMap.FieldMap to /Game/Maps/UEDPIE_0_FieldMap.FieldMap (0.048898s)
+[2018.01.30-10.25.49:147][487]LogInit: XAudio2 using 'スピーカー / ヘッドホン (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.30-10.25.49:172][487]LogInit: FAudioDevice initialized.
+[2018.01.30-10.25.49:258][487]LogLoad: Game class is 'GameModeBase'
+[2018.01.30-10.25.49:267][487]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FieldMap.FieldMap up for play (max tick rate 0) at 2018.01.30-19.25.49
+[2018.01.30-10.25.49:271][487]LogWorld: Bringing up level for play took: 0.011710
+[2018.01.30-10.25.49:275][487]PIE: /Game/Maps/UEDPIE_0_FieldMap 1.025のプレイ イン エディタの開始時間
+[2018.01.30-10.25.49:276][487]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/FieldMap.FieldMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FieldMap.FieldMap:PersistentLevel.FieldMap' with GeneratedClass '/Game/Maps/FieldMap.FieldMap_C' with ClassGeneratedBy '/Game/Maps/FieldMap.FieldMap:PersistentLevel.FieldMap'
+[2018.01.30-10.25.49:392][488]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.091980 > MaxSimulationTimeStep (0.050) for 'PlayerCharacter_2645', movement 'Walking'
+[2018.01.30-10.25.50:691][509]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/FieldMap.FieldMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FieldMap.FieldMap:PersistentLevel.FieldMap' with GeneratedClass '/Game/Maps/FieldMap.FieldMap_C' with ClassGeneratedBy '/Game/Maps/FieldMap.FieldMap:PersistentLevel.FieldMap'
+[2018.01.30-10.25.50:811][509]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/FieldMap.FieldMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FieldMap.FieldMap:PersistentLevel.FieldMap' with GeneratedClass '/Game/Maps/FieldMap.FieldMap_C' with ClassGeneratedBy '/Game/Maps/FieldMap.FieldMap:PersistentLevel.FieldMap'
+[2018.01.30-10.26.02:967][783]LogSavePackage: Save=53.79ms
+[2018.01.30-10.26.02:967][783]LogSavePackage: Moving '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Saved/PlayerUI900C2A994F994211E0D7078113C6D030.tmp' to '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Content/nishikawa/PlayerBP/Character/Blueprints/PlayerUI.uasset'
+[2018.01.30-10.26.02:972][783]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Content/nishikawa/PlayerBP/Character/Blueprints/PlayerUI.uasset
+[2018.01.30-10.26.06:832][826]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/FieldMap" FILE="../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Content/Maps/FieldMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.01.30-10.26.07:342][826]LogSavePackage: Save=452.01ms
+[2018.01.30-10.26.07:342][826]LogSavePackage: Moving '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Saved/FieldMapC0E723D4455849E21039CEAC25CC1216.tmp' to '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Content/Maps/FieldMap.umap'
+[2018.01.30-10.26.07:353][826]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Content/Maps/FieldMap.umap
+[2018.01.30-10.26.07:423][826]LogFileHelpers: Saving map 'FieldMap' took 2.164
