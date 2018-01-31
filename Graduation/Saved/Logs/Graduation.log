@@ -7204,6 +7204,8 @@ LogInit: Object subsystem initialized
 [2018.01.31-07.42.44:372][405]LogSavePackage: Save=442.21ms
 [2018.01.31-07.42.44:372][405]LogSavePackage: Moving '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Saved/FieldMap608F6637462F70B4A4EC56828418C33F.tmp' to '../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Content/Maps/FieldMap.umap'
 [2018.01.31-07.42.44:379][405]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/yudai nishikawa/Desktop/git/Graduation/Graduation/Content/Maps/FieldMap.umap
+<<<<<<< HEAD
+=======
 [2018.01.31-07.48.06:058][779]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/nishikawa/PlayerBP/Animations/PlayerAnimBP.
 [2018.01.31-07.48.06:249][780]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/nishikawa/PlayerBP/Character/Blueprints/OriginalGameMode.
 [2018.01.31-07.48.06:254][780]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/nishikawa/PlayerBP/Character/Blueprints/PlayerAttackState.
@@ -7212,3 +7214,4 @@ LogInit: Object subsystem initialized
 [2018.01.31-07.48.06:276][780]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/nishikawa/PlayerBP/Character/Blueprints/PlayerCharacter.
 [2018.01.31-07.48.06:284][780]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/nishikawa/PlayerBP/Character/Blueprints/PlayerUI.
 [2018.01.31-07.48.06:291][780]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/nishikawa/PlayerBP/Character/Bullet/PlayerBullet.
+>>>>>>> master
