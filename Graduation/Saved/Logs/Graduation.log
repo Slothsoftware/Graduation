@@ -7226,6 +7226,7 @@ LogInit: Object subsystem initialized
 [2018.01.31-07.48.06:284][780]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/nishikawa/PlayerBP/Character/Blueprints/PlayerUI.
 [2018.01.31-07.48.06:291][780]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/nishikawa/PlayerBP/Character/Bullet/PlayerBullet.
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> master
 =======
 [2018.01.31-05.38.55:082][  0]LogInit: Selected Device Profile: [Windows]
@@ -7699,5 +7700,7 @@ LogInit: Object subsystem initialized
 [2018.01.31-05.41.15:224][785]LogExit: Exiting.
 [2018.01.31-05.41.15:244][785]Log file closed, 01/31/18 14:41:15
 >>>>>>> parent of 9c03e11... koya
+=======
+>>>>>>> parent of e2d08e0... Merge pull request #13 from Slothsoftware/yudai
 =======
 >>>>>>> parent of e2d08e0... Merge pull request #13 from Slothsoftware/yudai
